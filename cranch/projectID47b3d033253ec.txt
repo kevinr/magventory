@@ -1,0 +1,442 @@
+
+-----File: scn.0.jpg---\mkr\dnawi\-----------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: *JSB*, KCR
+Time Start: 12:57
+Time End:
+Collection: SR
+Magazine Name: Pile *fi*s*y randoms
+Structure:
+Notes: Collection of randoms
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+3, 1955, 7/55, 8/55, 26, 27, U, *M'as alla* (Spanish?) 27 needs repair
+71, 1949, 10/49, , , , U, *Narant*** Terr**** (Italian?)
+1, 1957, M**j**, Guiy**, 7, 9, U, Alfa-Tau (Italian?)  2 issues only
+?, ?, , , 3, 4, U, Il Scrittori Del Futu*ro* (Italian?)
+?, ?, , , 1, , U, Planet (Dutch *?*)
+, , , , 1, 3, U, Proxima (Italian?) 196*? *65*?
+, 1975, 45, , 65, , U, Nueva Dimension (Spanish?)
+, 1972, , , 1, 2, U, Gala*letila* (?)
+, , , , *1, 4, 13 only*, U, Cien*cia* y Fant*asia* (Italian?)
+, 1958, ?, 5/58, 1, 2, U, Cosmic (*Italian?*)
+, , 12/59 */* */* */*, *[more illegible stuff]* 3, 6, 12, 22 only, U, C*rache* del Futu*ro* Later ones are "Le Ch***..." (Italian?)(French?)
+
+, 1963, , , 1 2 3 4 6 *7 or 9*, U, Fantasia e Fantas*eimzs* (Italian)
+, , , ,     *[dates for the above 12, 1 2 4 6 & 9/63?]
+-----File: scn.1.jpg---\mkr\dnawi\-----------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB, KCR
+Time Start:12:52
+Time End:
+Collection: SR
+Magazine Name: Fiction
+Structure: monthly
+Notes: French
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1962, 7/62, 11/62, 104, 109, B
+, 1963, 1/63, 6/63, 110, 115, B
+, 1963, 7/63, 12/63, 116, 121, B
+, 1964, 1/64, 6/64, 122, 127, B
+, 1964, 7/64, 12/64, 128, 133, B
+, 1965, 1/65, 6/65, 134, 139, B
+, 1965, 7/65, 12/65, 140, 145, B
+-----File: scn.10.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: 1355
+Time End:1355
+Collection: Circulating
+Magazine Name: Aphelion
+Structure: quarterly, other (? 1985-1986)
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+-, 1985/1986, summer, summer, 1, 1, U
+
+[** this page is very hard to make out!]
+-----File: scn.11.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: 1956
+Time End: 1956
+Collection: Circulating
+Magazine Name: Astonishing Stories
+Structure: other (no data) [**?]
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1940, Aug, Aug, 4, 4, U
+-----File: scn.12.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: 1356
+Time End: ->
+Collection: circulating
+Magazine Name: Astounding Stories
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Contained in which binding
+16, 1935, Oct, Oct, 2, 2, U, "every 3rd wednesday of each month"
+20, 1937-38, Sept, Feb, 1, 6, B,
+21, 1938, March, Aug, 1, 6, B,
+22, 1938-9, Sept, Feb, 1, 6, B,
+23, 1939, March, Aug, 1, 6, B,
+24, 1939-40, Sept, Feb, 1, 6, B,
+25, 1940, March, Aug, 1, 6, B,
+26, 1940-41, Sept, Feb, 1, 6, B,
+28, 1941, Sept, Dec, 1, 4, B,
+28, 1942, Jan, Feb, 5, 6, B,
+29, 1942, March, Aug, 1, 6, B,
+31, 1943, March, Apr, 1, 2, B,
+31, 1943, May, Aug, 3, 6, B,
+32, 1943, Sept, Oct, 1, 2, B,
+30, 1942-3, Sept, Feb, 1, 6, B,
+32, 1943-4, Nov, Feb, 3, 6, B,
+33, 1944, March, Aug, 1, 6, B,
+35, 1945, March, Aug, 1, 6, B,
+34, 1944-5, Sept, Feb, 1, 6, B, some issues bound upside-down
+36, 1945-6, Sept, Feb, 1, 6, B,
+36, 1946, Jan, Feb, 5, 6, B, bad binding/bad condition, 1 binding A
+37, 1946, March, June, 1, 4, B, , 1 binding A
+37, 1946, July, Aug, 5, 6, B, , 1 binding B
+38, 1946, Sept, Dec, 1, 4, B, , 1 binding B
+-----File: scn.13.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Kelsey, Sharmin
+Time Start: <-
+Time End: ->
+Collection: circulating
+Magazine Name: Astounding Stories
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Bindings (by year)
+38, 1947, Jan, Feb, 5, 6, B, , binding 1947A
+39, 1947, March, Jun, 1, 4, B, , binding 1947A
+39, 1947, July, Aug, 5, 6, B, , binding 1947B
+40, 1947, Sept, Dec, 1, 4, B, , binding 1947B
+40, 1948, Jan, Feb, 5, 6, B, , binding 1948A
+41, 1948, March, June, 1, 4, B, typo? (compare with preceding and following vol numbers), binding 1948A
+50, 1948, March, March, 1, 1, B, typo? (compare with preceding and following vol numbers), binding 1948B
+41, 1948, April, Aug, 2, 6, B, , binding 1948B
+42, 1948-9, Sept, Feb, 1, 6, B,
+43, 1949, March, Aug, 1, 6, B,
+44, 1949-50, Sept, Feb, 1, 6, B,
+45, 1950, March, Aug, 1, 6, B,
+46, 1950-1, Sept, Feb, 1, 6, B,
+47, 1951, Mar, Aug, 1, 6, B,
+48, 1951-2, Sept, Feb, 1, 6, B,
+49, 1952, Mar, Aug, 1, 6, B,
+50, 1952-3, Sept, Feb, 1, 6, B,
+51, 1953, Mar, Aug, 1, 6, B,
+52, 1953-4, Sept, Feb, 1, 6, B,
+53, 1954, Mar, Aug, 1, 6, B,
+54, 1954-5, Sept, Feb, 1, 6, B,
+55, 1955, Mar, Aug, 1, 6, B,
+56, 1955-6, Sept, Feb, 1, 6, B,
+57, 1956, Mar, Aug, 1, 6, B,
+-----File: scn.14.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: <-
+Time End: 1428
+Collection: circulating
+Magazine Name: Astounding Stories
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+58, 1956-7, Sept, Feb, 1, 6, B,
+59, 1957, Mar, Aug, 1, 6, B,
+59, 1957, Apr, Apr, 2, 2, U,
+60, 1957-8, Sept, Feb, 1, 6, B,
+61, 1958, Mar, Aug, 1, 6, B,
+62, 1958-9, Sept, Feb, 1, 6, B,
+63, 1959, Mar, Aug, 1, 6, B,
+64, 1959-60, Sept, Feb, 1, 6, B,
+65, 1960, Mar, Aug, 1, 6, B,
+66, 1960-1, Sept, Feb, 1, 6, B,
+67, 1961, Mar, Aug, 1, 6, B,
+-----File: scn.15.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: 1450
+Time End: ->
+Collection: circulating
+Magazine Name: Analog Science Fact + Science Fiction
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+68, 1961, Sept, Dec, 1, 4, U,
+68, 1962, Jan, Feb, 5, 6, U,
+69, 1962, March, Aug, 1, 6, B,
+70, 1962-3, Sept, Feb, 1, 6, B,
+71, 1963, March, Aug, 1, 6, B,
+72, 1963-4, Sept, Feb, 1, 6, B,
+73, 1964, March, Aug, 1, 6, B,
+74, 1964-5, Sept, Feb, 1, 6, B,
+75, 1965, March, Aug, 1, 6, U,
+76, 1965-6, Sept, Feb, 1, 6, U,
+77, 1966, March, Aug, 1, 6, U,
+78, 1966-7, Sept, Feb, 1, 6, U,
+79, 1967, March, Aug, 1, 6, U,
+80, 1967-8, Sept, Feb, 1, 6, U,
+81, 1968, March, Aug, 1, 6, U,
+82, 1968-9, Sept, Feb, 1, 6, U,
+83, 1969, Mar, Aug, 1, 6, U,
+84, 1969-70, Sept, Feb, 1, 6, U,
+85, 1970, Mar, Aug, 1, 6, U,
+86, 1970-1, Sept, Feb, 1, 6, U,
+87, 1971, Mar, Aug, 1, 6, U,
+88, 1971-2, Sept, Feb, 1, 6, U,
+89, 1972, Mar, Aug, 1, 6, U,
+90, 1972-3, Sept, Feb, 1, 6, U,
+-----File: scn.16.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB, KCR
+Time Start: 645
+Time End:
+Collection: SR
+Magazine Name: Science Fiction Chronicle
+Structure: monthly (except when doubled together, [** ??])
+Notes: Probably shouldn't be SR.
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1992, 1/92, 12/92, 13-4, 14-3, U, Aug/Sept combined to be 1 issue
+, 1993, 1/93, 12/93, 14-4, 15-2, U, no November
+, 1994, 1/94, 12/94, 15-3, 16-2, U, no April, Oct/Nov combined
+, 1995, 1/95, 8-9/95, 16-3, 16-9, U, bimonthly after Jan, except May
+, 1995-6, 10-11/95, 12/95-1/96, 17-1, 17-2, U,
+, 1996, 2; 5-6, , 17-3, 17-4, U,
+, 1996, , , 18-1, , U, x2 copies
+, 1997, 4-5; 6, , 18-2, 18-3, U, Apr/May x2 copies
+, 1997, 10; 11, , 19-1, 19-2, U,
+-----File: scn.17.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB + Sukrit
+Time Start: 1:29
+Time End:
+Collection: C/M
+Magazine Name: Doctor Who
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , 4/16/80, , 27, , U, Doctor Who Weekly
+, , 4/23/80, , 28, , U, ^
+, , 2/81, 11/81, 49, 58, U, monthly "Doctor Who"
+, 1987, , , , , U, The Very Best of Doctor Who (summer special)
+-----File: scn.18.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB
+Time Start: 3:34
+Time End:
+Collection: SR
+Magazine Name: Aboriginal Science Fiction
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1986, 10; 12/86, , 1, 2, U,
+, 1987, 2-3; 5-6; 7-8; 9-10; 11-12/87, , 1, 7, U,
+, 1994, Spring 94, , 45 & 46, , U,
+, 1988-90, , , 8, 24, B,
+, 1991-93, , , 25, 43/44, B,
+-----File: scn.19.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 2, 2007
+Workers: JSB
+Time Start: 9:34
+Time End:
+Collection: SR miniprki [** sp?]
+Magazine Name: Amazing Science Fiction
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1977, 3/77, , 50-4, , U,
+-----File: scn.2.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB & KCR
+Time Start: 12:29
+Time End:
+Collection: SR
+Magazine Name: Fantascienza
+Structure: monthly
+Notes: Italian
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 54-55, 11/54, 5/55, 1, 7, B,
+-----File: scn.20.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: ALC
+Time Start: 6:10
+Time End:
+Collection: SR/PM DA#2
+Magazine Name: H"A"PNA! and others
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, *Add'l Notes*
+, 1955-56, JAN, OCT, 1, 10, U, Monthly, HAPNA
+, 56, NOV, DEC, 32, 33, U, ,
+, 57, JAN, , 34, , U, ,
+, 57-62, JAN, DEC, 2, 12, U, Hurrah for regularity!,
+, 63-65, JAN, MAR, 1, 3, U, ,
+, 65, JUL, , 1, , , ,
+, 65, JUN, , 6, , , ,
+, 75, SEP, NOV, 1, 3, U, , Science Fiction
+, 43, JUL, , 29, , U, , Jules Verne Magazine
+, 41, ???, , 38, , U, , ^
+71-75, , JAN, OCT, 350, 356, U, JAN; APR; SEP; DEC; FEB; APR; [** unreadable], ^
+-----File: scn.21.jpg---\dnawi\kevinr\-------------------------------------
+
+-----File: scn.3.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB & KCR
+Time Start: 12:27
+Time End:
+Collection: SR
+Magazine Name: Atlan
+Structure: other (unknown)
+Notes: German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 1, 15, B,
+, , , , 31, 45, B,
+-----File: scn.4.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB & KCR
+Time Start: 12:26
+Time End:
+Collection: SR
+Magazine Name: Abehtiever Im Weltenraum
+Structure: other (unknown)
+Notes: German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 5, 11, B,
+, , , , 12, 19, B,
+-----File: scn.5.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: 1533
+Time End: 1534
+Collection: circulating
+Magazine Name: An Argosy Special: SF
+Structure: other (not given; I suspect this is unique)
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1977, , , , , U,
+-----File: scn.6.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: 1535
+Time End: 1535
+Collection: circulating
+Magazine Name: Ancient Astronauts
+Structure: other (9x/year)
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+3, 1977, Nov, Nov, 6, 6, U,
+-----File: scn.7.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: 1528
+Time End: 1531
+Collection: circulating
+Magazine Name: Auroalis
+Structure: other (June and Dec (2x/year))
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1994, ?, ?, 13, 13, U,
+, 1995, ?, ?, 16, 16, U,
+-----File: scn.8.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2008
+Workers: Sharmin, Kelsey
+Time Start: 1526
+Time End: 1526
+Collection: circulating
+Magazine Name: Asimov's SF Adventure Mag
+Structure: quarterly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1978, Fall, Fall, 1, 1, U,
+-----File: scn.9.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: <-
+Time End: 1524
+Collection: circulating
+Magazine Name: Analog Science Fact + Science Fiction
+Structure: other (13x yearly (extra noted below), changes to 2 special double issues/year in 1991)
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+101, 1981, Jan, Dec, 1, 13, U, twice in March
+102, 1982, Jan, Dec, 1, 13, U, twice in Sept
+103, 1983, Jan, Dec, 1, 13, U, twice in Sept
+104, 1984, Jan, Dec, 1, 13, U, twice in Dec
+105, 1985, Jan, Dec, 1, 13, U, twice in Dec
+106, 1986, Jan, Dec, 1, 13, U, twice in Dec
+107, 1987, Jan, Dec, 1, 13, U, twice in Dec
+108, 1988, Jan, Dec, 1, 13, U, twice in Dec
+109, 1989, Jan, Dec, 1, 13, U, twice in Dec
+110, 1990, Jan, Dec, 1, 14, U, twice in Dec; Jan = 60th anniversary double = issues 1+2
+111, 1991, Jan, Dec, 1, 15, U, special double issue in Jan = issues 1+2; in July = issues 8+9; twice in December
+112, 1992, Jan, Dec, 1, 15, U, Jan, July doubles, twice in Dec
+113, 1993, Jan, Dec, 1, 15, U, ^
+114, 1994, Jan, Dec, 1, 15, U, ^
+115, 1995, Jan, Dec, 1, 15, U, ^
+116, 1996, Jan, Dec, 1, 14, U, 2 double issues (Jan, July); so twice issue
+117, 1997, Jan, Sept, 1, 9, U, missing May; July/Aug merged double = issues 7+8
+118, 1998, July, Oct, 7, 10, U, missing Sept; July/Aug double merged issues

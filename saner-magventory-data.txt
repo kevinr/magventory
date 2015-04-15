@@ -1,0 +1,5172 @@
+
+-----File: mag-000.jpg---\kevinr\dnawi\------------------------------------
+MITSFS Magazine Inventory
+
+Date: 1/22/08
+Workers: KKB
+Time Start:
+Time End:
+Collection: C/M
+Magazine Name:
+Structure:
+Notes: processed in by Magdex.
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Whole Issue #
+97, 1999, 9, 12, 97-3, 97-6, U, Fantasy & Science Fiction, 577-579
+100, 2001, 1, 4, 100-1, 100-4, ^, ^, 591-594
+101, 2001, 9, 12, 101-3, 101-6, ^, ^, 599-601
+104-105, 2003, 2, 12, 104-2, 105-6, ^, ^, 614-623
+106-107, 2004, 1, 12, 106-1, 107-6, ^, ^, 624-634
+108-109, 2005, 1, 7, 108-1, 109-1, ^, ^, 635-641
+109, 2005, 9, , 109-3, , ^, ^, 643
+109, 2005, 12, , 109-6, , ^, ^, 645
+110, 2006, 1, 3, 110-1, 110-3, ^, ^, 646-648
+102, 2002, 1, 5, 102-1, 102-5, ^, ^, 602-606
+103, 2002, 7, 12, 103-1, 103-6, ^, ^, 608-612
+104, 2003, 1, , 104-1, , ^, ^, 613
+-----File: mag-001.jpg---\kevinr\dnawi\------------------------------------
+MITSFS Magazine Inventory
+
+Date: 1/22/08
+Workers: KKB
+Time Start:
+Time End:
+Collection: Reserve, New(ish) Mags
+Magazine Name:
+Structure:
+Notes: processed in from MagDex
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Whole Issue #
+100-101, 2001, 1, 9, 100-1, 101-3, U, Fantasy & Science Fiction, 591-599
+97, 1999, 12, , 97-6, , ^, ^, 579
+103, 2002, 7, , 103-1, , ^, ^, 608
+109, 2005, 8, , 109-2, , ^, , 642
+109, 2005, 10-11, , 109-435, , ^, , 644
+-----File: mag-002.jpg---\kevinr\dnawi\------------------------------------
+MITSFS Magazine Inventory
+
+Date: 1/12/08
+Workers: KKB
+Time Start:
+Time End:
+Collection: New Mags processed from mail
+Magazine Name: misc.
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , 12/07, , 14-2, , U, Realms of Fantasy
+, , , , 1-11, , U, Apex
+, , 1/08, , 114-1, , U, Fantasy & Science Fiction
+, , 11/07, , 59-5 (562), , U, Locus
+, , 2/08, , 14-3, , U, Realms of Fantasy
+, , 11/07, , 231 (20-3), , U, NYRSF
+, , 12/07, , 213, , U, Interzone
+, 2007, Fall, , 19-3 (70), , U, OnSpec
+, , 12/07, , 113-6 (667), , U, Fantasy & Science Fiction
+, , 1/08, , 32-1 (384), , U, Asimov's Science Fiction
+, , 10/07, , 20-2 (230), , U, NYRSF
+, , 1-2/08, , 128-1 and 2, , U, Analog
+, , 9-10/07, , 212, , U, Interzone
+, , 10/07, , 59-4 (561), , U, Locus
+, 2007, Autumn, , 11, , U, Paradox
+-----File: mag-003.jpg---\kevinr\dnawi\------------------------------------
+MITSFS Magazine Inventory
+
+Date: 10/21/07
+Workers: KKB
+Time Start:
+Time End:
+Collection: C/M
+Magazine Name: F&SF
+Structure:
+Notes: MagDex Processing
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1997, 8, , 93-2 (554), , U,
+, 1997, 2, , 92-2 (548), , ^,
+, 1996, 3, , 90-3 (538), , ^,
+, 1996, 1, , 90-1 (536), , ^,
+-----File: mag-004.jpg---\ianyh\nhinchen\----------------------------------
+MITSFS Magazine Inventory
+
+Date: 10-21-07
+Workers: KKB
+Time Start:
+Time End:
+Collection: New Mags
+Magazine Name: misc
+Structure:
+Notes: New Mags processed from incoming mail
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+19, 2007, 7-07, , 227 (19-11), , u, The New York Review of Science Fiction
+20, 2007, 9-07, , 229 (20-1), , u, ^
+, 2007, 7-8, , 211, , u, Interzone
+14, 2007, 10-07, , 14-1, , u, Realms of Fantasy
+59, 2007, 7-07, , 59-1 (558), , u, Locus
+59, 2007, 9-07, , 59-3 (560), , u, ^
+127, 2007, 10-07, , 127-10, , u, Analog
+127, 2007, 11-07, , 127-11, , u, ^
+127, 2007, 12-07, , 127-12, , u, ^
+31, 2007, 9-07, , 31-9 (380), , u, Asimov's Science Fiction
+31, 2007, 12-07, , 31-12 (383), , u, ^
+113, 2007, 9-07, , 113-3 (665), , u, Fantasy & Science Fiction
+19, 2007, Summer, , 19-2 (69), , u, OnSpec
+, 2007, , , 12, , u, Neo-opsis Science Fiction Magazine
+1, 2007, , , 1-10, , u, Apex
+-----File: mag-005.jpg---\ianyh\char89\------------------------------------
+
+-----File: mag-006.jpg---\keach\mgentile555\-------------------------------
+MITSFS Magazine Inventory
+10/9/2007
+Workers: JSB
+Time Start:
+End:
+Collection: F unDA (FPR)
+Magazine Name: Perry Rhodan
+Notes: Silver holographic (abridged?) German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , ,  1, , B,
+, , , , 65, , B,
+, , , , 68, , B,
+, , , , 69, , B,
+, , , , 70, , B,
+, , , , 71, , B,
+, , , , 72, , B,
+, , , , 73, , B,
+, , , , 74, , B,
+, , , , 75, , B,
+, , , , 76, , B,
+, , , , 77, , B,
+, , , , 78, , B,
+, , , , 80, , B,
+, , , , 81, , B,
+-----File: mag-007.jpg---\kevinr\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: 10/4/2007
+Workers: JSB
+Time Start:
+Time End:
+Collection: F unDA (FPR)
+Magazine Name: Perry Rhodan
+Structure:
+Notes: original version (German)
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , ,  91, 105, B,
+, , , , 106, 120, B,
+, , , , 136, 150, B,
+, , , , 151, 165, B,
+, , , , 376, 390, B,
+, , , , 391, 405, B,
+, , , , 421, 435, B,
+, , , , 466, 480, B,
+, , , , 481, 495, B,
+, , , , 496, 510, B,
+, , , , 511, 525, B,
+, , , , 541, 555, B,
+, , , , 556, 570, B,
+, , , , 571, 585, B,
+, , , ,  65,  67, U,
+, , , ,  85,    , U,
+, , , , 119,    , U,
+, , , , 130, 131, U,
+, , , , 133,    , U,
+, , , , 138,    , U,
+, , , , 142,    , U,
+, , , , 147,    , U,
+-----File: mag-008.jpg---\kevinr\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: 10/4/2007
+Workers: JSB+JFC
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1950-53, 1950, 1953, 1-1, 2-1, B, Wonder Stories Annual (4 issues)
+, 1950; 52, ?, ?, 1, 5, B, Wonders of the Spaceways
+, , , , 13, 14, U, Worlds of Fantasy
+, 1968; 70; 71, ?; 1970; Win 70-71; Spr 1971, 1-1, 1-4, B, ^
+, , Fall; 9-Nov, , 23-1 (176), , U, Worlds of If (1 issue)
+, , , , 6; 7; 9; 10, , U, Wonders of the Spaceways
+, , , , 1, 5, B, Worlds of Fantasy  1st issue questionable?
+, , , , 6, 10, B, Worlds of Fantasy
+, 1963, 4, 12, 1-1, 1-5, B, Worlds of Tomorrow ("bimonthly
+, 1964, 2; 4; 6; 8; 11, , 1-6, 2-4, B, Worlds of Tomorrow
+, 1965, 1, 11, 2-5 (11), 3-4 (16), B, ^
+, 1966-67, 1/66; 3/66; 5/66; 8/66; 11/66; 2/67; 5/67, , 3-5 (12), 4-4 (23), B, Worlds of Tomorrow  rolls after 3-7  "quarterly" in avg
+, 1970-71, 1970; Win/70; Spr/71, , 5-1 (24), 5-3 (26), B, Worlds of Tomorrow
+-----File: mag-009.jpg---\kevinr\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: 9/27/2007
+Workers: JSB+JFC
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: Thrilling Wonder Stories
+Structure:
+Notes: filed under "Wonder Stories"
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1945, Win, Fall, 26-3, 27-3, B, quarterly
+, 1996, Win; Spr; Sum; Fall; 12, , 28-1, 29-2, B, back to bimonthly in Dec
+, 1947, 2, 12, 29-3, 31-2, B,
+, 1948, 2, 12, 31-3, 33-2, B,
+, 1949, 2, 12, 33-3, 35-2, B,
+, 1950, 2, 12, 35-3, 37-2, B,
+, 1951, 2, 12, 37-3, 39-2, B,
+, 1952, 2, 12, 39-3, 41-2, B,
+, 1953, 2; 4; 6; 8; 11, , 41-3, 43-1, B,
+, 1954-55, Win/54; Spr/54; Sum/54; Fall/54; Win/55, , 43-2, 44-3, B,
+-----File: mag-010.jpg---\kevinr\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: 9/27/2007
+Workers: JSB+JFC
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: Wonder Stories
+Structure: monthly bimonthly
+Notes: Continuous page #ing in each volume
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1930, 11/30, 4/31, 2-6, 2-11, B,
+, 1931-2, 11/31, 2/32, 3-6, 3-9, B,
+, 1932, 3, 6, 3-10, 4-1, B,
+, 1932p2, 7, 12, 4-2, 4-7, B,
+, 1933p1, 1, 5, 4-8, 4-12, B,
+, 1933p2, 6, 10, 5-1, 5-3, B, (bimonthly)
+, 1934p1, 1, 6, 5-6, 6-1, B, (rolls at 5-10) back to monthly
+, 1934p2, 7, 12, 6-2, 6-7, B,
+, 1935p1, 1, 6, 6-8, 7-1, B,
+, 1935p2, 7, 12, 7-2, 7-6, B, No November issue
+, 1936, 1&2; 3&4; 8; 10; 12, , 7-7, 8-3, B, changes to "Thrilling Wonder Stories" and bimonthly and continuous #ing stops in August (8-1)
+, 1937, 2, 12, 9-1, 10-5, B,
+, 1938, 2, 12, 11-1, 12-3, B,
+, 1939, 2, 12, 13-1, 14-3, B,
+, 1940p1, 1, 6, 15-1, 16-3, B, monthly again
+, 1940p2, 7, 12, 17-1, 18-3, B,
+, 1941p1, 1, 4, 19-1, 20-1, B,
+, 1941p2, 6, 12, 20-2, 21-2, B, back to bimonthly
+, 1942, 2, 12, 21-3, 23-2, B,
+, 1943, 2, Fall, 23-3, 25-1, B, becomes quarterly after August (24-3)
+, 1944, Win, Fall, 25-2, 26-2, B,
+-----File: mag-011.jpg---\kcr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 9/21
+Workers: JSB+JFC
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: Weird Tales
+Structure: (monthly) (bimonthly)
+Notes:  Page #s [smudge]normal: continuity of #s stops
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1939p2, 6/7, 12, 3-1, 34-6, B, 34-1 is June/July monthly
+, 1940, 1, 11, 35-1, 35-6, B, becomes bimonthly
+, 1941, 1, 11, 35-7, 36-2, B, (rolls at 35-10)
+, 1942, 1, 11, 36-3, 36-8, B,
+, 1943, 1, 11, 36-9, 37-2, B, (rolls at 36-12)
+, 1944, 1, 11, 37-3, 38-2, B, (rolls at 37-6)
+, 1945, 1, 11, 38-3, 39-2, B,
+, 1946, 1, 11, 39-3, 39-8, B,
+, 1947, 1, 11, 39-9, 40-1, B, (May and July are both 39-11)
+, 1948, 1, 11, 40-2, 41-1, B,
+, 1949, 1, 11, 41-2, 42-1, B,
+, 1950, 1, 11, 42-2, 34-1, B,
+, 1951, 1, 11, 43-2, 44-1, B,
+, 1952, 1, 11, 44-2, 44-7, B,
+, 1953p1, 1, 7, 44-8, 45-3, B, (March is 45-1)
+, 1943-43, 9/43, 9/44, 45-4, 46-4, B, (march is 46-1)
+, 1973-4, Sum/73; Fall/73, , 47-1, 47-4, B, "quarterly"
+, , Win/73, Sum/74, , , ,
+, , Fall/84, , 49-1, , U,
+, , Spr/88, , 50-1(290), , U,
+, , Spr/93, , 54-1(306), , U,
+-----File: mag-012.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 9/27/2007
+Workers: JSB & JFC
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: Weird Tales
+Structure: monthly
+Notes: Page #s continuous through volume
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1927p1, 1, 6, 9-1, 9-6, B, page #s continuous through vol
+, 1927p2, 7, 12, 10-1, 10-6, B, ^
+, 1928p1, 1, 6, 11-1, 11-6, B, ^
+, 1928p2, 7, 12, 12-1, 12-6, B, ^
+, 1929p1, 1, 6, 13-1, 13-6, B, ^
+, 1929p2, 7, 12, 14-1, 14-6, B, ^
+, 1930p1, 1, 6, 15-1, 15-6, B, ^
+, 1930p2, 7, 12, 16-1, 16-6, B,
+, 1931p1, 1; 2&3; 4&5; 6&7*, , 17-1, 17-4, B, 3 issues are 2-in-1
+, 1931p2, 8, 12, 18-1, 18-5, B, return to monthly
+, 1932p1, 1, 6, 19-1, 19-6, B,
+, 1932p2, 7, 12, 20-1, 20-6, B,
+, 1933p1, 1, 6, 21-1, 21-6, B,
+, 1933p2, 7, 12, 22-1, 22-6, B,
+, 1934p1, 1, 6, 23-1, 23-6, B,
+, 1934p2, 7, 12, 24-1, 24-6, B,
+, 1935p1, 1, 6, 25-1, 25-6, B,
+, 1935p2, 7, 12, 26-1, 26-6, B,
+, 1936p1, 1, 6, 27-1, 27-6, B,
+, 1936p2, 7, 12, 28-1, 28-5, B, Aug/Sept together as 28-2
+, 1937p1, 1, 6, 29-1, 29-6, B,
+, 1937p2, 7, 12, 30-1, 30-6, B,
+, 1938p1, 1, 6, 31-1, 31-6, B,
+, 1938p2, 7, 12, 32-1, 32-6, B,
+, 1939p1, 1, 5, 33-1, 33-5, B, continuous numbering stops
+
+*the list of numbers spans 2 columns, Date Start and Date End
+-----File: mag-013.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/20/2007
+Workers: JSB + JFC
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Binding Status
+ , 1973-74, 4/73, 2/74, 1-1, 1-6, B, Vertex (bimonthly)
+ , 1974-75, 4/74, 4/75, 2-1, 3-1, B, ^
+ , , , , 3-2, 3-4, U, ^
+ , 1969-70, 8 9 or 12, 11/19*, 1-1, 1-12, B, Vision of Tomorrow
+ , , 1; 2; 3; 4; 5; 7; 8; 9/10
+ , , fall; winter; spr; sum, , 1, 4, B, Weird Mystery, bound together
+ , , , , 1971*, , , , bound together
+ , 1954, , , 1-1, 1-2, , Science Fiction Digest, bound together
+-----File: mag-014.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 9/20/2007
+Workers: JSB + JFC
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: Venture (American and/or British)
+Structure: monthly, bimonthly, quarterly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+ , 1957, 1, 11, 1-1, 1-6, B, American edition
+ , 1958, 1, 7, 2-10, 2-400*, B,
+ , 1969-70, 5; 8; 11/69, 2; 5; 8/70, 3-100, 4-300, B, "quarterly"
+
+ , 1963, 9, 12, 1, 4, B, British edition "monthly"
+ , 1964p1, 1, 6, 5, 10, B
+ , 1964, 8; 9; 11, , 12; 13; 15, , U
+ , 1965, 2; 3; 5, 12, 18; 19, 21; 28, U
+ , 1965, 6, , 22, , U
+-----File: mag-015.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 9/20/2007
+Workers: JSB + JFC
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+ , 1955p1, 5/55, 7/55; 9/55, 11(32), 13(34), B, Other Worlds Science Stories (may be "Universe" too)
+ , 1955-56, 11/55; 2; 4, 6; 9; 11/56, 14(35), 19(40), B, ^ note dual issue numbers
+ , , 5/57, , 21(42), , U, ^
+ , 1953-54, 6/53; 9; 12/53, 3; 5/54*, 1, 5, B, Universe (inter merges w other worlds)
+ , 1954-55, 7; 9; 11/54, 2; 3/55, 6, 10, B, ^
+ , 1939p1, 3, 7, 1-1, 1-5, B, Unknown (monthly)
+ , 1939p2, 8, 12, 1-6, 2-4, B, ^
+ , 1940p1, 1, 6, 2-5, 3-4, B, ^
+ , 1940p2, 7, 12, 3-5, 4-4, B, ^
+ , 1941p1, 2; 4; 6; 8, , 4-5, 5-2, B, ^ (becomes bimonthly)
+ , 1941-42, 10/41, 6/42*, 5-3, 6-1, B, Unknown Worlds (name change)
+ , 1942-43, 8/42, 4/43, 6-2, 6-6, B, ^
+ , 1943p2, 6/43, 10/43, 7-1, 7-3, B,
+ , , 1 2 ?/1954, , 1-1, 1-3, B, Vargo Statten Science Fiction Magazine
+ , , 6/58, , 1-1, , B, Vanguard (bound together)
+ , , 1953?, , 1-1, 1-2, , Vortex (bound together)
+ , , 12/50*, 2/1951, 1-1, 1-3, , Worlds Beyond (bound together)
+ , , , , 1-5, , U, Vargo Statten British Science Fiction Magazine
+-----File: mag-016.jpg---\dnawi\mgentile555\-------------------------------
+MITSFS Magazine Inventory
+
+Date: 9/20/2007
+Workers: JSB+JFC
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1993-94, [1/93; 4/93; 7/93; 8/93; 10/93; 12/93; [2; 4; 6; 8; 10; 12]/94], , 1 (1-1), 1-2 (2-6), B, Tomorrow Speculative Fiction
+, ^, ^, , 1, 10, B, Twilight Zine
+, ^, ^, , 11, 20, B, ^ also includes "Appalling Stories #19" asa TZ companion to #19
+, ^, ^, , 21, 30, B, TZ
+, ^, ^, , 31, 40, B, TZ 33 is 1/80; 34 is 1/83; 35 is 9/83; 36 is fall/85; 37 is fall/86; 38 is Spr/87; 39 is Fall/87; 40 is IAP/89
+, 1950-52, Win/50; [Spr; Sum; Win]/57; Spr/52, , 1 (1-1), 5 (1-5), B, Two Complete Science Adventure Books
+, 1952-59, [Sum; Win]/52; [Spr; Sum]/53; Win/53; Spr/54, , 6 (1-6), 11 (1-11), B,  ^
+, 1977, [Win; Spr; Sum], 1-1 (1), 1-3 (3), , B, Unearth
+, 1977-79, [Fall/77; [Win; Spr; Sum]/78; Win/79, 1-4 (4), , 1-4 (8), B, ^; "Ultimate Reprints" - not a magazine name; just binding name; "Fantastic Adventures Yearbook 1970"; "Science Fiction Adventures Yearbook 1970", "Science Fiction Classics Annual 1970", "Sword & Sorcery Annual 1975", "The Strongest Stories Ever Told" 1970 Issue #1
+-----File: mag-017.jpg---\dnawi\mgentile555\-------------------------------
+MITSFS Magazine Inventory
+
+Date: 9/20/2007
+Workers: JSB+JFC
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: Thrilling Science Fiction
+Structure: quarterly (except when bimonthly)
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1966-67, , , 1, 7, B, "The Most Thrilling Science Fiction Ever Told"; four issues in '66; 3 in '67; last fall & winter; no other date info
+, 1968-69, Spr 69, Sum 69, 8, 13, B,
+, 1969-70, Fall 69, Win 70, 14, 18, B, (no winter '69)
+, 1971-72, Spr 71, Apr 72, 19, 24, B, [Spr; Sum; Fall; Dec]/71; [2; 4]/72; becomes bimonthly
+, 1972 (2), 6/72, 12/72, 25, , B, numbers stop at 26
+, 1973, 2/73, 12/73, , , B,
+, 1974-75, 2/74, 12/74, , , B, "combined with SF Adventures" in 4/75 only
+, ^, 4/75, 6/75, , , B, ^
+-----File: mag-018.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 9/7/07
+Workers: KKB
+Time Start:
+Time End:
+Collection: New Mags
+Magazine Name: misc
+Structure:
+Notes: New mags from the mail
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 2007, spring, , #68(19-1), , U, Onspec
+, 2007, 6, , 19-10, , U, The New York Review of Science Fiction
+, 2007, 8, , 19-12, , U, ^
+, 2007, 6, , 210, , U, Interzone
+, 2007, 8, , 13-6, , U, Realms of Fantasy
+, 2007, 8, , #559 (59-2), , U, Locus
+
+, 2007, 9, , 127-9, , U, Analog
+, 2007, 8, , 379 (31-8), , U, Asimov's Science Fiction
+, 2007, 10/11, , 381&382 (31-10 &11), , U, ^
+
+, 2007, 6, , 662(112-6), , U, Fantasy and Science Fiction
+, ^, 7, , 663(113-1), , U, ^
+, ^, 8, , 664(113-2), , U, ^
+, ^, 10/11, , 666(113-4 &5), , U, ^
+-----File: mag-019.jpg---\dnawi\mgentile555\-------------------------------
+MITSFS Magazine Inventory
+
+Date: 8/27/2007
+Workers: JSB+JFC
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Binding Status
+, 1941-2, 2; 4; 6/41, 3/42, 1-1, 2-1, B, Stirring Science Stories
+, 1970, 6/1970, x4, 1-1 x4, , B, Story Digest Magazines: "Boris Karloff Tales of Mystery"; "Believe it or not: True Ghost Stories"; "Tarzan of the Apes"; "Dark Shadows"; 4 subtitles of magazine; each is issue 1-1; June '70 (weird)
+, 1969-70, Spr-Fall/69; Spr-Fall/70, , 8, 13, B, Strange Fantasy (3x/year)
+, 1931-2, 9/31, 3/32, 1-1, 2-1, B, Strange Tales (bimonthly)
+, 1956-7, 12/56, 12/57, 1-1, 2-1, B, Super-Science Fiction (bimonthly)
+, 1958, 2, 12, 2-2, 3-1, B, ^
+, 1959, 2, 10, 3-2, 3-6, B, ^
+, 1940, 3, 11, 1-1, 2-1, B, Super Science Stories (bimonthly)
+, 1941, 1; 3; 5; 8; 11, , 2-2, 3-2, B, ^
+, 1942-43, 2; 5; 8; 11/42; 2; 5/43, , 3-3, 4-4, B, ^
+, 1949, 1; 4; 7; 9; 11, , 5-1, 6-1, B, ^
+, 1950, 1; 3; 5; 7; 9; 11, , 6-2, 7-3, B, ^ (bimonthly again)
+, 1951, 1; 4; 6; 8, , 7-4, 8-3, B, ^
+, 1942-3A, 8/42, 4/43, 1-1, 1-5, B, Super-Science Stories (Canadian) (bimonthly)
+, 1943B, 6, 12, 1-6, 1-9, B, ^
+, 1944, 2; 4; 6; 10; 12, , 1-10, 1-15, B,
+, 1951-2, Spr; Sum; Fall; Win, , 1-1, 1-4, B, Suspense, Bound Together
+, 1960, 5; 7, , 1-1, 1-2, B, Fear!, Bound Together
+-----File: mag-020.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 8/27
+Workers: JSB, JFC
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: Startling Stories
+Structure: bimonthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1939, 1, 11, 1-1, 2-3, B
+, 1940, 1, 11, 3-1, 4-3, B
+, 1941, 1, 11, 5-1, 6-3, B
+, 1942, 1, 11, 7-1, 8-3, B
+, 1943, 1; 3; 6, Fall, 9-1, 10-1, B, change to quarterly
+, 1944, Winter, Fall, 10-2, 11-2, B
+, 1945, Winter, Fall, 11-3*, 12-3, B
+, 1946, Winter; 3; spr, sum; fall, 1301, 14-2, B, extra March issue
+, 1947, 1, 11, 14-3, 16-2, B, back to bimonthly
+, 1948, 1, 11, 16-3, 18-2, B
+, 1949, 1, 11, 18-3, 20-2, B
+, 1950, 1, 11, 20-3, 22-2, B
+, 1951, 1, 11, 22-3, 24-2, B
+, 1952a, 1, 6, 24-3, 26-2, B, to monthly
+, 1952b, 7, 12, 26-3, 28-2, B, to*
+, 1953, 1-6; 8, 10, 28-3, 31-1, B, begins to fail
+, 1954-55, 1; spr; sum; fall/54, win; spr; sum; fall/55, 31-2, 33-3, B, beginning Spr 55 combined w "thrilling wonder stories" & "fantastic story magazine"
+-----File: mag-021.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 8/27/2007
+Workers: JSB
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1951, spr; 8, , 1-1, 1-2, B, Tales of the Frightened
+, no dates, , , 1, 6, B, Tales of Tomorrow
+, no dates, , , 7 11, , U, ^
+, 1937-8, , , 1, 5, B, Tales of Wonder
+, 1939, , , 6, 9, B, ^
+, 1940-2, , , 10, 16, B, ^
+, , , , 1, 10, B, T.A.P.A. (fanzine?) (Technology Amateur Press Association) Not regular magazine
+, , , , , ,  U, O'Leary's War Birds* Reprint 1974, Odyssey Publications #2, Originally 4/35*
+-----File: mag-022.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 8/27/07
+Workers: JFC JSB
+Time Start: 2/7/5*
+Time End:
+Collection: UNDA
+Magazine Name:
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Binding Status
+, 1953-4, Oct 53, Apr* 54, 1, 4, B, Science Stories (bi*monthly)| one volume, bound together
+, 1957, Spring, August, 1-1, 1-2, B, Space Science Fiction, bound together
+, 1929; 30, Fall, Fall, 1-1, 2-1, B, Science Wonder Quarterly
+, 1931, Winter, Fall, 2-2, 3-1, B, Wonder Stories Quarterly (new name)
+, 1932-3, Winter, Winter, 3-2, 4-2, B, ^
+, 1929, June, Oct, 1-1, 1-5, B, Science Wonder Stories
+, 1929-30, Nov, Jan, 1-6, 1-8, B, ^
+, 1930, Feb, May, 1-9, 1-12, B, ^
+, 1939, Apr; May, , , , U, The Scorpion (1967 reprint*) (Pulp Classics #12)
+, 1960, May, Sep, 1-1, 1-3, B, Shock
+, 1970-1, Winter, Summer, 9, 14, B, Space Adventures
+, 1952-3, May, Feb, 1-1, 1-4, B, Space Science Ficiton
+, 1953, Mar, Sep, 1-5, 2-2, B, ^
+, 52-53, 10/52, 6/53, 1-1, 2-2, B, Space Stories (bimonthly)
+, 53-55, 12/53, 2; 4; 6/54, 1-1, 2-1, B, Spaceway
+, , 12/54, 2; 4; 6/55, 2-2, 3-2, , 
+, 69-70, 1/69 6/69, 10/69 5-6/70*, 4-1, 5-1, B, Spaceway Science Fiction (same mag?)
+, 66-67, Sum 67, fall 67, 1-1, 1-6, B, Startling Mystery Stories
+, 69 71, Sum 69-Fall 70, 3/71*, 3-1(13*), 3-6(18), B, ^
+-----File: mag-023.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 6/21/07
+Workers: CAK KKB
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: misc
+Structure:
+Notes: Magazines we didn't have previously processed in from MagDex.
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+put in Damnation Alley; not unDA, , , , 1-4, , U, "Dark Regions" (annual)
+, 1986, winter/1986, , 1-5, , U, "Last Wave"
+, 1985, winter/1985, , 11, , U, "The Leading Edge"
+, , , , 29, , U, "Pandora"
+, , winter/1980, , 3-4, , U, "Just Pulp"
+, , spring/1980, , 4-1, , U, "Just Pulp"
+-----File: mag-024.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 6/21/07
+Workers: JSB + KKB
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: misc.
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Binding Status
+, , , , 1-1, , U, "Realms of Fantasy" (Bimonthly)
+, 1994, 12/94, , 1-2, , ^, ^
+, 1995, 10/95, , 2-1, , ^, ^
+, 1996, 2/96, 8/96, 2-3, 2-6, ^, ^
+, 1997, 12/97, , 4-2, , ^, ^
+, 1998, 4/98, , 4-4, , ^, ^
+, 1998, 8/98, , 4-6, , ^, ^
+, 1953, 4/53 7/53, 9/53, 1-1, 1-3, B, "Rocket Stories", two mags, one volume
+, 1958, 1/58, , 1-1, , --, "Star Science Fiction", ^ 
+, 1981, 4, 12, 1-1, 1-9, U, "Rod Serling's The Twilight Zone Magazine" (monthly)
+, 1982, 1, 11, 1-10, 2-3*, ^, ^
+, 1982, 12, , 2-10, , ^, bimonthly ^
+, 1983, 2, 12, 2-11, 3-5, ^, ^^
+, 1984, 2, 12, 3-6, 4-5, ^, ^^
+, 1985, 2, 12, 4-6, 5-5, ^, ^^
+, 1986, 2, 12, 5-6, 6-5, ^, ^^
+, 1987, 2, 12, 6-6, 7-5, ^, ^^
+, 1988, 2, 8, 7-6, 8-3, ^, ^^
+, 1988, 12, , 8-5, , ^, ^^
+, 1989, 2, , 8-6, , ^, ^^
+, 1956-7, 10/56, 12/57, 1-1, 2-2, B, "Satellite Science Fiction" (bimonthly)
+, 1958, 2, 12, 2-3, 3-2, ^, ^
+, 1959, 2, 5, 3-3, 3-6, ^, ^ monthly
+, 1957-8, 3/57 5/57, 7/57 10/57 3/58, 1-1, 1-5, B, "Saturn"
+-----File: mag-025.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 6/21/07
+Workers: JSB + KKB
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: Science Fantasy
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1-2, 50-53, summer/50; winter/50-51; winter/51-52; spring/52; autumn/52; spring/53, , 1, 6, B, V-I #s: 1-1 to 1-3 and 2-4 to 2-6 etc. (continues)
+, 1954, , , 7, 11
+, 1955, , , 12, 17
+, 1956, , , 18, 20
+, 1957, , , 21, 26
+, 1958, , , 27, 32
+, 1959, , , 33, 38
+, 1960, , , 39, 44*
+, 1961, , , 45, 50
+, 1962, , , 51, 56
+, 1963, , , 57, 62
+
+, 1965, 1-2; 3; 4; 5; 6; 7, 69, 74
+, 1965 - 1966, 8; 9; 10; 11; 12; 1; 2, 75, 81
+                                                                              
+, 70-71, yearbook/70; fall/70; winter/71; spring/71, , , , , "Science Fantasy"  |?[Science Fantasy] might be a different magazine -- two mag one volume
+, 67-68, 11/67, 6/68, 1-1, 1-2, , "International Science Fiction"      |includes a story translated from esperanto!
+-----File: mag-026.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 6/21/07
+Workers: JSB + KKB
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: misc.
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , 3/39; 6/39; 8/30; 10/39*; 12/39; 3/40, , 1-1, 1-6, B, "Science Fiction"
+, , 6/40 10*/40 1/41 3/41 6/41 9/41, , 2-1, 2-6, ^, "Science Fiction"
+, 1967-68, sum 67, fall 68, 1, 6, ^, "Science Fiction Classics"
+, 69; 70; 71, win 69; fall 69; win 70; spr-fall71, , 7-8; 12-15, , ^, "Science Fiction Adventure Classics" (title change)
+, 1972, 1, 11, 16-19, ?; ?, ^, (bimonthly)
+, 1973, 1, 11, , , ^
+, 1974, 1, 11, , , ^
+, 52-53, 11/52, 7/53, 1-1, 1-5, ^, "Science Fiction Adventures" (bimonthly) (feb issue instead of Jan issue)
+, 53-54, 9; 12; 2; 5, , 1-6, 2-3, ^, ^
+, 56-57, 12; 2; 4; 6; 8; 9, , 1-1, 1-6, ^, (may or may not be same mag) ^
+, 57-58, 10; 12; 1; 3; 4; 6, , 2-1, 2-6, ^, ^^
+, 1959, , , 2-7, 2-12, ^, (British version) ^^
+, 1960, , , 3-13, 3-17, ^, ^^^
+, 1961, , , 3-18, 4-23, ^, ^^
+, 1962, , , 4-24, 5-29, ^, ^^
+, 67-71, , , 1, 5, ^, "Science Fiction Yearbook"
+, , 11/92, , 1-1, , U, "Science Fiction Age" (bimonthly)
+, , 7/93, , 1-5, , ^, ^
+, , 3/94, 11/94, 2-3, 3-1, ^, ^
+, , 1/95, , 3-2, , ^, ^
+-----File: mag-027.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 6/21/07
+Workers: JSB + KKB
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: misc.
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1953, 3; 4; 5; 6; 9; 10; 12, , 1-1, 1-7, B, "Science Fiction Plus"
+, , summer/40; winter/41; spring/41; summer/41; winter/41-42, , 1, 5, ^, "Science Fiction Quarterly"
+, , spring/42*, spring/43, 6, 10, ^, ^
+, 51-52, 5/51, 11/52, 1-1, 2-1, ^, "Science Fiction Quarterly" (new mag?)
+, 53-54, 2/53, 11/54, 2-2, 3-3, ^, ^
+, 55-56, 2/55, 11/56, 3-4, 4-5, ^, ^
+, 57-58, 2/57, 2/58, 4-6, 5-4, ^, ^
+, 53-55, ?? 1/55, 11/55, ?; ?; 5-4, -6-3, ^, "Science Fiction Stories" (first 2 issues **** then bimonthly)
+, 56, 1/56, 11/56, 6-4, 7-3, ^, ^
+, 57, 1/57, 11/57, 7-4, 8-3, ^, ^
+, 58, 1; 3; 5; 6, 8-4, 8-7, ^, ^
+, 58, 7; 8; 9; 11, 9-1, 9-4, ^, ^
+, 59, 1; 2; 3; 5; 7; 9; 11, 9-5, 10-5, ^, ^
+, 60, 1; 3; 5, 10-6, 11-2, ^, ^
+
+, 63, , , 30, 32, ^, "Science Fiction Adventures"
+-----File: mag-028.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 6/9/07
+Workers: KKB
+Time Start:
+Time End:
+Collection: C/M
+Magazine Name: F&SF
+Structure:
+Notes:  Magdex - new magazines entered into library that we didn't have before
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1953, 6/53, , 4-6, , U
+-----File: mag-029.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 6/3/07
+Workers: KKB
+Time Start:
+Time End:
+Collection: New Mags
+Magazine Name: misc
+Structure:
+Notes: Processing new mags from the mail
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, whole issue #
+, 2007, 7/07, , 31-7, , U, Asimov's Science Fiction , 378
+, 2007, 5/07, , 58-5, , U, Locus, 556
+, 2007, , , , , U, Neo-opsis Science Fiction Magazines, 11
+, 2007, , , 1-9, , U, Apex,
+, 2007, 5/07, , 19-9, , U, New York Review of Science Fiction, 225
+, 2007, 7-8/07, , 127-(7&8), , U, Analog
+-----File: mag-030.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 5/18/07
+Workers: KKB
+Time Start:
+Time End:
+Collection: New Mags
+Magazine Name: misc
+Structure:
+Notes: Mags from the mail, to be put on the new mags rack.
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 2007, 5, , 112-5, , , Fantasy and Science Fiction (whole issue #661)
+, 2007, 4, , 58-4, , , Locus (whole issue #555)
+, 2007, 3, , 19-7, , , The New York Review of Science Fiction (whole issue #223)
+, 2007, 4, , 19-8, , , The New York Review of Science Fiction (whole issue #224)
+-----File: mag-031.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 5/17
+Workers: KKB
+Time Start:
+Time End:
+Collection: C/M
+Magazine Name: Twilight Zone
+Structure:
+Notes: Checked out mags missed in circulating 'ventory
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1982, 7, , , , U
+, 1982, 10, , , , U
+, 1986, 12, , , , U
+, 1981, 7, , , , U
+, 1981, 8, , , , U
+, 1981, 9, , , , U
+, 1981, 10, , , , U
+, 1981, 6, , , , U
+-----File: mag-032.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 5/17
+Workers: JSB KKB
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: Planet Stories
+Structure: quarterly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes winter is defined to be Dec. (end of year)
+, 1939/40, winter, winter, 1-1, 1-5, B, quarterly
+, 1941, spring, winter 41-42, 1-6, 1-9, ^,
+, 1942, spring, winter, 1-10, 2-1, ^
+, 1943, 3; 5; fall*, winter, 2-2, 2-5, ^, "bimonthly"
+, 1944, spring, winter, 2-6, 2-9, ^, quarterly
+, 1945, spring, winter, 3-2, 3-5, ^
+, 1946, spring, winter, 3-2, 3-5, ^
+, 1947, spring, winter, 3-6, 3-9, ^
+, 1948, spring, winter, 3-10, 4-1, ^
+, 1949, spring, winter, 4-2, 4-5, ^
+, 1950, spring; summer; fall, 11, 4-6, 4-9, ^
+, 1951, 1, 11, 4-10, 5-3, ^, bimonthly
+, 1952, 1, 11, 5-4, 5-9, ^
+, 1953, 1, 11, 5-10, 6-3, ^
+, 1954/5, 1/54; 3/54; 5/54; summer/54; fall/54; winter/54-55, spring/55; summer/55, 6-4, 6-11, ^
+-----File: mag-033.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 5/17/07
+Workers: JSB KKB
+Time Start:
+Time End:
+Collection: unDA
+Magazine Name: misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1985/6, sum 85, sum 86, 1-2, 1-6, B, Night Cry
+, 1986/7, fall 86, fall 87, 2-1, 2-5, B, ^
+, 1939, 2-3, , 1-4, , U, The Octopus (reprinted as Pulp Classics #11, Dec. 1975)
+, 1976, spring, summer, 1-1, 1-2, B, Odyssey
+, 1993/4, spring 93, winter 94, 5-1 (12), 6-4 (19), B, On Spec (quarterly)
+, 1953/4, , , 1, 5, B, Orbit Science Fiction
+, 1949/50, 11/49, 5/50, 1-1, 1-4, B, Other Worlds Science     Stories (almost) bimontly to "intervals of 6 weeks"
+, 1950, 7/50; 9/50, 10/50; 11/50, 2-1, 2-4, B, ^
+, 1951, 1/51; 3/51, 5/51; 6-7/51, 3-1, 3-4, B, ^
+, 1951, 9/51; 10/51, 12/51, 4-1; (13) 3-6 (14*), 15, B, ^
+, 1952, 1; 3; 4, 6, 16, 19, B, ^
+, 1952, 7; 8; 10, 11; 12, 20, 24, B, ^
+, 1953, 1; 2; 3; 4, 5; 6; 7, 25, 31, B, ^
+, 1957, ? 5; 6, 7; 8, 1, 5, B, Phantom (monthly)
+, 1957/8, 9, 2, 6, 11, B, ^
+, 1958, 3, 7, 12, 16, B, ^
+-----File: mag-034.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: May 3, 2007
+Workers: JSB
+Time Start:
+Time End:
+Collection: Braille
+Magazine Name:
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , 7/81, , , , , Asimov's (IASFM?)
+, , 5/82
+, , 1-2/72, , , , , Galaxy   Paired-months?
+, , 5-6/72, , , , ,
+, , 7-8/72, 11-12/72, , , ,
+, , 3-4/73, 5-6/73, , , ,
+, , 9-10/73, , , , ,
+, , 10/73, 12/73, , , ,
+, , 1/74, 5/74, , , ,
+, , 7/74, 12/74, , , ,
+, , 1/75, , , , ,
+, , 11/76, 12/76, , , ,
+, , 3/77, , , , , 2 copies
+, , 5/77, 11/77, , , ,
+, , 12-1/77-78, , , , , crossyear month-pair*
+, , 2/78, 5/78, , , ,
+-----File: mag-035.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: May 3, 2007
+Workers: JSB, SIR
+Time Start: 5:40
+Time End: 5:44
+Collection: c/m
+Magazine Name:  Ren[m?*] Dark
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 12, , U
+, , , , 17, , U
+, , , , 24, , U
+, , , , 26, , U
+, , , , 57, , U
+, , , , 61, , U
+, , , , 77, , U
+, , , , 78/27, , U, It's a sequence, but we don't understand!
+, , , , 79/29, , U, ^
+, , , , 80/31, , U, ^
+, , , , 81/33, , U, ^
+, , , , 82/35, , U, ^
+, , , , 83/37, , U, ^
+, , , , 84/39, 86/43, U, ^
+-----File: mag-036.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: May 3, 2007
+Workers: JSB, SIR
+Time Start: 5:30
+Time End: 5:38
+Collection: c/m
+Magazine Name: Perry Rhodan
+Structure:
+Notes: Old German magazine - w. little info
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+check this is not already cataloged under PR (Perry Rhodan)
+, , , , 6, , U, Title: Atlan**
+, , , , 25, , U
+, , , , 31, , U
+, , , , 34, , U
+, , , , 40, , U
+, , , , 41, , U
+, , , , 49, , U
+, , , , 84, , U
+, , , , 99, , U
+, , , , 104, , U
+, , , , 108, , U
+, , , , 111, , U
+, , , , 112, 118, U
+, , , , 124, , U
+, , , , 130, , U
+, , , , 136, , U
+, , , , 139, , U
+, , , , 142, 145, U
+, , , , 147, , U
+, , , , 149, , U
+, , , , 151, 152, U
+, , , , 154, , U
+, , , , 157, , U
+, , , , 160, , U
+, , , , 165, 168, U
+, , , , 171, , U
+, , , , 179, , U
+, , , , 185, , U
+, , , , 187, 188, U
+, , , , 197, , U
+, , , , 228, , U
+, , , , 241, , U, Title: Atlan**
+
+[**"Title: Atlan" is repeated at first and last entries--is this meant to be applied to all entries in the list or just the first and last???]
+-----File: mag-037.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: SIR, JSB
+Time Start: 5:38
+Time End: 5:39
+Collection: C/M
+Magazine Name: Perry Rhodan
+Structure:
+Notes: Check if this is under Perry Rhodan already
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 287, , , ,
+, , , , 376, , , ,
+, , , , 405, , , ,
+, , , , 408, , , ,
+, , , , 410, , , ,
+, , , , 487, , , ,
+, , , , 739, , , ,
+, , , , 945, , , ,
+, , , , 949, , , ,
+, , , , 977, , , ,
+-----File: mag-038.jpg---\deekay\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: 5/3/2007 [** Printed date crossed out, replaced with "5/3"]
+Workers: JSB, SIR
+Time Start: 5:45
+Time End: 5:52
+Collection: C/M
+Magazine Name: Terra Astra
+Structure:
+Notes: German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 17, , U,
+, , , , 26, 27, ^,
+, , , , 33, , ^,
+, , , , 78, , ^,
+, , , , 98, , ^,
+, , , , 106, , ^,
+, , , , 110, , ^,
+Terra Nova, , , , 80, , ^,
+^, , , , , , ^, [** Not entirely clear what this row, which is marked as part of "Terra Nova", indicates]
+^, , , , , , ^, [** Not entirely clear what this row, which is marked as part of "Terra Nova", indicates]
+Terra Utopische Romane, , , , 32, , ^,
+^, , , , 44, , ^,
+^, , , , 31*1, , ^,
+^, , , , 341, , ^,
+^, , , , 448, , ^,
+^, , , , 453, , ^,
+Terra Sonderbond, , , , 11, , ^,
+^, , , , 48, , ^,
+Urania, 1961, 7/16, 7/30, 260, 261, ^, Biweekly
+^, 1962, 3/25, , 278, , ^,
+I Romarizi Di Urania, 1953, 5/20, , 16, , ^, "Same as Urania? Suspect not" [** Volume name illegible, extrapolated]
+-----File: mag-039.jpg---\deekay\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: JSB, SIR
+Time Start: 5:53
+Time End:5:59
+Collection:
+Magazine Name:
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 22, , U, "Name: Utopia Magazine"
+, , , , 59, , ^, "Name: Utopia Grossband" (some a*abive**)
+, , , , 97, , ^, ^
+, , , , 170, , ^, ^
+, , , , 30, , ^, ^
+, , , , 40, , ^, ^
+, , , , 17, , ^, "Name: Utopia"
+, , , , 106, , ^, "Name: Utopia Zukunftsromane"
+, , , , 272, , ^,
+, , , , 333, , ^,
+, , , , 429, , ^,
+, , , , 457, , ^,
+, , , , 462, , ^,
+, , , , 584, , ^,
+, , , , 78, , ^, "Name: Utopischen Roman"
+, , , , 27, , ^, "Name: Vampir"
+, , , , 306, , ^,
+, , , , 342, , ^,
+-----File: mag-040.jpg---\deekay\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/26/07
+Workers: KKB JSB
+Time Start:
+Time End:
+Collection: C/M
+Magazine Name: Wonder Stories
+Structure: Monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1930, 6, , 2-1, , U,
+, 1930, 10, , 2-5, , ^,
+, 1933, 10, , 5-3, , ^,
+, 1957, , , 45-1, , ^, *[Starred]
+, 1935, 2, , 6-9, , ^,
+, 1935, 4, , 6-11, , ^,
+, 1935, 8, , 7-3, , ^,
+, 1935, 9, , 7-4, , ^,
+, 1957, 7, , 45-2, , ^, *[starred]
+, 1953, , , 2-1, , ^, "Wonder Story Annual", same mag?
+, 1952, , , 1-3, , ^,
+-----File: mag-041.jpg---\deekay\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/26/07
+Workers: KKB JSB
+Time Start:
+Time End:
+Collection: C/M
+Magazine Name: Misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 6, , U, "Wonders of the Spaceways"
+, , , , 1-1, , ^, "Worlds of Fantasy"
+, , , , 3, , ^, ^ [** Note states "different magazine same name" indicating this and the next four entries]
+, 1970, , , 1-2, , ^, ^
+, , Winter 1970-1971, , 1-3, , ^, ^
+, , Spring 1971, , 1-4, , ^, ^
+, 1950, 12, , 1-1, , ^, "Worlds Beyond"
+, 1951, 2, , 1-3, , ^, ^
+, 1963, 4, 12, 1-1, 1-5, ^, "Worlds of Tomorrow" (bimonthly)
+, 1964, 2, 16, 1-6, 2-2, ^, ^
+, 1964, 8, , 2-3(9), , ^, ^
+, 1964-5, 11, 11, 2-4(10), 3-4, ^, ^
+, 1966, 1, 5, 3-5(17), 3-7(19), ^, ^
+, 1966, 8, , 4-1(20), , ^, ^ (quarterly)
+, 1966, 11, , 4-2(21), , ^, ^
+, , 25, 1970;(winter 1970), 4-3(22), 5-3(26); (Spring 1971), ^, ^
+-----File: mag-042.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/26/07
+Workers: KKB JSB
+Time Start:
+Time End:
+Collection: CF/M
+Magazine Name: Misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Language
+, , , , 293, , U, Agent Spatial No. A, French
+, , 15 February; 1959, , 1-6, , U, Le Cronache del Futuro, Italian
+, 1962, 11, , 5-11, , U, Galaxy, Italian
+, 1964, 1, , 7-1(68), , U, Galaxy, Italian
+, 1954, 9, 11, 1-6, 1-8, U, Hapna, Swedish
+, 1960, , , 7-10, 7-12, U, Hapna, Swedish
+, 1961, , , 8-1, , U, Hapna, Swedish
+, , , , 57, , U, Joachim Puhle, German
+, , , , 12, , U, Luna Utopia-Roman, German
+-----File: mag-043.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 9/19/07
+Workers: KKB JSB
+Time Start:
+Time End:
+Collection: C/M
+Magazine Name: Misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1988, , , , , U, The Weirdbook Sampler special issue of Weirdbook (suspected to be a zine!)
+, , , , , , , Issue #10 of Eerie Country [**Is this its own line or does this belong to the Weirdbook entry above?]
+, 1987, 10, , 6-3&4, , U, Whispers (whole number 23&24)
+, 1971, 1-2, , 1-5, , U, Witchcraft & Sorcery
+, , , , 1-7, 1-10, U, (formerly Coven 13) + needs to be shelved as "Coven 13"
+-----File: mag-044.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/19/07
+Workers: KKB JSB
+Time Start:
+Time End:
+Collection: C/M
+Magazine Name: Weird Tales
+Structure: bimonthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1949, 3, , 41-3, , U
+, 1947, 5, , 39-11, , U
+, 1948, 5, , 40-4, , U
+, 1950, 1, , 42-2, , U
+, 1950, 3, , 42-3, , U
+, 1951, 1, , 43-2, , U
+, 1951, 9, , 43-6, , U
+, 1952, 7, , 44-5, , U
+, 1953, 5, , 45-2, , U
+, 1973, winter, , 47-3, , U
+, 1974, summer, , 47-4, , U
+-----File: mag-045.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/19/2007
+Workers: KKB JSB
+Time Start:
+Time End:
+Collection: C/M
+Magazine Name: Misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 77-78, winter/77, summer/78, 1, 7, U, Unearth (quarterly)
+, 1979, winter/79, , 8, , U, ^
+, 53-54, 6/53 9/53, 12/53 3/54 5/54, 1, 5, U, Universe
+, 1954, 9/54, , 7, , U, ^
+, 1955, 3/55, , 10, , U, ^
+, 1943, 6/43, , 7-1, , U, Unknown Worlds
+, 1957, 1/57, 11/57, 1-1, 1-6, U, Venture Science Fiction (bimonthly)
+, 1958, 1/58, 7/58, 2-1, 2-4, U, ^
+, 1963, 12/63, , 4, , U, Venture Science Fiction (?)
+, 1964, 1/64, , 5, , U, ^
+, 1969-70, 3/69, 8/70, 3-1 (11), 4-3 (16), U, Venture Science Fiction (quarterly)
+
+, , , , 3-2, 3-4, U, Vertex (new publication format)
+, 73-74, 4/73, 2/74, 1-1, 1-6, U, Vertex, (bimontly)
+, 74-75, 4/74, 2/75, 2-1, 2-6, U, ^
+, 1975, 4/75, , 3-1, , U, ^
+, , , , 2, , U, Void
+, , , , 1-1, 1-2, U, Vortex
+, 1967, 6/67, , 2-3, , U, Weird
+, 1968, 7/68, , 2-8, , U, ^
+-----File: mag-046.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/19/2007
+Workers: KKB SIR
+Time Start:
+Time End: 
+Collection: C/M
+Magazine Name: Twilight Zone
+Structure: monthly; bimonthly; variable
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1981, 4, 5, 1-1, 1-2, U, Monthly
+, 1981, 11, , 1-8, , U, ^
+, 1982, 2, 4, 1-11, 2-1, U, ^
+, 1982, 6, , 2-3, , U, monthly
+, 1982, 8, , 2-5, , U, ^
+, 1983-4, 6/83, 6/84, 3-2, 4-2, U, bimonthly 1983-1984
+
+, 1982, 5, , 2-2, , U, monthly
+, 1982, 9, , 2-6, , U, monthly
+, 1982, 12, , 2-10, , U, monthly
+, 1983, 2, 4, 2-11, 3-1, U, bimonthly
+, 1985, 2, , 4-6, , U, bimonthly
+, 1986, 2, , 5-6, , U, bimonthly
+, 1987, 4, , 7-1, , U, bimonthly
+, 1987, 10, , 7-4, , U, bimonthly
+-----File: mag-047.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/6/07
+Workers: KKB
+Time Start:
+Time End:
+Collection: new mags rack
+Magazine Name: misc
+Structure:
+Notes: new mags entering the library
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 2007, 1, , 19-5 221, , U, The New York Review of Science Fiction
+, 2007, 2, , 19-6; 222, , U, ^
+, 2007, 3, , 58-3; 554, , U, Locus
+, 2007, 4, , 112-4; 660, , U, Fantasy & Science Fiction
+, 2006, winter, , 1-8, , U, Apex Science Fiction & Horror Digest
+, 2007, 4, , 209, , U, Interzone
+, 2007, 6, , 13-5, , U, Realms of Fantasy
+-----File: mag-048.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/5/07
+Workers: JSB KKB
+Time Start:
+Time End:
+Collection: New Mags
+Magazine Name: F&SF
+Structure: 11/yr. Oct/Nov double issue
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+85, 1993, 10/11, , 4-5, , U
+90-91, 1996, 1, 12, 1, 6, U, #536 to 546
+92-93, 1997, 1, 12, 1, 6, U, 547 to 557
+
+92-93, 1997, 5, 8, 5, 2, B, 551 to 554
+94-95, 1998, 1, 10/11, 1, 4/5, U, 558 to 564
+96, 1999, 2, , 2, , U, 570
+96-97, 1999, 4, 10/11, 4, 4/5, U, 572 to 578
+101-, 2001, 10/11, 12, 4/5, 6, U, 600 to 601
+102, 2002, 1, 6, 1, 6, U, 602 to 607
+103, 2002, 8, 12, 2, 6, U, 609 to 612
+104-105, 2003, 1, 12, 1, 6, U, 613 to 623
+106-107, 2004, 1, 12, 1, 6, U, 624 to 634
+108-109, 2005, 1, 7, 1, 1, U, 635 to 641
+109, 2005, 9, , 3, , U, 643
+109, 2005, 12, , 6, , U, 645
+110-111, 2006, 1, 9, 1, 3, U, 646 to 654
+111, 2006, 12, , 6, , U, 656
+112, 2007, 1, , 1, , U, 657
+-----File: mag-049.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/5/07
+Workers: JSB KKB
+Time Start: 6:22
+Time End: 6:45
+Collection: New Mags
+Magazine Name: Asimov's Science Fiction
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+20, 1996, 1, 7, 241, 247, U, 20-1 to 20-7
+20, 1996, 9, , 249, , U, 20-9
+20, 1996, 10-11, , 250-251, , U, 20-10/11
+20, 1996, 12, , 252, , U, 20-12
+21, 1997, 1, 9, 253, 261, U, 21-1 to 21-9
+21, 1997, 12, , 264, , U, 21-12
+22, 1998, 1, 12, 265, 275, U, 22-1 to 22-12 (Oct/Nov is 274, 22-10)
+23, 1999, 3, 10-11, 278, 285, U, 23-3 to 23-10
+, 1999, 12, , 287, , U, 23-12 mislabelled as 26-12
+24, 2000, 1, 12, 288, 299, U, 24-1 to 24-12 (Oct/Nov is 297-298, 24-10&11)
+25, 2001, 1, 12, 300, 311, U, 25-1 to 25-12 (Oct/Nov is 309-310, 25-10&11)
+26, 2002, 1, 12, 312, 323, U, 26-1 to 26-12 (Oct/Nov is 321-322, 26-10&11)
+27, 2003, 1, 12, 324, 335, U, 27-1 to 27-12 (Oct/Nov is 333-334, 27-10&11)
+28, 2004, 1, 6, 336, 34, U, 28-1 to 28-6 (April/May double issue)
+28, 2004, 8, 12, 343, 347, U, 28-8 to 28-12 (Oct/Nov double issue)
+29, 2005, 1, 12, 348, 359, U, 29-1 to 29-12 (April/May and Oct/Nov double issues)
+30, 2006, 1, 12, 360, 371, U, 30-1 to 30-12 (April/May and Oct/Nov double issues)
+31, 2007, 1, , 372, , , 31-1
+-----File: mag-050.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/5/07
+Workers: JSB KKB
+Time Start: 6:15
+Time End: 6:22
+Collection: New Mags
+Magazine Name: Analog
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+125, 2005, 1-2, , 1-2, , U
+125, 2005, 3, 6, 3, 6, U, (2 copies of April issue)
+125, 2005, 7-8, , 8, , U
+125, 2005, 9, 10, 9, 10, U
+125, 2005, 12, , 12, , U
+126, 2006, 1-2, , 1, , U
+126, 2006, 3, 6, 3, 6, U
+126, 2006, 7-8, , 7-8, , U
+126, 2006, 9, 12, 9, 12, U
+127, 2007, 1-2, , 1-2, , U
+-----File: mag-051.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2, 2007
+Workers: JSB KKB
+Time Start: 6:05
+Time End:
+Collection: New Mags
+Magazine Name: Science Fiction Chronicle (for shelve-as)
+Structure: monthly (_Almost_ always monthly)
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1998, 4, , 196, , U, (monthly)
+, 2000, 2-3, , 205, , U, (bimonthly) number 21-2
+, 2002, 12, , 231, , U, "Chronicle" number 24-12 (monthly)
+, 2003, 1 2-3, 4, 232, 234, U, "Chronicle" numbers 25-1 to 25-3 (monthly)
+, 2003, 7, 10, 237, 230, U, "Chronicle" 25-6 to 25-9 (monthly)
+, 2004, 1, 12, 243, 254, U, "Chronicle" 26-1 to 26-12 (monthly)
+, 2005, 1, 11, 255, 264, U, "Chronicle" (no August) 27-1 to 27-10 (monthly)
+, 2006, 12-1, , 265, , U, "Chronicle" 28-1 (monthly)
+, 2006, 2-3, , 266, , U, "Chronicle" 28-2 (monthly)
+-----File: mag-052.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/5/07
+Workers: JSB KKB
+Time Start: 5:58
+Time End: 6:05
+Collection: New Mags
+Magazine Name: misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 1, , U, SF-envision.com
+, , , , 17, , U, Aurealis: Australian Fantasy & Science Fiction (suspected to be from 6/1996; semiyearly)
+, , , , , , U, On Spec (addition to spring/06 issue; Vol 18 no 1)
+, 2005, summer, , 1-2, , U, Apex (has (unknown?) signature on front cover)
+, 05-06, winter; spring, summer, 1-4, 1-6, U, Apex
+-----File: mag-053.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/5/07
+Workers: JSB KKB
+Time Start: 5:33
+Time End:
+Collection: New Mags
+Magazine Name: MISC!
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes (Name of Magazine)
+, 2002, spring/02, , 95, , U, Space and Time
+, 1994, spring/summer, , 2, , U, Harsh Mistress (one issue)
+, , , , 23, 26, U, 21 [**Alt-0183] C (4 issues; quarterly)
+, 1996, 10/96, , 17, , U, SFX
+, 2006, summer, , 9, , U, Paradox
+, 2006, 7/8, 9/10, 205, 206, U, Interzone (bimonthly)
+, 01-02, Fall/2001, winter/01-02, 325, 236, U, Weird Tales (quarterly)
+1, 1992, April 20/92, July/92, 1-1, 1-2, U, Pulphouse Fiction Spotlight (biweekly) no claimed schedule
+, 2003, 9/03, , 311, , U, Dragon (issue numbers: also: 28-4; "special [*line break] update series number 2 of 3)
+, 2004, 8/03, , 69, , U, Star Wars Insider (publication schedule: 8/year)
+, 01-02, autumn, winter summer, 15, 17, U, Dreams of Decadence: Vampire Poetry and Fiction (quarterly)
+, 2003, 4; 6; 9, 12, 5, 8, U, Nth Degree
+, , winter 2001; summer 2002; spring 2003; spring 2004; spring 2005, , 22, 26, U, Fantastic Stories of the Imagination ("quarterly")
+-----File: mag-054.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/5/07
+Workers: JSB KKB
+Time Start: 5:20
+Time End: 5:30
+Collection: new mags
+Magazine Name: New York Review of Science Fiction
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 2006, 1/2006, 8/2006, 209, 216, U, Issue (18-5 to 18-2)
+, 2005, 1/2005, 12/2005, 197, 208, U, 17-5 to 18-4
+, 2004, 1/2004, 12/2004, 185, 196, U, 16-5 to 17-4
+, 2003, 7/2003, 12/2003, 179, 184, U, 15-11 to 16-4
+, 2003, 1/2003, 5/2003, 173, 177, U, 15-5 to 15-9
+, 2002, 1/2002, 12/2002, 161, 172, U, 14-5 to 15-4
+, 1999, 3/1999, 12/1999, 127, 136, U, 11-7 to 12-4
+
+, , 3/2004, , 187, , U, 16-7 (Extra Copy-mark as c/m Has been transferred to circ room)
+-----File: mag-055.jpg---\kkb\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 4/5/07
+Workers: JSB KKB
+Time Start: 5:30
+Time End: 5:33
+Collection: New Mags
+Magazine Name: Science Fiction Age
+Structure: bimonthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+ , 2000, 5/00, , 8-4, , U,
+ , 2000, 1/00, , 8-2, , U,
+ , 1999, 1/99, 11/99, 7-2, 8-1, U,
+ , 1998, 1/98, 11/98, 6-2, 7-1, U,
+ , 1997, 5/97, 11/97, 5-4, 6-1, U,
+-----File: mag-057.jpg---\kkb\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 3/8/07
+Workers: MKR
+Time Start: 7:00
+Time End: 7:20
+Collection: Foreign SR SR/FM
+Magazine Name: Uchujin [**Japanese symbols]
+Structure: monthly
+Notes: These are the Japanese magazines.  There are also Chinese ones (13).  I'll do them later.
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+ , 1962, Aug, , 8, , [**B/U?], Actually, 8 refers to Aug. #58
+ , 1964, Oct, , 10, , [**B/U?], 10=Oct; #84
+ , 1965, [Jan; Mar; Apr], , [87; 89; 90], , [**B/U?],
+ , 1966, Jul, Dec, 104, 108, [**B/U?], missing 106
+ , 1970, Oct, Dec, 148, 150, [**B/U?],
+ , 1971, Jan, Dec, 151, 160, [**B/U?], have Jan F May Jun Jul Aug Oct Nov Dec
+ , 1972, Jan, Dec+1, 161, 171, [**B/U?], JF;AMJJA;ONDec and one from 1/20 next year that counts as 1972; We have all of 161-171 so no Mar or Sept printing
+ , 1973, Jul, Dec, 172, 173, [**B/U?], Just 2 [**twice annually]
+ , 1974, 5/30, 11/30, 174, 175, [**B/U?], Just 2 [**twice annually]
+ , 1975, 7/15, 12/31, 176, 177, [**B/U?], Just 2 [**twice annually]
+-----File: mag-058.jpg---\kkb\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 3/4/07
+Workers: KKB
+Time Start:
+Time End:
+Collection: New Mags
+Magazine Name: misc
+Structure:
+Notes: New magazines coming in from the mail.  Put onto New Books shelf. -KKB
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+ , 2006, winter/06, , 18-4, , U, OnSpec! the Canadian Magazine of the Fantastic
+ , 2007, 5/07, , 127-5, , U, Analog
+ , 2007, 4-5/07, , 31-(4-5), , U, Asimov's Science Fiction (April/May double issue)
+ , 2007, 3/07, , 112-3, , U, Fantasy & Science Fiction (whole issue # 659)
+ , 2007, 4/07, , 13-4, , U, Realms of Fantasy
+ , 2007, 2/07, , 58-2, , U, Locus (whole issue #553)
+ , , , , 208, , U, Interzone (bimonthly)
+-----File: mag-059.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/23/07
+Workers: KKB
+Time Start:
+Time End:
+Collection: C/M
+Magazine Name: Fantasy & Science Fiction
+Structure:
+Notes: From Magdex - entered into library
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+30, 1966, 3/66, , 30-3, , U, whole issue #178
+-----File: mag-060.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/22/07
+Workers: KKB, JSB
+Time Start: 5:15
+Time End:
+Collection: C/M
+Magazine Name: Misc.
+Structure:
+Notes: Months on cover & title page different for Sci. Fi. Chronicle
+Are "SF Greats" and "Science Fiction Greats" the same magazine? Probably the same...?
+Are "Science Fiction" and "Science Fiction Quarterly" the same magazine? Probably not...
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1992, 11/92, , 1-1, , U, "Science Fiction Age"
+15, 1994, 9/94, , 15-10, , U, "Science Fiction Chronicle"*
+16, 1994, 10/94, 11-12/94, 16-1, 16-2, ^, "Oct-Nov"; "Dec"
+16, 1995, 2/95, , 16-4, , ^,
+16, 1995, 6-7/95, 8-9/95, 16-7, 16-9, ^, "Jun-Jul"; "Jul"; "Aug-Sept"
+17, 95-96, 12/95-1/96, , 17-2, , ^, 1 issue
+1, , , , 1-1, 1-2, ^, "Science Fiction Digest"
+, , 2/51, (no date), 4, 6, ^, "Science Fiction Fortnightly"
+, , Spring 1969, , 14, , ^, "Science Fiction Greats"
+, , Winter 1969, , , , ^, ^
+, , Fall 1970, , 19, , ^, "SF Greats"
+, , Winter 1970, , 20, , ^, ^
+, , 3/53, , , , ^, "Science-Fiction Plus"
+, , 3/39, , 1-1, , ^, "Science Fiction"
+?, , 3/41, 6/41, ?-4, ?-5, ^, ^; vol. no. is ambiguous - either "11" or "II (2)"
+1, , 11/51, 5/52, 1-1, 1-5, ^, "Science Fiction Quarterly"
+2, , 2/53, , (2-1 or 1-2)?, , ^, ^
+3, , 8/55, , 3-6, , ^, ^
+5, , 2/58, , 5-4, , ^, ^
+4, , 11/56, , 4-5, , ^, ^
+
+* The right margin has an arrow here, going down to the line starting with 17
+-----File: mag-061.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/07
+Workers: KKB, JSB
+Time Start: 5:20
+Time End:
+Collection: C/M
+Magazine Name: Misc.
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, '67; '69; '70; '71, , , 1; 3; 4; 5, , U, "Science Fiction yearbook" (yearly)
+3, , 4/62, , 3-4, , ^, "The Searcher"
+, , Summer/90, Winter/91, 14-4, 15-2, ^, "Skeptical Inquirer" (3 in sequence)
+, , Summer/71, , 14, , ^, "Space Adventures"
+, , 5/52, , 1-1, , ^, "Space Science Fiction"
+, , 9/52, , 1-2, , ^, ^
+, , 11/52, , 1-3, , ^, ^
+, , 2/53, , 1-4, , ^, ^
+, , 3/53, , 1-5, , ^, ^
+, , 7/53, , 2-1, , ^, ^
+, , Spring/1957, , 1-1, , ^, "Space Science Fiction Magazine" (different)
+, , 8/57, , 1-2, , ^, ^
+, , 1/61, , 1-5, , ^, "Space World"
+, , 3/61, , 1-6, , ^, ^
+10, , 1/68, 5/68, 10-1, 10-5, ^, "Spaceflight" (monthly)
+10, , 7/68, 9/68, 10-7, 10-9, ^, ^
+11, , 10/69, , 11-10, , ^, ^
+1, , 11/58, , , 1-1, ^, "Space Age"
+-----File: mag-062.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/22/07
+Workers: KKB, JSB
+Time Start: 5:55
+Time End:
+Collection: C/M
+Magazine Name: Spaceflight
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1958, 1/58, , 1-6, , U, quarterly
+2, 1960, 4/60; 7/60, 10/60, 2-6, 2-8, ^, quarterly
+3, 1961, 1/61, 11/61, 3-1, 3-6, ^, bimonthly
+4, 1962, 1/62, 11/62, 4-1, 4-6, ^, bimonthly
+5, 1963, 1/63, 11/63, 5-1, 5-6, ^, bimonthly
+6, 1964, 1/64, 11/64, 6-1, 6-6, ^, bimonthly
+7, 1965, 1/65, 11/65, 7-1, 7-6, ^, bimonthly
+8, 1966, 1/66, 12/66, 8-1, 8-12, ^, MONTHLY from now on
+9, 1967, 1/67, 11/67, 9-1, 9-11, ^,
+-----File: mag-063.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/22/07
+Workers: KKB, JSB
+Time Start: 6:00
+Time End:
+Collection: C/M
+Magazine Name: Misc.
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+2, 1954, 2/54, , 2-3, , U, "Spaceway Science Fiction"
+4, 1969, 9-10/69, , 4-3, , ^, ^
+, 1982, , , , , ^, "Star Trek 2: The Wrath of Khan Official Movie Magazine" (special issue of "Starlog"; shelve as "Starlog")
+3, , , , 3-3, , ^, "Starburst"
+-----File: mag-064.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/22/07
+Workers: KKB, JSB
+Time Start: 6:10
+Time End:
+Collection: C/M
+Magazine Name: Starlog
+Structure: "not quite monthly" -JSB
+Notes: perfectly monthly except that there is no 1/1979 or 11/1978
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 78-80, 8/78, 3/80, 15, 32, U,
+, 1980, 5/80, , 34, , ,
+, 1981, 6/81, 9/81, 47, 50, ,
+, , 7/82, 7/84, 60, 84, ,
+-----File: mag-065.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/22/07
+Workers: KKB, JSB
+Time Start: 6:30
+Time End:
+Collection: C/M
+Magazine Name: Misc.
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+3, 1967, Summer, Winter, 3-1, 3-1, U, "Startling Mystery Stories"
+1, 1939, 1/39, , 1-1, , ^, "Startling Stories"*
+2, 1939, 7/39, 9/39, 2-1, 2-2, ^,
+10, 1944, Winter 1944, , 10-2, , ^,
+14, 1946, Summer 1946, , 14-1, , ^,
+15, 1947, 7/47, , 15-3, , ^,
+20, 1949-50, 11/49, 7/50, 20-2, 21-3, ^, bimonthly sequence
+22, 1950, 11/50, , 22-2, , ^,
+23, 1951, 7/51, , 23-3, , ^,
+24, 1951, 9/51, , 24-1, , ^,
+27, 1952, 9/52, , 27-2, , ^, monthly
+28, 1953, 1/53, , 28-3, , ^,
+31, 1954, 1/54, , 31-2, , ^,
+31, 1954, Spring 54, , 31-3, , ^,
+33, 1955, Spring 55, , 33-1, , ^,
+1, 1952, 5/1952, , 1-2, , ^, "Strange: The Magazine of True Mystery"
+, 1971, , , 4, , ^, "Strange: True Stories of the Supernatural"
+, 1972, Spring, , , , ^, ^
+, 1939, 6/39, , 1-3, , ^, "Strange Stories"
+
+*arrow in right margin points from here down to the line starting with 33-- (MHG: I suspect this is a bracket that means all items contained by the arrow are the same but I am not sure...)
+-----File: mag-066.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/22/07
+Workers: KKB, JSB
+Time Start: 6:25
+Time End:
+Collection: C/M
+Magazine Name: Misc.
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1957, 6/57, , 1-4, , U, "Super Science Fiction" (bimonthly)
+1, 1957, 10/57, , 1-6, , ^, ^
+2, 1958, 2/58, , 2-2, , ^, ^
+2, 1958, 8/58, , 2-5, , ^, ^
+3, 1958, 12/58, , 3-1, , ^, ^
+3, 1959, 4/59, , 3-3, , ^, ^
+3, 1959, 6/59, , 3-4, , ^, ^
+3, 1959, 8/59, , 3-5, , ^, ^
+5, 1949, 7/49, , 5-3, , ^, "Super Science Stories"
+5, 1949, 9/49, , 5-4, , ^, ^
+6, 1950, 5/50, , 6-4,, , ^, ^
+7, 1950, 11/50, , 7-3, , ^, ^
+, , , , 5, , ^, "TV Sci-fi Monthly"
+, , , , 8, , ^, ^
+1, 1968, 7/68, , 1-10, , ^, "Tales From the Crypt"
+, 1972, 4/72, , 24, , ^, "Thrilling Science Fiction" (mixed countries, all English language)
+, , , , 19, , ^, ^
+, 1972, 2/72, , 23, , ^, ^
+, 1973, 10/73, , , , ^, ^
+, 1973, 12/73, , , , ^, ^
+, 1974, 6/74, , , , ^, ^
+, , , , 4, , ^, "Tales of Tomorrow"
+-----File: mag-067.jpg---\dnawi\mgentile555\-------------------------------
+MITSFS Magazine Inventory
+
+Date: February 22, 2007
+Workers: KKB/JSB
+Time Start: 6:35
+Time End:
+Collection: C/M
+Magazine Name: Misc.
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+14, 1939, 12/39, , 14-3, , U, "Thrilling Wonder Stories"
+23, 1943, 2/43, , 23-3, , U, ^
+31, 1948, 2/48, , 31-3, , U, ^
+32, 1948, 4/48, , 32-1, , U, ^
+37, 1951, 2/51, , 37-3, , U, ^
+38, 1951, 8/51, , 38-3, , U, ^
+39, 1951, 10/51, , 39-1, , U, ^
+39, 1952, 2/52, , 39-3, , U, ^
+40, 1952, 6/52, , 40-2, , U, ^
+41, 1952, 12/52, , 41-2, , U, ^
+42, 1953, 8/53, , 42-3, , U, ^
+43, 1953, 11/53, , 43-1, , U, ^
+44, 1954*, Winter/54, , 44-3, , U, ^
+------------------------------------
+10, 1962, Spring/62, , 10-2, , U, "Tomorrow"
+, , , , 1, 2, U, "Treasury of Great Science Fiction Stories"
+12, 1973, , , , , U, "TRW Space Log"
+9, 1969-70, Winter, , 9-4, , U, ^
+
+*This item marked in the margins with "(?year?)<--We aren't sure...")
+-----File: mag-068.jpg---\dnawi\mgentile555\-------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 19, 2007
+Workers: KKB
+Time Start:
+Time End:
+Collection: C/M
+Magazine Name: Fantasy & Science Fiction
+Structure: monthly (Oct/Nov combined issue starting 1991 (11 issues/yr))
+Notes: From 2/19/07 MagDexing New circulating magazines!! :)
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+87, 1994, 9/94, , 87-3 (520) [** whole issue no. in parentheses], , U,
+88, 1995, 3/95, , 88-3 (526), , U,
+88, 1995, 5/95, , 88-5 (528), , U,
+88, 1995, 6/95, , 88-6 (529), , U,
+-----File: mag-069.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 11/12/06
+Workers: JFC, JSB
+Time Start:
+Time End:
+Collection:
+Magazine Name: Galaxy
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1950, Oct, Dec, 1-1, 1-3, B,
+, 1951, Jan, Jun, 1-4, 2-3, ^,
+, 1951, Jul, Dec, 2-4, 3-3, ^,
+, 1952, Jan, Jun, 3-4, 4-3, ^,
+, 1952, Jul, Dec, 4-4, 5-3, ^*,
+, 1953, Jan, Jun, 5-4, 6-3, ,
+, 1953, Jul, Dec, 6-4, 7-3, ,
+, 1954, Jan, Jun, 7-4, 8-3, ,
+, 1954, Jul, Dec, 8-4, 9-3, ,
+, 1955, Jan, Jun, 9-4, 10-3, ,
+, 1955, Jul, Nov, 10-4, 11-2, ,
+, 1956, Jan, Jun, 11-3, 12-2, ,
+, 1956, Jul, Dec, 12-3, 13-2, ,
+, 1957, Jan, Jun, 13-3, 14-2, ,
+, 1957, Jul, Dec, 14-3, 15-2, ,
+, 1958, Jan, Jun, 15-3, 16-2, ,
+, 1958, Jul, Dec, 16-3, 17-2, ,
+, 1959, Feb, Dec, 17-3, 18-2, , bimonthly
+, 1960, Feb, Dec, 18-3, 19-2, ,
+, 1961, Feb, Dec, 19-3, 20-2, ,
+, 1962, Feb, Dec, 20-3, 21-2, ,
+, 1963, Feb, Dec, 21-3, 22-2, ,
+, 1964, Feb, Dec, 22-3, 23-2, ,
+, 1965, Feb, Dec, 23-3, 24-2, ,
+
+*Was the B meant to apply to all issues catalogued on this page? Many are not marked B/U
+-----File: mag-070.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 11/12/06
+Workers: JFC, JSB, Sukrit
+Time Start:
+Time End:
+Collection:
+Magazine Name: Galaxy
+Structure: varies
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1966, Feb, Dec, 24-3, 25-2, B, bimonthly
+, 1967, ^, ^, 25-3, 26-2, B,
+, 1968, Feb, Jul, 26-3, 26-6, B, monthly from June
+, 1968, Aug, Dec, 27-1, 27-5, B,
+, 1969, Jan, May, 27-6, 28-4, B,
+, 1969, Jul, Dec, 28-5, 29-4, U,
+, 1970, Jan, Jun, 29-5, 30-3, B, missing Feb--doesn't exist
+, 1970-1, Jul, Feb, 30-4, 31-3, B, Jul; Aug/Sep; Oct/Nov; Dec; Jan; Feb
+, 1971, Mar, Nov-Dec, 31-4, 32-3, B, switches to bimonthly in May
+, 1972, Jan, Nov, 32-4, 33-3, U, bimonthly still
+, 1973, Jan, Jul, 33-4, 33-7, B, bimonthly
+, 1973, Sept, Dec, 33-8, 34-3, U, monthly in Sept (misprint in Sept: says 34-8; 33-8 really)
+, 1974, Jan, Apr, 34-4, 34-7, U,
+, 1974, May, Dec, 35-5, 35-12, U, #ing system [**Delta symbol, possibly to denote "changes"]
+, 1975, Jan, Apr, 36-1, 36-4, U,
+, 1975, June, Oct, 36-5, 36-9, U, skip May and Nov/Dec--missing or don't exist? not sure
+, 1976, Jan, Mar, 37-1, 37-3, B,
+, 1976, May, , 37-4, , , same volume as above
+, 1976, Sept, Dec, 37-6, 37-9, U,
+, 1977, Mar, June, 38-1, 38-4, B,
+, 1977, July, Nov, 38-5, 38-9, B, monthly stuff
+, 1977-8, Dec-Jan, June, 39-1, 39-6, U,
+, 1978-9, Sept, Nov-Dec, 39-7, 39-8, B, 1 volume not series
+, , Mar-Apr, Jun-July, 39-9, 39-10, , ^
+, , Sept-Oct, , 39-11, , , ^
+, 1980, July, , 40-1, , U,
+-----File: mag-071.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 11/12/06
+Workers: JSB, Sukrit
+Time Start: 2:08
+Time End: 2:21
+Collection: C/M
+Magazine Name: Misc.
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 1, 5, U, Orbit Science Fiction
+, 1955, Jan, May, 5-4, 5-6, ^, Science Fiction Stories (not a series)
+, 1955, Sept, Nov, 6-2, 6-3, ^, None O: The Original Science Fiction Story; bimonthly*
+, 1956, May, July, 6-6, 7-1, ^, ^
+, 1956-7, Nov, May, 7-3, 7-6, ^, ^
+, 1957, Sept, , 8-2, , ^, ^
+, 1958, Jan, May, 8-4, 8-6, ^, ^
+, 1958, June, July, 8-7, 9-1, ^, ^
+, 1958, Sept, Nov, 9-3, 9-4, ^, ^ bimonthly
+, 1959, Feb, Mar, 9-6, 10-1, ^, ^
+, 1959, July, Nov, 10-3, 10-5, ^, ^
+, 1950, Mar, Oct, 3, 7, ^, Other Worlds Magazine (bimonthly)
+, 1951, Sept, , 13, , ^, ^
+, 1951, Dec, , 15, , ^, ^
+, 1952, Mar, , 17, , ^, ^
+, 1952, June, , 19, , ^, ^
+, 1952, Aug, , 21, , ^, ^
+, 1953, Jan, Feb, 25, 26, ^, ^
+, 1953, Apr, , 28, , ^, ^
+, 1953, June, , 30, , ^, ^
+, 1950, Dec, , 1-2, , ^, Out of This World Adventures
+
+* I'm not sure about None O. I just couldn't decipher the handwriting.
+-----File: mag-072.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 11/12/06
+Workers: JSB, Sukrit
+Time Start: 2:28
+Time End: 2:33
+Collection: C/M
+Magazine Name: Robotics Age
+Structure:
+Notes: Looks like Science Fact - expel from library?
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1979-80, Summer, Fall, 1-1, 2-3, U, Quarterly; note no 1-3
+, 1981, Jan-Feb, Nov-Dec, 3-1, 3-6, ^, Bimonthly in Jan
+, 1982, ^, ^, 4-1, 4-6, ^,
+, 1983, ^, ^, 5-1, 5-6, ^,
+, 1984, Jan, Mar, 6-1, 6-3, ^, Monthly; page 12 of March issue: list of all back issues, implying we have all of those issues up to that time
+-----File: mag-073.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 11/12/06
+Workers: JSB, Sukrit
+Time Start: 2:22
+Time End: 2:41
+Collection: C/M
+Magazine Name: Misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1944, Summer, , 2-7, , U, Planet Stories
+, 1951, Sept, , 5-2, , ^, ^
+, 1952, Jan, , 5-4, , ^, ^
+, 1953, Nov, , 6-3, , ^, ^
+, 2000, June, , 6-5, , ^, Realms of Fantasy
+, 1953, Apr, , 1-1, , ^, Rocket Stories
+, 1956-8, Oct, Dec, 1-1, 3-2, ^, Satellite Science Fiction; bimonthly
+, 1959, Feb, , 3-3, , ^, Satellite Science Fiction; monthly
+, 1959, May, , 3-6, , ^, ^
+, 1957, May, , 1-2, , ^, Saturn
+, 1957, July, , 1-3, , ^, ^
+, 1958, Mar, , 1-5, , ^, ^
+, 1950-1, Winter, Spring, 1, 2, ^, Science-Adventure Space Books
+, 1951-2, Winter, Summerm 4, 6, ^, ^
+, 1953, ^, , 10, , ^, ^
+-----File: mag-074.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 11/12/06
+Workers: JSB, Sukrit
+Time Start: 2:49
+Time End: 3:00
+Collection: C/M
+Magazine Name: Science Fiction Adventures
+Structure:
+Notes: In general, we think this series is screwed up numerically due to having things from diff. continents
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1953, Feb, Mar, 1-2, 1-3, U,
+, 1953, July, , 1-5, , ^,
+, 1953, Sept, , 1-6, , ^,
+, 1953, Dec, , 1-6, , ^,
+, 1957, Apr, , 1-3, , ^,
+, 1957, June, Sept, 1-4, 1-6, ^,
+, 1957, Oct, Dec, 2-1, 2-2, ^,
+, 1958, Mar, , 2-4, , ^,
+, 1958, Jun, , 2-6, , ^,
+, 1961, , , 4-21, , ^, [something incomprehensible MHG: I think it says "?[Delta symbol="Change"] to British Edition"]
+, 1961-2, , , 4-23, 5-27, ^, 4-5 after #24
+, 1962-3, Nov-Dec, Jan-Feb, 5-29, 5-30, ^,
+, 1963, , , 6-32, , ^,
+, 1973, July, , , , ^, Science Fiction Adventures Classics (Same thing?)
+, 1974, May, , , , ^,
+, 1971, Spring, , 13, , ^, Science Fiction Adventure Classics (bimonthly)
+, 1972, Jan, , 16, , ^, ^
+, 1974, Sept, Nov, , , ^, ^
+-----File: mag-075.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 11/12/06
+Workers: JSB, Sukrit
+Time Start: 2:34
+Time End: 3:00
+Collection: C/M
+Magazine Name: Misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1968, Oct, , 64-4, , U, Science Digest (Science Fact? Chuck?)
+, 1952, Spring, , 2-4, , ^, Science Fantasy
+, 1958, , , 9-27, , ^, 6 issues/ year; issue #, vol # independent
+, 1961, , , 16-48, , ^, ^
+, 1961, , , 17-49, 17-50, ^, ^
+, 1962, Apr-May, , 18-52, , ^,
+, 1963, , , 19-57, 20-58, ^,
+, 1965, Nov, Dec, 24-78, 24-79
+, 1970-1, Fall, Winter, 2, 3, ^, Check same mag? (same title)
+-----File: mag-076.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: November 30, 2006
+Workers: ALC JSB
+Time Start: 4:45
+Time End: 5:04
+Collection:
+Magazine Name: Avon Fantasy Reader
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+none, 1947, , , 1, 5, B
+, 1948-49, , , 6, 11, B
+, 1950, , , 12, 14, B
+, 51-52 [*crossed out], , , 15, 18, B, 53
+, , , , , , B, Avon Science Fiction & Fantasy 1-2 [*squiggle MHG: I think it is the word "and"] Science Fiction 1-3 51-52
+, 51-52, , , 1, 3, B, Avon Science Fiction Reader
+, 53, , , 1, 2, B, Avon Science Fiction & Fantasy
+-----File: mag-077.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: November 30, 2006
+Workers: ALC & JSC
+Time Start: 5:05
+Time End:
+Collection:
+Magazine Name:
+Structure:
+Notes:
+
+Title, Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+Beyond, , 53-54, July, March, 1-1, 1-5, B, Bimonthly
+, , 54-55, May, , 1-6, 2-4, B,
+Beyond (British), , , , , 1-1, 1-4, B
+Bizzare Fantasy, , 70-71, fall, [*scribble], 1, 2, B, One volume
+& [*8 MHG: "&"?] Wierd Terror, 70, Win, sum, 1, 2, B, ^
+Captain Future, , 40, win, fall, 1-1, 2-1, B, Quarterly
+^, , 41, win, fall, 2-2, 3-2, B
+^, , 42, win, fall, 3-3, 4-3, B
+^, , 43-44, win, spring, 5-1, 6-1, B, 5-3 summ to 6-2 sprg to 6-1 [*scribble] steps for 43
+Captain Zero, , 49-50, Nov, Mar, 1-1, 1-3, B, Bimonthly
+Cemetary Dance, 88-90, Dec, Fall, 1-1, 2-4, B, Dec 88, June 89, 2-1 to 2-4 win 90 to fall 90
+^, , 91-92, win, fall, 3-1, 4-4, B, Quarterly
+Commt[*"Commet?"--Comet spelled wrong?] Stories, , 40-41, Dec, Jul, 1-1, 1-5, B, Bimonthly
+Cosmic Stories, , 41, Mar, Jul, 1-1, 1-3, , Bimonthly
+Out of this World Adventures, , 50, Jul, Dec, 1-1, 1-2, B
+, , 51, Spring, , 1-1, , B, Just one
+Ten-Story Fantasy, , , , , , , B
+Cosmos Science F*, , 53-54, Sept, Jul, 1, 4, B, Sept Nov Mar Jul
+Cosmos, , 77, May, Nov, 1-1, 1-4, B, Bimonthly
+Coven 13, , 69-70, Sept, Mar, 1-1, 1-4, B, Bimonthly
+Witchcraft & Sorcery, , 71-74, no dates, , 5, 10, B, W&S Coven 13
+Doc Savage, , 39, Jan, Jun, 12-5, 13-4, B, Monthly
+Dreamworld, , 57, Feb, Aug, 1-1, 1-3, B, Quarterly
+Fantasy, , 46-47, Dec Apr, Aug, 1-1, 1-3, ^, Random
+-----File: mag-078.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 30 2006
+Workers: ALC JSB
+Time Start:
+Time End: 5:36
+Collection:
+Magazine Name:
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 52-52, Dec, Jan, 1-1, 1-6, B, Quarterly, month is irrelivant [** Dynamic Science Fiction]
+, 39, Feb, Apr-May, 1-1, 1-2, B, [** Dynamic Science Stories]
+, 41, Apr, , 1-1, , B, [*Uncanny Stories]
+, 53, Spr, Fall, 1-1, 1-2, B, [**Tops in Science Fiction]
+, 87-88, , , 13, 17, B, [**Eldrich Tales]
+, 89-90, , , 18, 24, B, [**Eldrich Tales]
+, 91-95, , , 25, 30, B, [**Eldrich Tales]
+, , , , 2, , U, [**Fangoria]
+-----File: mag-079.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 30, 2006
+Workers: ALC JFC
+Time Start: 5:36
+Time End: 5:47
+Collection:
+Magazine Name: Famous Fantastic Mysteries
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 39-40, Sep-Oct, Mar, 1-1, 1-6, ,
+, 40, Apr, Dec, 2-1, 2-5, , Bimonthly
+, 41, Feb, Dec, 2-6, 3-5, ,
+, 42, Feb, Sep, 3-6, 4-5, , Monthly from June
+, 42-43, Oct, Dec, 4-6, 5-5, , 3 twos in 43; Mar Sep and Dec
+, 44, Mar, Dec, 5-6, 6-3, , Quarterly
+, 45, Mar, Dec, 6-4, 7-1, ,
+, 46, Feb, Dec, 7-2, 8-2, , Bimonthly no 7-6
+, 47, Feb, Dec, 8-3, 9-2, ,
+, 48, Feb, Dec, 10-3, 11-2, ,
+, 50, Feb, Oct, 11-3, 12-1, , 5-issues; missed Dec
+, 51, Jan, Dec, 12-2, 13-1, , Jan Mar May Jun Oct Dec
+, 52-53, Feb, Jan, 13-2, 14-4, ,
+-----File: mag-080.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 30 2006
+Workers: ALC JSB
+Time Start:
+Time End:
+Collection:
+Magazine Name: Famous Science Fiction
+Structure:Quarterly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 66-67, Win, Win, 1-1, 1-5, , Quarterly
+, 68-69, Sp, Sp, 1-6, 2-3, , Skipped Winter
+-----File: mag-081.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 30 2006
+Workers: ALC JSB
+Time Start: 5:50
+Time End: 5:58
+Collection:
+Magazine Name: Fantastic
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 52, Jun, Mar, 1-1, 1-3, B, Jun Fall Nov/Dec
+, 53, Jan/Feb, Nov/Dec, 2-1, 2-6, B, Bimonthly
+, 54, Jan/Feb, Dec, 3-1, 3-6, B, ,
+, 55, Feb, Dec, 4-1, 4-6, B, ,
+, 56, Feb, Dec, 5-1, 5-6, B, ,
+, 57, Feb, Jun, 6-1, 6-5, B, ,
+, 57, Jul, Dec, 6-6, 6-11, B, monthly,
+, 58, Jan, Jun, 7-1, 7-6, B, ,
+, 58, Jul, Dec, 7-7, 7-12, B, ,
+, 59, Jan, Jun, 8-1, 8-6, B, ,
+, 59, Jul, Dec, 8-7, 8-12, B, ,
+, 60, Jan, Jun, 9-1, 9-6, B, ,
+, 60, Jul, Dec, 9-7, 9-12, B, ,
+, 61, Jan, Jun, 10-1, 10-6, B, ,
+, 61, Jul, Dec, 10-7, 10-12, B, named "Fantastic Stories",
+, 62, Jan, Jun, 11-1, 11-6, B, ,
+, 62, Jul, Dec, 11-7, 11-12, B, ,
+, 63, Jan, Jun, 12-1, 12-6, B, ,
+, 63, Jul, Dec, 12-7, 12-12, B, ,
+, 64, Jan, Jun, 13-1, 13-6, B, ,
+, 64, Jul, Dec, 13-7, 13-12, B, ,
+, 65, Jan, Nov, 14-1, 15-2, B, only Sep and Nov after Jun
+, 66, Jan, Nov, 15-3, 16-2, B, Bimonthly
+, 67, Jan, Nov, 16-5, 17-2, ,
+-----File: mag-082.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 30 2006
+Workers: ALC JSB
+Time Start: 5:59
+Time End:
+Collection:
+Magazine Name: Fantastic Stories
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 68, Jan, Nov, 17-3, 18-2, B, Bimonthly
+, 69, Feb, Dec, 18-3, 19-2, B,
+, 70, Feb, Dec, 19-3, 20-2, B,
+, 71, Feb, Dec, 20-3, 21-2, B,
+, 72, Feb, Dec, 21-3, 22-2, U,
+, 73, Feb, Nov, 22-3, 23-1, B, Feb Apr Jul Sept Nov
+, 74, June, Nov, 23-2, 24-1, U,
+, 75, Feb, Dec, 24-2, 25-1, U
+, 76, Feb, Nov, 25-2, 25-5, U, Quarterly
+, 77, Feb, Dec, 26-1, 26-4, U,
+, 78, Apr, Oct, 27-1, 27-3, U,
+, 79, Jan, Apr, 27-4, 27-5, U, just 2
+, 79-80, Jul, Oct, 27-6, 27-11, B,
+-----File: mag-083.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  November 30 2006
+Workers: ALC JSB
+Time Start:
+Time End:
+Collection:
+Magazine Name: Fantastic Adventures
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 40, Jan, May, 2-1, 2-5, B, Monthly
+, 40-41, Jun, Jan, 2-6, 3-1, B, Jun-Jan
+, 41, Mar, Jul, 3-2, 3-5, B, March May  Jun July
+, 41, Jul, Dec, 3-6, 3-10, B, Jul Sep-Oct
+, 42, Jan, Mar, 4-1, 4-3, B,
+, 42, Apr, Jun, 4-4, 4-6, B,
+, 42, Jul, Sep, 4-7, 4-9, B,
+, 42, Oct, Dec, 4-10, 4-12, B,
+, 43, Jan, Mar, 5-1, 5-3, B,
+, 43, Apr, Jun, 5-4, 5-6, B,
+, 43, Jul, Dec, 5-7, 5-10, B,
+, 43, Jul, Dec, 5-7, 5-10, B, Jul Aug Oct Dec
+, 44, Feb, Oct, 6-1, 6-4, B, Quarterly
+, 45, Jan, Dec, 7-1, 7-5, B, 5 issues Jan Apr Jul Oct Dec
+, 46, Feb, Nov, 8-1, 8-5, B, Feb May Jul Sep Nov
+, 47, Jan, Jul, 9-1, 9-4, B, Jun Mar May Jul
+, 47, Sep, Dec, 9-5, 9-8, B, Sep Oct Mar Dec
+, 48, Jan, Jun, 10-1, 10-6, B,
+, 48, Jul, Dec, 10-7, 10-12, B,
+, 49, Jan, Jun, 11-1, 11-6, B,
+, 49, Jul, Dec, 11-7, 11-12, B,
+, 50, Jan, Jun, 12-1, 12-6, B,
+, 50, Jul, Dec, 12-7, 12-12, B,
+, 51, Jan, Jun, 13-1, 13-6, B,
+, 51, Jul, Dec, 13-7, 13-12, B,
+-----File: mag-084.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 30 2006
+Workers: ALC JSB
+Time Start:
+Time End:
+Collection:
+Magazine Name: Fantastic Adventures
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 52, Jan, Jun, 14-1, 14-6, B,
+, 52, Jul, Dec, 14-7, 14-12, B,
+, 53, Jan, Mar, 15-1, 15-3, B, 3 issues Jan; Feb; Mar
+-----File: mag-085.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  November 12 2006
+Workers: SCP ALC
+Time Start:
+Time End:
+Collection: SR
+Magazine Name: Authentic Science Fiction (**"Science Fiction Monthly was name for 3/4 1957)
+Structure: Monthly (**First 3 bound vols are fortnightly.  After that published monthly on the 15th)
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1951, 1/51, 2/51, 1, 4, B, named Authentic; comes out twice monthly
+, 1951, 3/51, 4/51, 5, 8, B, named Fortnightly; comes out twice monthly
+, 1951, 5/51, 8/51, 9, 12, B, named Monthly; comes out monthly
+, 1951, 9/51, 12/51, 13, 16,  B, named Authentic; comes out monthly
+, 1952, 1/52, 6/52, 17, 22, B,
+, 1952, 7/52, 12/52, 23, 28, B,
+1, 1953, 1/53, 6/53, 29, 34, B,
+1, 1953, 7/53, 12/53, 35, 40, B,
+1, 1954, 1/54, 6/54, 41, 46, B, Jan issue labeled March?
+1, 1954, 7/54, 12/54, 47, 52, B,
+, 1955, 1/55, 6/55, 53, 58, B,
+, 1955, 7/55, 12/55, 59, 64, B,
+, 1956, 1/56, 6/56, 65, 70, B,
+, 1956, 7/56, 12/56, 71, 75, B, Oct non-existent
+, 1957, 1/57, 5/57, 76, 80, B,
+, 1957, 6/57, 10/57, 81, 85, B,
+-----File: mag-086.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 12 2006
+Workers: SCP ALC
+Time Start:
+Time End: 2PM
+Collection:
+Magazine Name: Aurealis
+Structure: Quarterly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1990-91, 2/90?, 12/91?, 1, 6, B, 2 issues in 1990; 4 in 91
+, 1992, 3/92?, 93?, 7, 12, B, 4 issues 92, 1 in 92 or 93?; 1 in 93 now published twice yearly Dune + Dec!!!
+-----File: mag-087.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  November 12 2006
+Workers: SIR JSB
+Time Start:
+Time End:
+Collection: Circulating
+Magazine Name: Small Bits A-F
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , Fall 78, , 1-1, , U, Asimov's SF Adventure Magazine
+, , , , 13 16, , U, Aurealis (Biannual)
+, , 7/68, 9/68, 47(8-5), 48(8-6), U, Exploring the Unknown (2 issues)
+, , Spr 67, Sum 68, 1-2(2), 2-5(7), U, Famous Science Fiction (2 issues quarterly)
+, , 6/70, , 1-1,  , U, Dark Shadows (Quarterly)
+, , , , , 13, U, Fangoria (Bimonthly)
+, 1977, , , , , U, An Angosy Special Science Fiction (?)
+, , 11/77, , , , U, Ancient Asronauts (9/year)
+-----File: mag-088.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  November 12 2006
+Workers: JSB SIR
+Time Start: 1:16
+Time End:
+Collection: C/M
+Magazine Name: Fantastic
+Structure: Quarterly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , Jun 52, , 1-1, U,
+, 1952, Nov/Dec, , 1-3, , U,
+, 1953, Jan/Feb, Mar/Apr, 2-1, 2-2, U,
+-----File: mag-089.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 12 2006
+Workers: JSB SIR
+Time Start: 1:18
+Time End: 1:29
+Collection:
+Magazine Name: Famous Fantastic Mysteries
+Structure: Bimonthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , 8/40, , 2-3, , U,
+, , 12/40, , 2-5, , U,
+, , 4/41, , 3-1, , U, 2 copies
+, , 7/42, , 4-3, , U,
+, , 11/42, , 5-1, , U,
+, , 9/44, , 6-2, , U,
+, , 2-47, 6/47, 8-3, 8-5, U,
+, , 4-48, , 9-4, , U,
+, , 8/48, , 9-6, , U,
+, , 12/48, , 10-2, , U,
+, , 6/49, , 10-5, , U,
+, , 10/49, 12/49, 11-1, 11-2, U,
+, , 6/50, , 11-5, , U,
+, , 7/51, , 12-5, , U,
+, , 10/51, , 12-6, , U,
+-----File: mag-090.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 12 2006
+Workers:JSB SIR
+Time Start:
+Time End:
+Collection: C/M
+Magazine Name: Small Randoms
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , 12/52, , 1-1, , U, Dynamic Science Fiction
+, , 10/81, , 1-8, , U, Epic Illustrated
+, , , , 7, , U, Concatenaion
+, , , , 24; 22, 39; 55, U, Authentic Science Fiction (monthly) (**39 is 1954; 55 is 1955)
+, , 9/53, 11/53, 1, 2, U, Cosmos Science Fiction and Fantasy Magazine
+, , 3/41, , 1-1, , U, Cosmic
+, , 5/77, 11/77, 1-1, 1-4, U, Cosmos Science Fiction and Fantasy (2 copies of 1-1)
+, 1952, 3, , , , U, Avon Science Fiction Reader
+, , 3/70, , 1-4, , U, Coven 13
+, , 1/53, 4/53, 1-1, 1-2, U, Avon Science Fiction and Fantasy Reader
+, , , , 1-1, , U, Borderland
+, , 9/65, , 1-8, , U, Borderline
+, , 2/47 3/48 3/49, , 1 8 10, , U, Avon Fantasy Reader (*Bimonthly)
+, , 1/50, , 1-2, , U, Captain Zero
+, , Spr 40, Sum 40, 1-2, 1-3, U, Captain Future
+, , Fall 78, Fall 79, 1-1, 1-4, U, Asimov's SF Adventure Magazine 2 copies sum '79
+-----File: mag-091.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  November 12 2006
+Workers: JSB SIR
+Time Start: 1:36
+Time End:
+Collection: C/M
+Magazine Name: Beyond
+Structure: Bimonthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , 7/53, 9/53, 1-1, 1-2, U,
+, , 1/54, 9/54, 1-4, 2-2, U,
+, , 9/68, 10/8, 1-1, 1-2, U,
+, , 12/67, , 1-1, , U, Beyond Infinity
+-----File: mag-092.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 19 2006
+Workers: JSB SIR
+Time Start: 2:48
+Time End: 2:54
+Collection:
+Magazine Name: Lows
+Structure: Monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , Sept '93, Oct '93, 31-3, 31-4, U,
+, , Aug '94, , 33-2, , U,
+, , Oct 94, July 95, 33-4, 35-1, U,
+, , Sept '95, Nov '95, 35-3, 35-5, U,
+, , Aug '96, , 37-2, , U,
+, , Sept '96, , 37-3, , U,
+, , Dec '96, , 37-6, , U,
+, , Feb '97, Mar '97, 38-2, 38-3, U,
+, , May '97, June '97, 38-5, 38-6, U,
+, , Sept '97, , 39-3, , U,
+, , Nov '97, , 39-5, , U,
+, , Jan '98, , 40-1, , U,
+, , Jan '96, Nov '96, 36-1, 37-5, U,
+-----File: mag-093.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 19 2006
+Workers: JSB
+Time Start: 2:55
+Time End: 3:07
+Collection:
+Magazine Name: Various (all around m)
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , summer 1966, Fall 1967, 13, 17, U, Magazine of Horror - quarterly
+, , June Aug Nov 1966, , 1-5, 6-1 2 4, U, Man from U.N.C.L.E - monthly
+, , Autumn 1989, , 2-2, , U, Marion Zimmer Bradley's Fantasy Magazine
+, , Nov '38, , 1-2, , U, Marvel Science Stories
+, , Nov 50, , 3-1, , U, ^
+, , Feb '51, , 3-2, , U, ^
+, , May '52, , 3-6, , U, Marvel Science Fiction
+, , Nov '77, , 14-3, , U, Medic & Nethisday
+, , , , 1, , U, The Most Thrilling Science Fiction Ever Tdd
+, , , Winter 1967, 3-7, , U, ^
+, , Spring 1969, Summer 1969, 12, 13, U, ^
+, , March 1952, , 1-3, , U, Mysterious Traveler Magazine
+, , Feb '55, , 8, , U, Mystic Magazine
+, , Aug '55, , 9, , U, ^
+, , Oct '55, , 12, , U, ^
+, , , , 7, , U, Nebula Science Fiction
+, , , , 17, , U, ^
+, , Oct ?WR June ???, , 31, , U, ^
+, , March '54 Nov '54, , 36, , U, ^
+,  ,June '54?, , 39, , U, ^
+, , Spring 1986, Fall 1989, 15, 25, U, Night Cry
+-----File: mag-094.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 19 2006
+Workers: JSB SIR
+Time Start: 3:08
+Time End: 3:22
+Collection: C/M
+Magazine Name: New Worlds -> New Worlds Science Fiction
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , 1949, , 2-4, , U,
+, , Autumn 1951, , 4-11, , U,
+, , Nov '52, , 5-14, , U,
+, , May '54, , 23, , U, New Worlds Science Fiction (Monthly)
+, , July '55, , 37, , U,
+, , Sept '55, , 39, , U,
+, , Dec '55, Feb '56, 42, 44, U,
+, , Apr '56, , 46, , U,
+, , Aug '56, , 50, , U,
+, , Oct '56, , 52, , U,
+, , Jan '57, May '57, 55, 59, U,
+, , Sept '57, , 63, , U,
+, , Mar '58, , 69, , U,
+, , Oct '58, , 87, , U,
+, , Mar 1960, Apr 1960, 1-1, 1-2, U, Weird Diff on US/UK pubications??
+, , June 1960, Jul 1960, 1-4, 1-5, U, ^
+, , May 1960, , 94, , U, ^
+, , Dec 1960, , 101, , U,
+, , Mar '61, , 104, , U,
+, , May '61, , 106, , U,
+, , Nov '61, Dec '61, 112, 113, U,
+, , May '62, , 116, , U,
+, , Aug '62, Feb '63, 121, 127, U,
+, , Apr '63, Sept '63, 129, 124, U,
+, , Sept '63, , 136, , U,
+, , Feb '64, Mar '64, 139, 140, U,
+, , Aug '65, , 153, , U, New Worlds SF -> New title
+, , Oct '65, , 155, , U,
+, , Dec '65, , 157, , U,
+, , Jul '66, , 164, , U,
+, , , , 166, , U,
+-----File: mag-095.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 19 2006
+Workers: JSB SIR
+Time Start: 2:24
+Time End: 2:35
+Collection: C/M
+Magazine Name: Fantastic
+Structure: Montly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , Apr 1955, , 4-2,  ,U,
+, , June 1956, , 5-3, , U,
+, , Apr '57, , 6-3, , U,
+, , Dec '57, , 6-11, , U,
+, , July '58, , 7-7, , U,
+, , Aug '59, , 8-8, , U,
+, , Nov '59,  ,8-11, , U,
+, , Feb '60, , 8-2, , U, Feb '60 - sept '60: Name is Fantastic Science Fiction Stories
+, , Apr '60, May '60, 4-4, 4-5, U
+, , July '60, , 9-7, , U,
+, , Aug '60, Dec '60, 9-8, 9-12, U, Oct '60 - June '65: Name is Fantastic Stories of Imagination
+, , Jan '61, Dec '61, 10-1, 10-12, U,
+, , Jan '62, Dec '62, 11-1, 11-12, U, 2 copies of July; September
+, , Jan '63, June '63, 12-1, 12-6, U,
+, , Aug '63, Dec '3, 12-8, 12-12, U,
+, , Mar '64, July '64, 13-3, 13-7, U,
+, , Oct '64, Dec '64, 13-10, 13-12, U, 2 copies of 13-10 oct '64
+, , Feb '65, , 14-2, , U,
+, , May '65, June '65, 14-5, 14-6, U,
+, , Sept '65, May '66, 13-1, 15-5, U, Numbering System change : also new Bimonthly; name change as Fantastic Stories
+-----File: mag-096.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: November 14, 2006
+Workers: JSB, Sukrit
+Time Start: 2:35
+Time End: 2:39
+Collection: c/m
+Magazine Name: Fantastic Novels
+Structure: bimonthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , Nov '40, , 1-3, , U
+, , Nov '48, Jan '49, 2-4, 2-5, U
+, , July '49, Sept '49, 3-2, 3-3, U
+, , July '50, , 4-2, , U
+, , Jan* '51, , 4-5, , U
+, , Apr '51, , 4-6, , U
+, , June '51, , 5-1, , U
+-----File: mag-097.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: November 19, 2006
+Workers: JSB + Sukrit
+Time Start: 2:40
+Time End: 2:47
+Collection: c/m
+Magazine Name: Fantastic Universe
+Structure: bimonthly; shifts to monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , 6-7 '53, 10-11 '53, 1-1, 1-3, U,
+, , Jan '54, Sept '54, 1-4, 2-2, U,
+, , Oct '54, Dec '54, 2-3, 2-5, U, Monthly now
+, , Apr '55, , 3-3, , U,
+, , June '55, Dec '55, 3-5, 4-5, U,
+, , Jan '56, June '56, 4-6, 5-5, U,
+, , Aug '56, Sept '56, 6-1, 6-2, U,
+, , Nov '56, , 6-4, , U,
+, , Feb '57, Sept '57, 7-2, 8-3, U,
+, , Dec '57, Jan '58, 8-6, 9-1, U,
+, , May '58, , 9-5, , U,
+, , Nov '58, , 10-5, , U,
+, , Oct '59, , 11-6, , U,
+, , Feb '60, , 12-4, , U,
+, , Mar '60, , 12-5, , U,
+-----File: mag-098.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: November 19, 2006
+Workers: JSB + Sukrit
+Time Start: 2:00
+Time End: 2:18
+Collection: c/m
+Magazine Name: Fantastic Stories
+Structure: bimonthly
+Notes: switches to quarterly in 1976
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , Fall 52, Nov 52, 4-2, 4-3, U
+, , Sep 53, , 6-2, , U
+, , 7/66, , 15-6, , U, "Fantastic" (bimonthly)
+, , 9/66, 10/68, 16-1, 18-1, U, 12 all told; 10/68 is first even
+, , 2/69, 12/69, 18-3, 19-2, U
+, , 4/70, , 19-4, , U
+, , 8/70, 12/71, 19-6, 21-2, U
+, , 4/72, 6/72, 21-4, 21-5, U
+, , 10/72, 4/73, 22-1, 22-4, U
+, , 7/73, , 22-5, , U
+, , 11/73, 5/74, 23-1, 23-4, U
+, , 11/74, , 24-1, , U
+, , 4/75, , 24-3, , U
+, , 8/75, , 24-5, , U
+, , 2/76, , 25-2, , U, switch to quarterly
+, , 5/76, 8/76, 25-3, 25-4, U
+, , 12/77, , 26-4, , U, (printed 6-4)
+, , 10/78, 1/79, 27-3, 27-4, U
+, , 10/80, , 27-11
+-----File: mag-099.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: November 19, 2006
+Workers: JSB, Sukrit
+Time Start: 3:25
+Time End: 3:27
+Collection: c/m
+Magazine Name: Odyssey
+Structure: quarterly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , Spring 1976, Summer 1976, 1-1, 1-2, U
+-----File: mag-100.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: November 19, 2006
+Workers: JSB + Sukrit
+Time Start: 3:28
+Time End: 3:46
+Collection: c/m
+Magazine Name: Omni
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , Oct '78, Dec 1978, 1-1, 1-3, U
+, , Jan 1979, Dec 1979, 1-4, 2-3, U
+, , Jan 1980, Dec 1980, 2-4, 3-3, U
+, , Jan 1981, Dec 1981, 3-4, 4-3, U
+, , Jan '82, Dec '82, 4-4, 5-3, U
+, , Jan '83, April '83, 5-4, 5-7, U
+, , Dec '83, , 6-3, , U
+, , Feb '84, Apr '84, 6-5, 6-7, U
+, , June '84, , 6-9, , U
+, , Aug '84, Oct '84, 6-11, 7-1, U
+, , Dec '84, , 7-3, , U
+, , June '85, , 7-9, , U
+, , Mar '86, Aug '86, 8-6, 8-11, U
+, , Nov '86, , 9-2, , U
+, , June '87, July '87, 9-9, 9-10, U
+, , June '88, , 10-9, , U
+, , Apr '93, , 15-6, , U
+, , Feb '95, Mar '95, 17-5, 17-6, U
+-----File: mag-101.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: SCP + ALC
+Time Start:
+Time End:
+Collection: SR
+Magazine Name: Analog Science Fiction Science Fact
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1991, 1/91, 6/91, 111-1, 111-7, B, 111-1 + 111-2 used for double jan issue
+, 1991, 7/91, , , 111-15, B, july thick 111-8 + 9, mid-dec issue
+, 1992, 1/92, , , 112-7, B, Jan double
+, 1992, 7/92, , , 112-15, B, July double; mid dec issue
+, 1993, 1/93, , , 113-7, B, Jan double
+, 1993, 7/93, , , 113-15, B, July double; mid-dec issue
+, 1994, 1/94, , , 114-7, B, Jan double
+, 1994, 7/94, , , 114-15, B, July doulbe; mid-dec issue
+, 1995, 1/95, 6/95, 115-1, 115-7, B, Jan double
+, 1995, 7/95, 12/8, , 115-15, B, July double; mid-dec issue
+, 1996, , , , , , missing!
+, 1996, 7/96, 12/96, 116-8, 116-14, B, July double
+-----File: mag-102.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB + ALC
+Time Start: 5:24
+Time End: 5:43
+Collection: SR
+Magazine Name: Analog Science Fact and Fiction
+Structure: monthly
+Notes: Entered 11/19/06 JSB, 15 minutes
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1966, 1/66, 6/66, 76-5, 77-4, B
+, 1966, 7/66, 12/66, 77-5, 78-4, B
+, 1967, 1/67, 6/67, 78-5, 79-4, B
+, 1967, 7/67, 12/67, 79-5, 80-4, B
+, 1968, 1/68, 6/68, 80-5, 81-4, B
+, 1968, 7/68, 12/68, 81-5, 82-4, B
+, 1969, 1/69, 6/69, 82-5, 83-4, B
+, 1969, 7/69, 12/69, 83-5, 84-4, B
+, 1970, 1/70, 6/70, 84-5, 85-4, U
+, 1970, 7/70, 12/70, 85-5, 86-4, B
+, 1971, 1/71, 6/71, 86-5, 87-4, B
+, 1971, 7/71, 12/71, 87-5, 88-4, B
+, 1972, 1/72, 6/72, 88-5, 89-4, B
+, 1972, 7/72, 12/72, 89-5, 90-4, B
+, 1973, 1/73, 6/73, 90-5, 91-4, B
+, 1973, 7/73, 12/73, 91-5, 92-4, U
+, 1974, 1/74, 6/74, 92-5, 93-4, B
+, 1974, 7/74, 12/74, 93-5, 94-4, B
+, 1975, 1/75, 6/75, 94-5, , U, 94-5, 95-2 -- 95-6
+, 1975, 7/75, 12/75, 93-7, 95-12, B
+, 1976, 1/76, 6/76, 96-1, 96-6, U
+, 1976, 7/76, 12/76, 96-7, 96-12, B
+, 1977, 1/77, 12/77, 97-1, 97-12, B
+, 1978, 1-78, 12-78, 98-1, 98-12, U
+, 1979, 1/79, 12/79, 99-1, 99-6, B
+-----File: mag-103.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: ESK+JSB
+Time Start: 4:40
+Time End: 5:00
+Collection: SR
+Magazine Name: Astounding Science Fiction
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1930, 1/30, 6/30, 1-1, 2-3, B
+, 1930, 7/30, 12/30, 3-1, 4-3, B, 4/3 is labeled as 9/3.  Yay; Romans
+, 1931, 1/31, 6/31, 5-1, 6-3, B
+, 1931, 7/31, 12/31, 7-1, 8-3, B
+, 1932, 1/32, 4/32, 9-1, 10-1, B
+, 1932, 5/32, 11/32, 6-2, 11-2, B, Schedule Change  May; June; S; N
+, 1933, 1/33, 12/33, 11-3, 12-4, B, Jan; Mar; Oct; Nov; Dec
+, 1934, 1/34, 6/34, 12-5, 13-4, B, (back to monthly schedule)
+, 1934, 7/34, 12/34, 13-5, 14-4, B
+, 1935, 1/35, 6/35, 14-5, 15-4, B
+, 1935, 7/35, 12/35, 15/5, 16/4, B
+, 1936, 1/36, 6/36, 16-5, 17-4, B
+, 1936, 7/36, 12/36, 17-5, 18-4, B
+, 1937, 1/37, 6/36, 18-5, 19-4, B
+, 1937, 7/37, 12/37, 19-5, 20-4, B
+, 1938, 1/38, 6/38, 20-5, 21-4, B
+, 1938, 7/38, 12/38, 21-5, 22-4, B
+, 1939, 1/39, 6/39, 22-5, 23-4, B
+, 1939, 7/39, 12/39, 23-5, 24-4, B
+, 1940, 1-40, 6-40, 24-5, 25-4B
+, 1940, 7/40, 12/40, 25-5, 26-4, B
+, 1941, 1/41, 6/40, 26-5, 27-4, B
+, 1941, 7/41, 12/41, 27-5, 28-4, B
+, 1942, 1/42, 6/42, 28-5, 29-4, B
+-----File: mag-104.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB + ALC
+Time Start: 5:15
+Time End:
+Collection: SR
+Magazine Name: Astounding Science Fiction
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1954, 1/54, 6/54, 52-4, 53-4, B
+, 1954, 7/54, 12/54, 53-5, 54-4, B
+, 1955, 1/55, 6/55, 54-5, 55-4, B
+, 1955, 7/55, 12/54, 55-5, 56-4, B
+, 1956, 1/56, 6/56, 56-5, 57-4, B
+, 1956, 7/56, 12/56, 57-5, 58-4, B
+, 1957, 1/57, 6/57, 5/-5, 59-4, B
+, 1957, 7/57, 12/57, 59-5, 60-4, B
+, 1958, 1/58, 6-58, 60-5, 51-4, B
+, 1958, 7/58, 12/58, 61-5, 62-4, B
+, 1959, 1/59, 6/59, 62-5, 63-4, B
+, 1959, 7/59, 12/59, 63-5, 64-4, B
+, 1960, 1/60, 6/60, 64-5, 65-4, B, Becomes Analog Science Fact and Fiction
+, 1960, 7/60, 12/60, 65-5, 66-4, B
+, 1961, 1/61, 6/61, 66/5, 67-4, B
+, 1961, 7/61, 12/61, 67-5, 68-4, B
+, 1962, 1/62, 6/62, 68-5, 69-4, B, 69-4 printed 2x6x
+, 1962, 7/62, 12/62, 69-5, 70-4, B
+, 1963, 1-63, 2/63, 70-5, 70-6, B
+, 1963, 3/63, 12/63, 71-1, 72-4, B
+, 1964, 1/64, 8/64, 72-5, 73-6, B
+, 1964-5, 9/64, 3/65, 74-1, 75-1, B
+, 1965, 7/65, 7/65, 75-2, 75-5, B
+, 1965, 8/65, 12/65, 76-6, 76-4, B
+-----File: mag-105.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: ESK + JSB
+Time Start: 5:00
+Time End: 5:14
+Collection:
+Magazine Name: Astounding SF Science Fiction
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1942, 2/42, 12/42, 29-5, 30-4, B,
+, 1943, 1/43, 4/43, 30-5, 31-2, B,
+, 1943, 5/43, 10/43, 31-3, 32-2, B,
+, 1943, 11/43, 12/43, 32-3, 32-4, B,
+, 1944, 1/44, 6/44, 32-5, 33-4, B,
+, 1944, 7/44, 12/44, 33-5, 34-4, B,
+, 1945, 1/45, 6/45, 34-5, 35-4, B,
+, 1945, 7/45, 12/45, 35-5, 36-4, B, 36-4 marked 36-5
+, 1946, 1/46, 6/46, 36-5, 37-4, B,
+, 1946, 7/46, 12/46, 32-5, 38-4, B,
+, 1947, 1/47, 6/47, 38-5, 39-4, B,
+, 1947, 7/47, 12/47, 39-5, 40-4, B,
+, 1948, 1/48, 6/48, 40-5, 41-4, B,
+, 1948, 7/48, 12/48, 41-5, 42-4, B,
+, 1949, 1/49, 6/49, 42-5, 43-4, B,
+, 1949, 7/49, 12-49, 43-5, 44-4, B,
+, 1950, 1/50, 6/50, 44-5, 45-4, B,
+, 1950, 7/50, 12/50, 45-5, 46-4, B,
+, 1951, 1/51, 6/51, 46-5, 47-4, B,
+, 1951, 7/51, 12/51, 47-5, 48-4, B,
+, 1952, 1/52, 6/52, 48-5, 49-4, B,
+, 1952, 7/52, 12/52, 49-5, 50-4, B,
+, 1953, 1/53, 6/53, 50-5, 51-4, B,
+, 1953, 7/53, 12/53, 51-5, 52-4, B,
+-----File: mag-106.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 16, 2006
+Workers: JSB
+Time Start: 5:34
+Time End: 5:40
+Collection: SR
+Magazine Name: Amazing Stories Quarterly
+Structure: quarterly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1928, Winter, Spring, 1-1, 1-2, B,
+, 1928, , , 1-3, 1-4, B,
+, 1929, , , 2-1, 2-2, B,
+, 1929, , , 2-3, 2-4, B,
+, 1930, , , 3-1, 3-2, B,
+, 1930, , , 3-3, 3-4, B,
+, 1931, , , 4-1, 4-2, B,
+, 1931, , , 4-3, 4-4, B,
+, 1932, , , 5-1, 5-3, B,
+, 1933/34, , , 6-4 1, 7-1 7-2, B,
+-----File: mag-107.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 16, 2006
+Workers: JSB
+Time Start: 4:42
+Time End: 5:34
+Collection: SR
+Magazine Name: Amazing Stories
+Structure: monthly, bimonthly
+Notes: monthly except when its not. Note: need "continuitiy alias" for mags that change name
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1968, 2/68, 11/68, 41-6, 42-4, B, 2 4 7 9 11 months
+, 1969, 1/69, 11/69, 42-5, 43-4, B, bimonthly
+, 1970, 1/70, 11/70, 43-5, 44-4, B, bimonthly
+, 1971, 1/71, 11/71, 44-5, 45-4, B,
+, 1972, 1/72, 11/72, 45-5, 46-4, B,
+, 1973, 1/73, 11/73, 46-5, 47-4, B,
+, 1974, 2/74, 12/74, 47-5, 48-4, B,
+, 1975, 3/75, 11/75, 48-5, 49-3, B, 5 months: 3; 5; 7; 9; 11
+, 1976, 1/76, 12/76, 49-4, 50-3, B, 1; 3; 6; 9; 12
+, 1977, , , 50-4, 51-1, U, 3; 7; 10 of 1977 (3 issues only) new volume to bind?
+, 1978, , , 51-2, 51-4, U, 1; 5; 8 (3 issues only) new volume to bind?
+, 1978, 11/78, , 52-1, , U,
+, 1979, , , 52-2, 52-4, B, 2; 5; 8 months (same volume as next)
+, 1979-80, , , 27-5, 27-8, B, 11/79; 2/80; 5/80; 8/80
+, 1980-81, , , 27-9, 28-3, R, 7 issues
+, 1982, 1/82, , 28-4, , U, Amazing/Fantasy
+, 1982, 11/82, , 28-8, , U, ^
+, 1983, 1/83, , 28-4, , U, ^
+, 1983, 3/83, , 56-5, , U, ^
+, 1983, 5/83, 3/84, 57-1, 57-6, U, ^ 5; 7; 9; 11; 1
+, , 5/84, 3/85, 58-1, 58-6, U, ^ bimonthly
+, , 5/85, 9/85, 59-1, 59-3, U, 3 mags /vol
+, , 11/85, 3/86, 60-1, 60-3, U, 3 mags/vol
+, , 5/86, 3/87, 61-1, 61-3, U,
+, , 5/87, 3/88, 62-1, 62-6, U,
+, , 5/88, 3/89, 63-1, 63-6, U,
+, , 5/89, 3/91, 64-1, 65-6, U,
+, , 5/91, 3/92, 66-1, 66-11, U, monthly; but only 11 months this year
+, , 4/92, 3/93, 67-1, 67-12, U,
+, , 4/93, 10/93, 68-1, 68-7, U,
+-----File: mag-108.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  November 12, 2006
+Workers: JSB
+Time Start: 5:41
+Time End: 5:58
+Collection: SR
+Magazine Name: Small A's (Several Mags bound)
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , Sum 85, sum 86, 1, 5, B, Aphelion Science Fiction Magazine (quarterly)
+, , , , 1, 10, B, Arkham Collector
+, , 1946, , 5, 8, B, Arkham Sampler (quarterly)
+, , 1978-9, , 1-1, 1-4, B, Asimov's SF Adventure Magazine (Quarterly)
+, , 1940, 2/40 12/40, 1-1, 2-2, B, Astonishing Stories (BiMonthly)
+, , 1941, , 2-3, 3-2, B, Astonishing Stories (Switch to quarterly)
+, , 1942-3, , 3-3, 4-4, B, Astonishing Stories (6 issues)
+-----File: mag-109.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  November 12, 2006
+Workers: Sharmin, kekey
+Time Start: 1540
+Time End: 1555
+Collection:  circulating
+Magazine Name: Fantastic Adventures
+Structure: Monthly, and some quarterly reissues
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+10, 1948, Oct, Dec, 10, 12, U, Spring Reissue in 1949 of Oct-Dec 1948
+11, 1949, July, Sept, 7, 9, U, quarterly water release in 1949 of July Sept 1949
+3, 1941, May, Oct, 3, 8, U, Missing any Sept
+4, 1942, June, June, 6, 6, U,
+5, 1943, July, July, 7, 7, U,
+6, 1944, Feb, Feb, 1, 1, U, 2 copies
+12, 1950, March, March, 3, 3, U,
+13, 1951, March, March, 2, 2, U, March Needs Surgery
+13, 1951, Nov, Dec, 11, 21, U,
+9, 1947, Sept, Sept, 5, 5, U,
+-----File: mag-110.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers:  Sharmin, Kelsey
+Time Start: 1221
+Time End: 1226
+Collection: Circulating
+Magazine Name: Aborigonal Science Fiction
+Structure: bimonthly
+Notes: no volume/issue #s
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1988, Jan, Dec, , , U, missing July-Aug issue
+, 1989, Jan, Dec, , , U,
+, 1990, Jan, Dec, , , U,
+, 1991, Jan, Aug, , , U,
+, 1991, Dec, Dec, ?, ?, U, special double issue; issues "29+30"
+-----File: mag-111.jpg---\aclough\mgentile555\-----------------------------
+Workers: Sharmin, Kelsey
+Time Start: 1226
+Time End: 1229
+Collection: Ciculating
+Magazine Name: Aboriginal SF
+Structure:  Quarterly
+Notes:  all "special double issues"
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1992, summer, summer, 31, 32, U, Changed circulation (missing Fall)
+, 1992, winter, winter, 35, 36, U,
+, 1992, spring, winter, 37, 44, U,
+-----File: mag-112.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  November 12, 2006
+Workers:  Sharmin, Kelsey
+Time Start: 1230
+Time End: 1232
+Collection: circulating
+Magazine Name: A Merritt's Fantasy Mag
+Structure: bimonthly [**we think]
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1949, Dec, Dec, 1, 1, U, very bad condition
+1, 1950, July, July, 4, 4, U, very bad condition
+-----File: mag-113.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  November 12, 2006
+Workers:  JSB, SIR
+Time Start:  1:32
+Time End:  1:35
+Collection: SR
+Magazine Name:  RenDhark => RienDhark
+Structure:
+Notes: German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 29, 42, B,
+, , , , 43, 56, B,
+, , , , 57, 70, B,
+, , , , 71, 84, B,
+, , , , 85, 98, B,
+-----File: mag-114.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  November 12, 2006
+Workers: JSB, SIR
+Time Start: 1:37
+Time End: 1:56
+Collection: SR
+Magazine Name: I Romanzi Di Uramba
+Structure:
+Notes:  Italian
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1954, 10 May, 30 June, 3, , B, Appears to be 3x month [*MITSFS-imposed volume #s]
+, 1954, 10 Sept, 30 Oct, 5, , B, [*MITSFS-imposed volume #s]
+, 1955, 2 July, 11 Aug, 86, 91, B, [*MITSFS-imposed volume #s]
+, 1953, Mar, July, 5, 9, B, Names Urania appears monthly (same mag, Diff mon)
+, 1953, Aug, Dec, 10, 14, B,
+, 1955, 6 Oct, 10 Nov, 99, 104, B,
+, 1955, 14 Nov, 27 Dec, 105, 111, B,
+, 1957, 11 Apr, 20 Jun, 139, 154, B,
+, 1958, 2 Jan, 30 Mar, 168, 174, B,
+, 1958, 12 Oct, 21 Dec, 188, 193, B,
+, 1959, 11 Oct, 20 Dec, 214, 219, B,
+, 1960, 2 Jan, 27 Mar, 220, 226, B,
+, 1960, 10 Apr, 10 June, 227, 232, B,
+, 1960, 19 Oct, 18 Dec, 240, 245, B,
+, 1961, 1 Jan, 20 Mar, 246, 252, B,
+, 1961, 2 July, 24 Sept, 254, 265, B,
+, 1965, 4 Apr, 16 May, 378, 384, B,
+, 1965, 22 Aug, 26 Sept, 348, 403, B,
+, 1965, 3 Oct, 14 Nov, 404, 410, B, I Romanzi Di Urania
+, 1965, 21 Nov, 26 Dec, 411, 416, B,
+-----File: mag-115.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  November 12, 2006
+Workers: JSB, Sukrit
+Time Start: 1:56
+Time End: 2:04
+Collection: SR
+Magazine Name: Random Italian magazines, 1 german
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 1, 15, B, Terra (German)
+, 1962, July, Dec, 5-7, 5-12, B, Gabiz in Italian
+, 1963, Jan, Jun, 6-1, 6-6, B, Gabiz in Italian
+, 1964, May, , 333, , U, I Copolarari di Urania
+, , , , 154, , U, Gialassia
+, , , , 19, , U, Cosmo 39-40; (#s marked into spine by MITSFS ppl apparently)
+, , , , 50, , U, Cosmo 101-102; ^
+, , , , 53, , U, Cosmo 107-108; ^
+, , , , 54, , U, Cosmo 109-110; ^
+-----File: mag-116.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  Feb 2, 2007
+Workers: WDS/CC
+Time Start:
+Time End:
+Collection: New Bookshelves
+Magazine Name: Andromeda Spaceways Inflight Magazine
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+3, 2004/2005, 12/1, , 4, , U, Slashes are per original / whole # 16
+3, 2005, 2/3, , 5, , U, whole # 17
+3, 2005, 4/5, , 6, , U, whole # 18
+-----File: mag-117.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  Feb 2, 2007
+Workers: WDS/CC
+Time Start:
+Time End:
+Collection: New Bookshelves
+Magazine Name: Analog Science Fiction and Fact
+Structure: other
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+115, 1995, 7, , 8 and 9, , U, double-issue
+115, 1995, 8, , 10, , U,
+115, 1995, 9, , 11, , U,
+115, 1995, 10, , 12, , U,
+115, 1995, 11, , 13, , U,
+115, 1995, 12, , 14, , U,
+115, 1995, Mid-December, , 15, , U,
+116, 1996, 1, , 122, , U, double-issues
+116, 1996, 2, 6, 3, 7, U,
+116, 1996, 7, , 8 & 9, , U, double-issue
+116, 1996, 8, 12, 10, 14, U,
+117, 1997, 1, 6, 1, 6, U,
+117, 1997, 7 & 8, , 7 & 8, , U, double-issue and double-date
+117, 1997, 9, 12, 9, 12, U,
+118, 1998, 1, 6, 1, 6, U,
+118, 1998, 7&8, , 7&8, , U, double issue and double date
+118, 1998, 9, 12, 9, 12, U,
+120, 2000, 10, , 10, , U,
+121, 2000, 11, , 11, , U, error in volume number
+120, 2000, 12, , 12, , U,
+121, 2001, 1, 6, 1, 5, U,
+121, 2001, 7&8, , 7&8, , U, double issue; double date
+121, 2001, 9, 12, 9, 12, U,
+-----File: mag-118.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: WDS/CCC
+Time Start:
+Time End:
+Collection: new bookshelves
+Magazine Name: ANALOG SCIENCE FICTION AND FACT
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+122, 2002, 1, 6, 1, 6, U,
+122, 2002, 7&8, , 7&8, , U, double issue; double date
+122, 2002, 9, 12, 9, 12, U,
+123, 2003, 1, 6, 1, 6, U, exact same pattern as 2002
+123, 2003, 7&8, , 7&8, , U, ^
+123, 2003, 9, 12, 9, 12, U, ^
+124, 2004, 1&2, , 1&2, , U, double issue; double date
+124, 2004, 3, 6, 3, 6, U,
+124, 2004, 7&8, , 7&8, , U, double; double
+124, 2004, 9, , 9, , U,
+124, 2004, 11, 12, 11, 12, U,
+124, 2004, 7&8, 12, 7&8, 12, B,
+-----File: mag-119.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2, 2007
+Workers: KLB MKR
+Time Start: 1:45
+Time End: 2:07
+Collection: c/m
+Magazine Name: random
+Structure: Galileo is bimonthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, ?-'80, , Mar, 2, 17, U, "Galileo" no #5; 2 # 10's; 11 & 12 together; 13 is July '79 14 is Spet; 15 is Nov; 16 is Jan
+, 1963, , , 1-2, , U, "Gamma" quarterly (it claims)
+, 1964, , , 2-1, , U,
+, 1965, , , 2-2, , U
+, ?-'67, , Fall, No. 1, No. 8, U, "Great Science Fiction" (quarterly)
+, 1968, Fall, , No. 12, , U,
+271, 1985, Oct, , 1625, , U, "Harper's" 1 magazine
+1, 1975, June, , , , U, "The Haunt of Horror"
+-----File: mag-120.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2 2007
+Workers: JPM, KCR
+Time Start: 1337
+Time End: 1404
+Collection:
+Magazine Name:
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Binding Status
+1/2, 53/*, Oct, Mar, 1, 2, 13, 1/1-4 2/1-2 F+SF British Edition
+2, 54, Aug, , 4, , U,
+3, 54, Jan, , 1, , U, , (cluster)
+3, 54, Oct, , 2, , U, SURGEON!, (cluster)
+3, 54, Aug, , 3, , U, , (cluster)
+3, 54, Sept, , 4, , U, , (cluster)
+3, 62, Feb, , 3, , U
+4, 63, Aug, , 9, , U
+1/2, 88/89, Summer, Autumn, 1, 2, B, Marion Zimmer Bradley Fantasy Magazine 1/1-4 2/1-2; 1/1 "premier"
+, 90/91, winter, fall, 7, 44, B
+2, 66/67, Sep, Jun, 2, 6, U, The Man from UNCLE Magazine
+3, 67, Feb, Jul, 1, 6, U
+4, 67/68, Aug, Jan, 1, 6, U,
+1, 1938/39, Aug, Apr-May, 1, 4, B, Marve Science Stories
+1/2, 39/41, Aug, Ap, 5, 3, B, 1/5-6 2/1-3
+3, 50-52, Nov, May, 1, 6, B
+1, 31, Apr-May, Jun-Jul, 1, 2, B, Miracle Science and Fantasy Stories
+, 53-54, Nov, Dec, 1, 7, B, Mystic Magazine
+1, 52-53, Autumn, Dec, 1, 2, B, Nebula Science Fiction 1/1-4 2/1-2 2/3-4 9-11
+2, 54, Feb, Dec, 3, 11 [*scribble], B
+, 55-56, Apr, Dec, 12, 19, B
+, 57-58, Mar, Jan, 20, 26, B
+, 58, Feb, Oct, 27, 31, B, Oct is what it says!
+, 58, Jul, Dec, 32, 37, B
+, 59, Jan, Jun, 38, 41, B
+-----File: mag-121.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2, 2007
+Workers:
+Time Start: 12:50
+Time End: 2:05
+Collection: "New Book" Shelf
+Magazine Name: Absolute Magnitude
+Structure: other
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1999, sum, , 11, , U
+, 1999, win, , 12, , U
+, 2000, sum, , 13, , U
+, 2000, sum, , 14, , U
+, 2001, spr, , 15, , U
+, 2001, sum, , 16, , U
+, 2002, aut, , 17, , U
+, 2005, spr, , 21, , U
+-----File: mag-122.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2, 2007
+Workers:
+Time Start:
+Time End:
+Collection:
+Magazine Name: Absolute Magnitude and Aboriginal Science Fiction
+Structure: other
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 2002, spr, , 18, , U
+, 2002, sum, , 19, , U
+, 2003, sum, , 20, , U
+-----File: mag-123.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 2, 2007
+Workers:
+Time Start:
+Time End:
+Collection: "New book" shelf
+Magazine Name: Aboriginal Science Fiction
+Structure: other
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1996, spr, , 47/48, , U, "Special double issue"
+, 2000, spr, , 63, , U
+, 2001, spr, , 65, , U
+-----File: mag-124.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 2, 2007
+Workers:
+Time Start:
+Time End:
+Collection: "New Book" Shelf
+Magazine Name: Paradox
+Structure: other
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 03, spr, , 1, , U
+, 03, sum, , 2, , U
+, 03, aut, , 3, , U
+, 04, sum, , 5, , U
+, 04-05, win, , 6, , U
+, 05, sum, , 7, , U
+, 05-06, win, , 8, , U
+-----File: mag-125.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 2, 2007
+Workers:
+Time Start:
+Time End:
+Collection: "new book" shelf
+Magazine Name: Interzone
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 2002, nov/dec, , 184, , U
+, 2004, spr, , 193, , U
+, 2004, sep/oct, , 194, , U
+, 2004, nov/dec, , 195, , U
+, 2005, jan/feb, , 196, , U
+, 2005, mar/apr, , 197, , U
+, 05, may/jun, , 198, , U
+, 05, aug, , 199, , U
+, 05, oct, , 200, , U
+, 05, dec, , 201, , U
+, 06, Jun, , 204, , U
+-----File: mag-126.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 2, 2007
+Workers:
+Time Start:
+Time End:
+Collection: "new book" shelf
+Magazine Name: Rigel
+Structure: quarterly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1981, sum, , 1, , B, [all entries are] One volume
+, 1981, fall, , 2, B, ^
+, 1982, win, , 3, B, ^
+, 1982, spr, , 4, B, ^
+, 1982, fall, , 5, B, ^
+, 1982, win, , 6, B, ^
+, 1983, spr, , 7, B, ^
+, 1983, sum, , 8, B, ^
+-----File: mag-127.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 2, 2007
+Workers:
+Time Start:
+Time End:
+Collection: new book shelf
+Magazine Name: Galileo Magazine of Science and Fiction
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1978, jan, , 6, , B, one volume
+, , mar, , 7, , B, ^
+, , may, , 8, , B, ^
+, , jul, , 9, , B, ^
+, , sep, , 10, , B, ^
+
+, 1978, ?, , 11/12, , B, "Special double issue" (one volume)
+, 1979, jul, , 13, , B, ^
+, 1979, sep, , 14, , B, ^
+, 1979, nov, , 15, , B, ^ 
+, 1980, jan, , 16, , B, ^
+, 1980, mar, , 17, , B, ^
+-----File: mag-128.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 2, 2007
+Workers:
+Time Start:
+Time End:
+Collection: "New book" shelf
+Magazine Name: Marion Zimmer Bradley's Fantasy Magazine
+Structure: other, 3 times a year
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+4, 1992, winter, , 15/3, , B, one volume (A)
+3, 1992, spr/sum, , 16/4, , B, ^
+5, 1992, fall, , 17/1, , B, ^
+5, 1993, wint, , 18/2, , B, ^
+5, 1993, spr, , 19/3, , B, ^
+5, 1993, sum, , 20/4, , B, ^
+5, 1993, fall, , 21/1, , B, ^
+
+6, 1994, wint, , 22/2, , B, one volume (B)
+6, 1994, spr, , 23/3, , B, ^
+6, 1994, sum, , 24/4, , B, ^
+7, 1994, fall, , 25/1, , B, ^
+7, 1995, wint, , 26/2, , B, ^
+7, 1995, spr, , 27/3, , B, ^
+7, 1995, sum, , 28/4, , B, ^
+8, 1995, fall, , 29/1, , B, ^
+-----File: mag-129.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 2, 2007
+Workers:
+Time Start:
+Time End:
+Collection: new book shelf
+Magazine Name: Tomorrow Speculative Fiction
+Structure: bimonthly
+Notes: whole issue #/volume-issue #
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+*NOTE:  All one bound volume
+3, 1995, feb, , , 13/1, B
+, 1995, apr, , 14/2, , B,
+, 1995, jun, , 15/3, , B,
+, 1995, aug, , 16/4, , B,
+, 1995, oct, , 17/5, , B,
+, 1995, dec, , 18/6, , B,
+4, 1996, feb, , 19/1, , B,
+, 1996, apr, , 20/2, , B,
+, 1996, jun, , 21/3, , B,
+, 1996, aug, , 22/4, , B,
+, 1996, nov, , 23/5, , B,
+, 1996, feb, , 24/6, , B,
+-----File: mag-130.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 2, 2007
+Workers:
+Time Start:
+Time End:
+Collection: new book collection
+Magazine Name: 35F
+Structure:
+Notes: British
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 2002, oct, , 1, , B, one volume
+, 2002, dec, , 2, , B, ^
+, 2003, feb, , 3, , B, ^
+-----File: mag-131.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 2, 2007
+Workers:
+Time Start:
+Time End:
+Collection: new book shelf
+Magazine Name: Realms of Fantasy
+Structure: bimonthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1994, oct, , 1, , B, one volume
+1, 1994, dec, , 2, , B, ^
+1, 1995, feb, , 3, , B, ^
+1, 1995, apr, , 4, , B, ^
+1, 1995, jun, , 5, , B, ^
+1, 1995, aug, , 6, , B, ^
+2, 1995, oct, , 1, , B, ^
+2, 1995, dec, , 2, , B, ^
+-----File: mag-132.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 2, 2007
+Workers:
+Time Start:
+Time End:
+Collection: new book shelf
+Magazine Name: Locus
+Structure: monthly
+Notes: issue # has entire #/within-volume #
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+17, 1984, Jan, , 276/1, , B, one volume
+, , feb, , 277/2, , B, ^
+, , mar, , 278/3, , B, ^
+, , apr, , 279/4, , B, ^
+, , may, , 280/5, , B, ^
+, , jun, , 281/6, , B, ^
+, , jul, , 282/7, , B, ^
+, , aug, , 283/8, , B, ^
+, , sept, , 284/9, , B, ^
+, , oct, , 285/10, , B, ^
+, , nov, , 286/11, , B, ^
+, , dec, , 287/12, , B, ^
+
+21, 1988, Jan, Dec, 324/1, 335/12, B, Complete 12-issues
+
+40/41, 1998, Jan, Dec, 444/1, 453/6, B, "volume 18" starts in July! Complete 12 issues
+
+50, 2003, Jan, Jun, 504/1, 509/6, B, Complete 6 issues
+
+51, 2003, Jul, Dec, 510/1, 515/6, B, Complete 6 issues
+-----File: mag-133.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date:
+Workers:
+Time Start:
+Time End:
+Collection: "new book" shelf
+Magazine Name: Interzone Science Fiction and Fantasy
+Structure: monthly, other
+Notes: British.  Please Re-Sticker this whole section
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 94, jan, , 79, , B,this is all one bound volume.  Amazingly all 12 issues, in order!
+, ^, feb, , 80, , B, ^
+, ^, mar, , 81, , B, ^
+, ^, apr, , 82, , B, ^
+, ^, may, , 83, , B, ^
+, ^, jun, , 84, , B, ^
+, ^, dec, , 90  , B, ^
+
+, 2003, Jan, , 185, , B, all one volume - issues separate due to confusion
+, , Feb, , 186, , B, ^
+, , mar, , 187, , B, ^
+, , apr, , 188, , B, ^
+, , may/jun, , 189, , B, ^
+, , jul/aug, , 190, , B, ^
+, , sep, , 191, , B, ^
+, , nov/dec, , 192, , B, ^
+-----File: mag-134.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 2, 2007
+Workers:
+Time Start:
+Time End:
+Collection: new book shelf
+Magazine Name: Future Combined With Science Fiction Stories
+Structure: bimonthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1950, may/jun, nov, 1, 4, B, #4 is just "nov;" others are 2-month
+1, 1951, Jan, , 1-5, , B, this is all one volume
+1, , mar, , 1-6, , B,     ^
+2, , may, , 2-1, , B,     ^
+2, , jul, , 2-2, , B,     ^
+2, , sep, , 2-3, , B,     ^
+2, , nov, , 2-4, , B,     ^
+-----File: mag-135.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 2, 2007
+Workers: KLB MKR
+Time Start: 12:55
+Time End: 1:45
+Collection: c/m
+Magazine Name: Galaxy
+Structure: monthly and bimonthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1950, oct, dec, 1, 3, U
+, 1951, Jan, Dec, 1-4, 3-3, U, 12 magazines
+, 1952, Jan, Dec, 3-4, 5-3, U, ^
+, 1953, Jan, Dec, 5-4, 7-3, U, ^
+, 1954, Jan, Dec, 7-5, 9-3, U
+, 1955, Jan, Nov, 9-4, 11-2, U
+, 1956, Jan, Dec, 11-3, 13-2, U
+, 1957, Jan, Dec, 13-3, 15-2, U
+, 1958, Jan, Dec, 15-3, 17-2, U, no April
+, 1959, Jan, Dec, 17-3, 18-2, U, bimonthly 6 magazines
+, 1960, Feb, Dec, 18-3, 19-2, U, ^
+, 1961, Feb, Dec, 19-3, 20-2, U, ^
+, 1962, Feb, Dec, 20-3, 21-2, U, ^
+, 1963, Feb, Dec, 21-3, 22-2, U, ^
+, 1964, Feb, Dec, 22-3, 23-2, U
+, 1965, Feb, Dec, 23-3, 24-2, U
+, 1966, Feb, Dec, 24-3, 25-2, U
+, 1967, Feb, Dec, 25-3, 26-2, U
+, 1968, Feb, Dec, 26-3, 27-5, U, June-published monthly June-Dec monthly, Feb-April bimonthly no May
+, 1969, Jan, Nov, 27-6, 29-4, U, no June
+, 1970, Feb, Dec, 29-5, 31-1, U, "The Best in Pertinent Science Fiction" 9 magazines; Aug-Sept; Oct-Nov
+, 1971, Jan, Nov, 31-2, 32-3, U, 8 mags, F; M; A; M/J; J; Sept
+, 1972, Jan, Nov, 32-4, 33-3, U, bimonthly
+, 1973, Jan, Dec, 33-4, 34-3, U, 8 mags; J; Mar; May; Jul; S; O; N; Dec
+, 1974, Jan, Dec, 34-4, 35-12, U, no August; monthly
+, 1975, Jan, Oct, 36-1, 36-9, U, no May
+, 1976, Jan, Nov, 37-1, 37-8, U, no April; June; Aug; Dec
+, 1977 (and '78), Mar, Dec/Jan, 38-1, 39-1, U, 10 mags. monthly (Nov is 38-9)
+, 1978, Feb, Sept, 39-2, 39-7, U, no Jul; Aug (June; sept)
+, , , , 39-8; 39-11; 40-1, , U, stopped writing dates
+-----File: mag-136.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/07
+Workers: JPM KCR
+Time Start: 13:26
+Time End:  13:34
+Collection:  UnDK
+Magazine Name: F+SF
+Structure:  Monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+80, 91, Jan, Apr, 1, 4, B,
+80/81, 81, May, Aug, 5, 2, ,
+81, 91, Sep, Dec, 3, 6, ,
+82, 92, Jan, Apr, 1, 4, ,
+82/83, 92, May, Aug, 5, 2, ,
+83, 92, Sep, Dec, 3, 6, ,
+84, 93, Jan, Apr, 1, 4, ,
+84/85, 93, May, Aug, 5, 2, ,
+85, 93, Sep, Dec, 3, 6, ,
+86, 94, Jan, Apr, 1, 4, ,
+86, 94, May, Aug, 5, 2, ,
+87, 94, Sep, Dec, 3, 6, ,
+88, 95, Jan, Apr, 1, 4, ,
+88/89, 95, May, Aug, 5, 2, ,
+89, 95, Sep, Dec, 3, 6, ,
+90, 96, Jan, Apr, 1, 4, ,
+91, 96, Sep, Dec, 3, 6, ,
+92, 97, Jan, Apr, 1, 4, ,
+-----File: mag-137.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/07
+Workers: JPM KCR
+Time Start: 13:15
+Time End: 13:24
+Collection: UBH
+Magazine Name: F+SF
+Structure: Monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+64, 1983, Jan, Apr, 1, 4,  B,
+64/65, 83, May, Aug, 5, 2, B,
+65, 83, Sep, Dec, 3, 6, B,
+66, 84, Jan, Apr, 1, 4, B,
+68/64, 85, May, Sep, 5, 2, B,
+69, 85, Sep, Dec, 3, 6, B,
+70, 86, Jan, Apr, 1, 4, B,
+70, 86, May, Apr, 5, 2, B,
+71, 86, Sep, Dec, 3, 6, B,
+72, 87, Jan, Apr, 1, 4, B,
+72/73, 87, May, Aug, 5, 2, B,
+73, 87, Sep, Dec, 3, 6, B,
+74, 88, Jan, Apr, 1, 4, B,
+74/75, 88, May, Aug, 5, 2, B,
+75, 88, Sep, Dec, 3, 6, B,
+76, 89, Jan, Apr, 1, 4, B
+76, 89, May, Aug, 5, 2, B,
+77, 89, Sep, Dec, 3, 6, B,
+78, 90, Jan, Apr, 1, 4, B,
+78/79, 90, May, Aug, 5, 2, B,
+79, 90, Sep, Dec, 3, 6, B,
+-----File: mag-138.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  2/2/07
+Workers: JPM KCR
+Time Start: 12:57
+Time End: 12:07
+Collection: CnDH
+Magazine Name: F+SF
+Structure: Monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+43, 72, Jun, Dec, 1, 6, B,
+44, 73, Jan, Jun, 1, 6, U,
+45, 73, Jul, Dec, 1, 6, U,
+46, 74, Jan, Jun, 1, 6, U,
+47, 74, Jul, Dec, 1, 6, U,
+48, 75, Jan, Jun, 1, 6, U,
+49, 75, Jul, Dec, 1, 6, U,
+50, 76, Jan, Jun, 1, 6, U,
+51, 76, Jul, Dec, 1, 6, B
+51, 76, Nov, , 5, , U, Spare
+52, 77, Jan, Jun, 1, 6, U,
+53, 77, Jul, Dec, 1, 6, U,
+54, 78, Jan, Jun, 1, 6, U,
+55, 78, Jul, Dec, 1, 6, U,
+56, 79, Jan, Jun, 1, 6, U,
+57, 79, Jul, Dec, 1, 6, B,
+58, 80, Jan, Jun, 1, 6, B,
+59, 80, Jul, Dec, 1, 6, B,
+60, 81, Jan, Jun, 1, 6, B,
+61, 81, Jul, Dec, 1, 6, B,
+62, 82, Jan, Apr, 1, 4, B,
+62/63, 82, May, Aug, 5, 2, B,
+63, 82, Sep, Dec, 3, 6, B,
+-----File: mag-139.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/07
+Workers: JPM KCR
+Time Start: 12:47
+Time End: 12:50
+Collection: UnDH
+Magazine Name: F+SF
+Structure: Monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+18/19, 1960, Jul, Dec, 7, 6, B, 18/7 follow by 19/2
+20, 61, Jan, Jun, 1, 6, ,
+21, 61, Jul, Dec, 1, 6, ,
+22, 62, Jan, Jun, 1, 6, ,
+23, 62, Jul, Dec, 1, 6, ,
+24, 63, Jan, Jun, 1, 6, ,
+25, 63, Jul, Dec, 1, 6, ,
+26, 64, Jan, Jun, 1, 6, ,
+27, 64, Jul, Dec, 1, 6, ,
+28/29, 65, Jan, Jun, 1, 1, , May 78/5 Jun 78/1
+29, 65, Jul, Dec, 1, 6, , Jul 79/1
+30, 66, Jan, Jun, 1, 6, ,
+31, 66, Jul, Dec, 1, 6, ,
+32, 67, Jan, Jun, 1, 6, ,
+33, 67, Jul, Dec, 1, 6, ,
+34, 68, Jan, Jun, 1, 6, ,
+35, 68, Jul, Dec, 1, 6, ,
+36, 68, Jan, Jun, 1, 6, ,
+37, 69, Jul, Dec, 1, 6, ,
+38, 70, Jan, Jun, 1, 6, ,
+39, 70, Jul, Dec, 1, 6, ,
+40, 71, Jan, Jun, 1, 6, ,
+41, 71, Jan, Jun, 1, 6, ,
+42, 72, Sep, Jun, 1, 6, ,
+42, 72, Jan, Jun, 1, 6, ,
+-----File: mag-140.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/07
+Workers: KLB MKR
+Time Start: 12:45
+Time End: 12:50
+Collection:C/M
+Magazine Name: Futuristic Science Stories
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 3; 4; 8, 10, U,
+-----File: mag-141.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/07
+Workers: KLB MKR
+Time Start: 12:40
+Time End: 12:45
+Collection: C/M
+Magazine Name: Future
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1978, April, Nov, 1, 6, U, only 2 says its 8/yr
+, 1979, Jan, Dec, 7, 15, U, "Future Life" starting Mar; no Mag for Apr; Jun; Oct
+, 1980, Feb, Mar, 16, 17, U,
+-----File: mag-142.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  2/2/07
+Workers: KLB MKR
+Time Start: 12:00
+Time End: 12:40
+Collection: C/M
+Magazine Name:  Future Science Fiction
+Structure:
+Notes:  All unbound
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1950, Sep/oct, , 3, , U, Future Science Fiction Stories
+, 1951, Jan, Nov, 1-5, 2-4, U, Future Science Fiction Stories 2 magazines
+, 1952, Jan, Mar, 2-5, 2-6, U, Future Science Fiction Stories
+, 1953, Sept, , 4-2, , U, Future Science Fiction
+, 1954, Oct, , 5-3, , U, Future Science Fiction
+, 1957, , , 29 30, 32, U, #29 & 30 have no year date - 32 is Spring 1957  claims to be quarterly
+, 1958, Feb, , No. 35, , U, "Now every other month"
+, 1958, June, Dec, No. 37, No. 40, U, Starting Aug; "Future Science Fiction" "The Space Age Magazine"
+, 1959, Feb Jan Aug, Dec, No. 41 43 44 46, , U, June; stop saying "Space Age magazine"
+-----File: mag-143.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/07
+Workers:
+Time Start: 12:42
+Time End: 12:50
+Collection: New Rack
+Magazine Name: Misc
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , Winter 06-07, , 10, , U, Paradox
+, 06, Dec, , 207, , U, Interzone
+57, 06-07, Nov, Jan, 5 6, 59-1, U, Locus
+19, 06, Oct, Dec, 2 3, 4, U, NY REV SF
+13, 07, Feb, , 2, , U, Realms of Fantasy
+, 06, Sept, , 267, , U, SF Chronicles
+112, 07, Feb, , 2, , U, Fantasy and SF
+, , , , 10, , U, Neo-Opsis
+31, 07, Feb, Mar, 2, 3, U, Asimov's SF
+127, 07, Mar, Apr, 3, 4, U, Analog
+18, 06, Fall, , 3, , U, On Spec (whole issue 66)
+1, 06, Fall, , 7, , U, Apex SF & Horror
+-----File: mag-144.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/07
+Workers: JPM KCR
+Time Start: 12:10
+Time End: 12:46
+Collection: UnDA
+Magazine Name:
+Structure: HA
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 64/64, Aug, Now, 1, 6, B, Magazine of Horror
+2, 65, Jan, Winter, 1, 6, B, ^
+3, 66/67, Summer, Nov, 1, 6, B
+4, 68, Jan, Nov, 1, 6, B,
+5, 69, Jan, Dec, 1, 6, B,
+6, 70/74, Feb, Apr, 2, 6, B, (ostensia no 6/1)
+1, 49/50, Fall, Dec, , 5, , The Magazine of Fantasy (first issue)
+2, 51, Feb, Dec, 1, 6, ,
+3, 52, Feb, Dec, 1, 8, ,
+4, 53, Jan, Jun, 1, 6, ,
+5, 53, Jul, Dec, 1, 6, ,
+6, 54, Jan, Jun, 1, 6, ,
+7, 54, Jul, Dec, 1, 6, ,
+8, 55, Jan, Jun, 1, 6, ,
+9, 55, Jul, Dec, 1, 6, ,
+10, 56, Jan, Jun, 1, 6, ,
+11, 56, Jul, Dec, 1, 6, ,
+12, 57, Jan, Jun, 1, 6, ,
+13, 57, Jul, Dec, 1, 6, ,
+13/14, 58, Jan, Dec, 7, 6, , 12/7 Results of a 14/2
+15, 58, Jul, Dec, 1, 6, ,
+16, 54, Jan, Jun, 1, 6, ,
+17, 59, Jul, Dec, 1, 6, ,
+18, 60, Jan, Jun, 1, 6, ,
+-----File: mag-145.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  2/2/07
+Workers:
+Time Start: 12:29
+Time End: 12:38
+Collection: Sacks - Stack 19
+Magazine Name: Gruse - Krimi
+Structure: Other
+Notes: In German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 231, , U,
+, , , , 166, , U,
+, , , , 139, , U,
+, , , , 134, , U,
+, , , , 122, , U,
+, , , , 116, , U,
+, , , , 106, , U,
+-----File: mag-146.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/07
+Workers:
+Time Start:  12:29
+Time End:  12:38
+Collection:  Sacks - Stack 19
+Magazine Name: Luna Utopia Roman
+Structure: Other
+Notes: In German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 10, 17, U,
+, , , , 7, , U,
+, , , , 6, , U,
+, , , , 4, , U,
+-----File: mag-147.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  2/2/07
+Workers:
+Time Start: 12:29
+Time End: 12:38
+Collection: Sacks - Stack 19
+Magazine Name:  Gemini Science Fiction
+Structure: Other
+Notes: In German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 19, , U,
+, , , , 18, , U,
+, , , , 17, , U,
+, , , , 4, , U,
+-----File: mag-148.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date:  2/2/07
+Workers:
+Time Start: 12:29
+Time End: 12:38
+Collection:  Sacks - Stack 16
+Magazine Name: Geister - Krimi
+Structure: Other
+Notes: In German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 315, , U,
+, , , , 314, , U,
+, , , , 122, , U,
+, , , , 100, , U,
+, , , , 79, , U,
+, , , , 113, , U,
+, , , , 72, , U,
+, , , , 65, , U,
+, , , , 45, , U,
+, , , , 43, , U,
+, , , , 33, , U,
+, , , , 5, , U,
+, , , , 4, , U,
+-----File: mag-149.jpg---\aclough\mgentile555\-----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers:
+Time Start: 12:29
+Time End: 12:38
+Collection: Sacks Sacks-Stack 16
+Magazine Name: Gespenster-Krimi
+Structure: other
+Notes: In German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 138, , U,
+, , , , 130, , U,
+, , , , 122, , U,
+, , , , 96, , U,
+, , , , 93, , U,
+, , , , 86, , U,
+, , , , 79, , U,
+, , , , 71, , U,
+, , , , 69, , U,
+, , , , 65, , U,
+, , , , 54, , U,
+, , , , 45, , U,
+, , , , 23, , U,
+, , , , 22, , U,
+, , , , 2, , U,
+-----File: mag-150.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers:
+Time Start: 12:20
+Time End: 12:29
+Collection: Sacks - Stack 17
+Magazine Name: Gespenster-Krimi
+Structure: other
+Notes: In German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 339, , U,
+, , , , 323, , ^,
+, , , , 272, , ^,
+, , , , 260, , ^,
+, , , , 257, , ^,
+, , , , 232, , ^,
+, , , , 220, , ^,
+, , , , 216, , ^,
+, , , , 193, , ^,
+, , , , 188, , ^,
+, , , , 159, , ^,
+, , , , 144, , ^,
+, , , , 140, , ^,
+-----File: mag-151.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers:
+Time Start: 12:20
+Time End: 12:29
+Collection: Sacks - Stack 17
+Magazine Name: Grusel-Krimi
+Structure: other
+Notes: In German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 82, , U,
+, , , , 78, , ^,
+, , , , 72, , ^,
+, , , , 71, , ^,
+, , , , 65, , ^,
+, , , , 62, , ^,
+, , , , 57, , ^,
+, , , , 43, , ^,
+, , , , 34, , ^,
+, , , , 29, , ^,
+, , , , 12, , ^,
+-----File: mag-152.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers:
+Time Start:
+Time End:
+Collection: Sacks - Stack 18
+Magazine Name: Grusel Krimi
+Structure: other
+Notes: In German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 105, , U,
+, , , , 101, , ^,
+, , , , 99, , ^,
+, , , , 96, , ^,
+, , , , 91, , ^,
+, , , , 87, , ^,
+, , , , 85, , ^,
+-----File: mag-153.jpg---\kevinr\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2 2007
+Workers: JPM KCR
+Time Start: 12/04
+Time End: 12/30
+Collection: UnDA
+Magazine Name: IA SFM
+Structure: other (umm)
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1977, Spring, Winter, 1, 4, B, spring/summer/fall/winter
+2, 1978, Jan/Feb, Nov/Dec, 1, 6, U, 6/yr
+3, 79, Jan, Dec, 1, 12, U, monthly
+4, 80, Jan, Jun, 1, 6, B,
+4, 80, Jul, Dec, 17, 12, U,
+5, 81, Jan, Jun, 1, 6, B,
+5, 81, Jul, Dec, 7, 13, B, #9 is "August 31"
+6, 82, Jan, mid-Dec, 1, 13, U, (#13 - mid-December)
+7, 83, Jan, mid-Dec, 1, 13, U, mid dec 2 copies
+8, 84, Jan, mid-Dec, 1, 13, U,
+9, 85, Jan, mid-Dec, 1, 13, U,
+10, 86, Jan, Aug, 1, 9, U,
+10, 86, Oct, mid-Dec, 11, 13, U,
+11, 87, Jan, mid-Dec, 1, 13, U,
+12, 88, Jan, mid-Dec, 1, 12, U, 2 [** N.B. I can't read this MHG: I think it's "2 distinct 12's"] #125
+13, 89, Jan, mid-Dec, 1, 13, U,
+14, 90, Jan, mid-Dec, 1, 14, U, Nov is #11 & #12
+15, 91, Jan, mid-Dec, 1, 15, U, Apr 4&5 Nov 12&13
+16, 92, Jan, Jun, 1, 7, U, Apr 4&5
+16, 92, Aug, mid-Dec, 9, 15, U, Nov 12&13
+17, 93, Jan, mid-Dec, 1, 15, U, Apr 4&5 Nov 12&13
+18, 94, Jan, Apr, 1, 5, U, Apr 4&5
+18, 94, Jun, mid-Dec, 7, 15, U, Nov 12&13
+19, 95, Jan, mid-Dec, 1, 15, U, Apr 4&5 Nov 12,13
+-----File: mag-154.jpg---\kevinr\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2 2007
+Workers: BTS KAT
+Time Start: 11:51
+Time End:
+Collection: Sacks
+Magazine Name: Dragon, Söhne von Atlantis
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1973, 3, 8, 1, 12, U, no 11
+, 1973/4, 8/73, 2/74, 13, 26, ^,
+, 1974, 3, , 28, , ^,
+, 1974, 4, 4, 30, 31, ^,
+, 1974, 5, , 33, , ^,
+, 1974, 6, 7, 34, 37, ^,
+, 1974, 8, , 39, , ^
+, 1974, 8, 12, 46, 47, ^,
+, 1975, 1, , 50, , ^,
+, 1975, 3, , 54, , ^,
+-----File: mag-155.jpg---\kevinr\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2 2007
+Workers: BTS KAT
+Time Start: 11:45
+Time End:
+Collection: Sacks
+Magazine Name: misc
+Structure:
+Notes: German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 10, 27, U, Damona King; no dates
+, , , , 2;24;25, , U, Erde 2000
+, , , , 28;36, , U, Erde 2000
+-----File: mag-156.jpg---\kevinr\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2 2007
+Workers: BTS KAT
+Time Start: 11:45
+Time End: 11:51
+Collection:
+Magazine Name: Damonen Killer
+Structure: other
+Notes: German; no dates
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 20, , U,
+, , , , 22, , U,
+, , , , 24, 26, U,
+, , , , 32, , U,
+, , , , 37, , U,
+, , , , 39, , U,
+, , , , 42, , ^,
+, , , , 44, , ^,
+, , , , 46, 47, ^,
+, , , , 48, , ^,
+, , , , 58, , ^,
+, , , , 62, , ^,
+, , , , 65, , ^,
+, , , , 74, 75, ^,
+, , , , 77, , ^,
+, , , , 79, 80, ^,
+, , , , 97, , ^,
+, , , , 112, , ^,
+, , , , 131, , ^,
+, , , , 133, , ^,
+, , , , 138, 139, ^,
+-----File: mag-157.jpg---\kevinr\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2 2007
+Workers: JHS PP
+Time Start: 10:03
+Time End:
+Collection:
+Magazine Name: Galileo
+Structure: quarterly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Marginalia
+, 1976, 9 (Sep; ?), , 1, 2, B, second issue no date, one book
+, 1977, Jan;Apr;Jul, , 3, 5, B, ,                     ^
+-----File: mag-158.jpg---\kevinr\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2 2007
+Workers: PP, JHS
+Time Start: 10:08
+Time End:
+Collection:
+Magazine Name: Gamma
+Structure: other (random)
+Notes: single bound volume
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1963, no date, , 1, 2, B,
+2, 1964, no date, , 1, 1, ^,
+2, 1965, 2, , 2, , ^,
+, missing?, , , , , ^, missing issues?
+2, 1965, 9, , 5, , ^,
+-----File: mag-159.jpg---\kevinr\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2 2007
+Workers: PP, JHS
+Time Start:
+Time End:
+Collection:
+Magazine Name: The Haunt of Horror
+Structure: bimonthly
+Notes: two issues only in 1 bound volume
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1973, Jun, Aug, 1, 2, B,
+-----File: mag-160.jpg---\kevinr\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2 2007
+Workers: PP, JHS
+Time Start:
+Time End:
+Collection:
+Magazine Name: Great Science Fiction
+Structure: quarterly
+Notes: sheet 1 of 2
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Marginalia
+, , , , 1, , B, only has out-of-order copyright dates, bound "1963; 1965"
+, , , , 2, , ^, , ^
+, , , , 3, , ^, , ^
+, , , , 4, , ^, , ^
+, , , , 5, , ^, , ^
+, , , , 6, , B, , bound "1967; 1968"
+, , , , 7, , , , ^
+, 1967, Fall 1967, , 8, , , , ^
+, 1968, Winter, , 9, , , , ^
+, 1968, Spring, , 10, , , , ^
+, 1968, Summer, , 11, , , , ^
+, 1968, Fall, , 12, , , , ^
+, 1969, Winter, , 13, , B, Changed title to _Science Fiction Greats_ but still bound under old title, [** bracketed w/o explanatory text]
+, 1969, Spring, , 14, , , , ^
+, 1969, Summer, , 15, , , , ^
+, 1969, Winter, , 16, , , , ^
+, 1970, Spring, , 17, , , , ^
+, 1970, Summer, , 18, , , , ^
+-----File: mag-161.jpg---\kevinr\mgentile555\------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2 2007
+Workers:
+Time Start:
+Time End:
+Collection:
+Magazine Name: IF
+Structure: bimontly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Marginalia
+1, 1952, Mar, Nov, 1, 5, B,
+1, 1953, Jan, , 6, , B,
+2, 1953, Mar, Nov, 1, 5, B, Title page cut out Nov 1953
+1, 1954, Jan, , 6, , B, B,
+3, 1954, Mar, Jun, 1, 4, B, switched to monthly
+3, 1954, Jul, Aug, 5, 6, B,
+4, 1954, Sep, Dec, 1, 4, B,
+4, 1955, Jan, Feb, 5, 6, B, back to bimonthly starting June 1955; [** labeled 1955]
+5, 1955, Mar, Oct, 1, 6, B, ,
+6, 1955, Dec, , 1, , B,
+6, 1956, Feb, Oct, 2, 6, B, [** labeled 1956]
+7, 1956, Dec, , 1, , B,
+7, 1957, Feb, Oct, 2, 6, B, yes; there are two volume 7 no. 6!, { [** labeled 1957]
+7, 1957, Dec, , 6, , , ^, }
+8, 1958, Feb, Oct, 2, 6, B, skipped vol. 8 no. 1, { [** labeled 1958]
+9, 1958, Dec, , 1, , , , }
+-----File: mag-162.jpg---\mkr\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2, 2007
+Workers:
+Time Start:
+Time End:
+Collection:
+Magazine Name: IF
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+9, 1959, Feb, , 2, ,B, Volumes really messed up!
+8, 1959, Jul, , 6, ,B, ^
+9, 1959, Sep, , 4, ,B, ^
+9, 1959, Nov, , 5, ,B, ^
+
+9, 1960, Jan, , 6, , B
+10, 1960, Mar, Nov, 1, 5, B
+
+10, 1961, Jan, , 6, , B,     Volumes messed up!
+10, 1961, Mar, , 6, , B,     ^
+11, 1961, May, Nov, 2, 5, B, ^
+
+11, 1962, Jan, , 6, , B
+12, 1962, Mar, Nov, 1, 5, B
+
+12, 1963, Jan, , 6, , B
+13, 1963, Mar, Nov, 1, 5, B
+
+12, 1964, Jan, , 6, , B
+14, 1964, Mar, May, 1, 2, B
+14, 1964, July, Aug, 3, 4, B, now monthly
+14, 1964, Oct, , 5, , B, no September
+14, 1964, Nov, , 6/84, , B, added new cumulative issue no.
+14, 1964, Dec, , 7/85, , B, starting with 84
+-----File: mag-163.jpg---\kkb\mgentile555\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/'07
+Workers:
+Time Start:
+Time End:
+Collection:
+Magazine Name: If
+Structure:
+Notes: Has both volume/number and cumulative issue number
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+15, 1965, Jan, Jun, 15-1, 15-6, B, whole issue 86-91 [*1965 book 1]
+15, 1965, Jul, Dec, 15-7, 15-12, B, whole issue 92-97 [*1965 book 2]
+16, 1966, Jan, Jun, 16-1, 16-6, B, whole issue 98-103 [*1966 book 1]
+16, 1966, Jul, Dec, 16-7, 16-12, B, whole issue 104-109 [*1966 book 2]
+17, 1967, Jan, Jun, 17-1, 17-6, B, whole issue 110-115 [*1967 book 1]
+17, 1967, Jul, Dec, 17-7, 17-12, B, whole issue 116-121 [*1967 book 2]
+18, 1968, Jan, Jun, 18-1, 18-6, B, whole issue 122-127 [*1968 book 1]
+18, 1968, Jul, Dec, 18-7, 18-12, B, whole issue 128-133 [*1968 book 2]
+19, 1969, Jan, May, 19-1, 19-5, B, whole issue 134-138 June 1969 not published [*1969 book 1]
+19, 1969, Jul, , 19-6, , U, whole issue 139
+19, 1969, Sep, Dec, 19-7, 19-10, U, whole issue 140-143
+20, 1970, Jan, Apr, 20-1, 20-4, U, whole issue 144-147
+-----File: mag-164.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers:
+Time Start:
+Time End:
+Collection:
+Magazine Name: If
+Structure:
+Notes: has both volume number and cumulative issue number
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+20, 1970, May-Jun, Nov-Dec, 5/148, 8/151, U,
+20, 1971, Jan-Feb, Jul-Aug, 9/152, 12/155, B,
+21, 1971, Sept-Oct, Nov-Dec, 1/156, 2/157, B,
+21, 1972, Jan-Feb, Nov-Dec, 3/158, 8/163, U,
+21, 1973, Jan-Feb, May-Jun, 9/164, 11/166, U, Dup issue no. 166
+21, 1973, Jul-Aug, , 12/166, , U, Skipped no. 167
+22, 1973, Sept-Oct, Nov-Dec, 1/168, 2/169, U,
+22, 1974, Jan-Feb, Nov-Dec, 3/170, 8/175, U,
+23, 1986, Sept-Nov, , 1/176, , U,
+-----File: mag-165.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers:
+Time Start:
+Time End:
+Collection:
+Magazine Name: Imagination
+Structure: bimonthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Marginalia
+1, 1950, Oct, Dec, 1, 2, B, 1950-1951
+2, 1951, Feb, Nov, 1, 5, B, ^
+3, 1952, Jan, Dec, 1, 7, B, Monthly starting September but no November issue
+4, 1953, Jan, Jun, 1, 5, B, no March issue [*1953 book 1]
+4, 1953, Jul, Dec, 6, 11, B, [*1953 book 2]
+5, 1954, Jan, Jun, 1, 6, B, [*1954 book 1]
+5, 1954, Jul, Dec, 7, 12, B, [*1954 book 2]
+6, 1955, Jan, Jul, 1, 7, B, switch bimonthly October, [*1955]
+6, 1955, Oct, Dec, 8, 9, B,                         , ^
+7, 1956, Feb, Dec, 1, 6, B, [*1956]
+8, 1957, Feb, Dec, 1, 6, B, [*1957]
+9, 1958, Feb, Oct, 1, 5, B, [*1958]
+-----File: mag-166.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: PP, JHS
+Time Start:
+Time End:
+Collection:
+Magazine Name: Imaginative Tales
+Structure: bimonthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1954, Sept, Nov, 1, 2, B, [*1954-1955]
+1, 1955, Jan, Jul, 3, 6, B, ^
+2, 1955, Sept, Nov, 1, 2, B,^
+3, 1956, Jan, Nov, 1, 6, B, [*1956]
+4, 1957, Jan, Nov, 1, 6, B, [*1957]
+5, 1958, Jan, May, 1, 3, B, [*1958] --bound in same volume as Space Travel - same editor and continued volume number starting July 1958
+5, 1958, Jul, Nov, 4, 6, , ^
+-----File: mag-167.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: PP, JHS
+Time Start:
+Time End:
+Collection:
+Magazine Name: Impulse
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1966, Mar, Aug, 1, 6, B, [*1966 book 1]
+1, 1966, Sept, Dec, 7, 10, B, [*1966 book 2]
+1, 1967, Jan, Feb, 11, 12, , [*1967]
+-----File: mag-168.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: PP, JHS
+Time Start:
+Time End:
+Collection:
+Magazine Name: Infinity
+Structure: bimonthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1955, Nov, , 1, , B,     | --[*1955-1956]
+1, 1956, Feb, , 2, , B,     |
+1, 1956, Jun, Dec, 3, 6, B, |
+2, 1957, Feb, Jun, 1, 3, B,   | --[*1957] claims every 6 weeks starting in June
+2, 1957, Jul, Oct, 4, 6, , ,  |
+3, 1957, Nov, , 1, , ,        |in July claims monthly except Feb; Aug; & Dec
+3, 1958, Jan, Apr, 2, 4, , in June claims bimonthly
+3, 1958, Jun, Aug, 5, 6, ,
+4, 1958, Oct, Nov, 1, 2, ,
+-----File: mag-169.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: PP, JHS
+Time Start:
+Time End:
+Collection:
+Magazine Name: Interzone
+Structure: quarterly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1982, Spring, Autumn, 1, 3, B, missing Winter 1982
+1, 1983, Spring, , 4, , ,
+1, 1983, Autumn, , 5, , ,
+, 1983, Winter, , 6, , , no volume numbers
+, 1984, Spring, , 7, , ,
+, 1984, Summer, , 8, , ,
+, 1984, Autumn, , 9, , ,
+, 1984, Winter, , 10, , ,
+, 1985, Spring, Winter, 11, 14, ,
+, 1986, Spring, Winter, 15, 18, B, | --[*1986-1987]
+, 1987, Spring, Winter, 19, 22, B, |
+, 1988, Spring, Summer, 23, 24, B,              | --[*1988-1989]
+, 1988, Sept-Oct, Nov-Dec, 25, 26, B, bimonthly |
+, 1989, Jan-Feb, Nov-Dec, 27, 32, B,            |
+, 1990, Jan-Feb, Mar-Apr, 33, 34, B, |--[*1990]
+, 1990, May, Dec, 35, 42, , monthly  |
+, 1991, Jan, Dec, 43, 54, B,
+, 1992, Jan, Dec, 55, 66, B,
+, 1993, Jan, Dec, 67, 78, B,
+-----File: mag-170.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: PP, JHS
+Time Start:
+Time End:
+Collection:
+Magazine Name: Great Science Fiction
+Structure: quarterly
+Notes: sheet 2 of 2
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1970, Fall, , 19, , B,
+, 1970, Winter, , 20, , ,
+, 1971, Spring, , 21, , ,
+-----File: mag-171.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/3/2007
+Workers: JFC, ALC
+Time Start: 11:45
+Time End:
+Collection: circ
+Magazine Name: varies
+Structure:
+Notes: all unbound
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1957, Aug, , 25, , , Flying Saucers
+, 1958, Feb, May, 28, 29, , ^
+, 1959, Feb; May, Jul, 33, 35, , ^
+, 1959, Oct, , 36, , , ^
+, 1961, Oct, , ?, , , ^
+, 1969, Jan, , 34 (sic), , , Flying Saucers
+, 1976, Jun, , 82, , , ^
+1, 1970, Oct, , 1, , , Forgotten Fantasy
+1, 1971, Feb, Apr, 3, 4, , ^
+, 1978, Dec, , 61, , , Flying Saucers
+-----File: mag-172.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: BTS, KAT
+Time Start: 11:36
+Time End: 11:44
+Collection: Sacks
+Magazine Name: Commander Scott
+Structure:
+Notes: German ~1974/1975
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 7, , , Issue is "Band"
+, , , , 11, , ,
+, , , , 13, 14, ,
+, , , , 22, , ,
+, , , , 24, , ,
+, , , , 28, , ,
+, , , , 30, , ,
+, , , , 33, 34, ,
+, , , , 37, 42, ,
+-----File: mag-173.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/3/2007
+Workers: JFC, ALC
+Time Start: 11:12
+Time End:
+Collection: circ
+Magazine Name: Fantasy Book
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1947, , , 1, , U, Fantasy Book
+2, 1983, Feb, , 1, , U, ^
+2, 1983, Aug, , 3, , U, ^
+5, 1986, Sept, , 3, , U, ^
+1, ?, Feb, , 6, , U, ^
+2, ?, ?, , 2, , U, ^ copyright 1951
+-----File: mag-174.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/3/2007
+Workers: JFC, ALC
+Time Start:
+Time End:
+Collection: circ
+Magazine Name: varies
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1953, June, , 2, , U, Fantasy Fiction
+1, , Aug, , 3, , U, ^
+1, , Nov, , 4, , U, ^
+1, 1953, Feb, , 1, , U, Fantasy Magazine (same as above??)
+1, 1941, Spring, , 1, , U, Fate
+2, 1949, May, , 1, , U, ^
+3, 1950, Nov, , 7, , U, ^
+4, 1951, Jan; Apr, Jul; Aug/Sep, 1; 3; 5, 6, U, ^
+5, 1952, Feb/Mar, , 2, , U, ^
+5, 1952, June, , 4, , U, ^
+5, ^, Sep, , 6, , U, ^
+5, ^, Nov, , 8, , U, ^
+5, ^, Dec, , 9, , U, ^
+6, 1953, 1; 2; 3; 4, 6; 7, 1; 2; 3; 4, 6; 7, U, ^ (monthly)
+10, 1957, June, , 6, , U, ^
+10, 1957, Sep; Nov, Dec, 9; 11, 12, U, ^
+11, 1958, Feb; Jul; Aug, Oct; Nov, 2; 7; 8, 10; 11, U, ^
+12, 1959, Mar; Aug, Oct; Nov, 3; 8, 10; 11, U, ^
+13, 1960, Jan, Dec, 1, 12, U, ^ missing April
+14, 1961, Jan, Dec, 1, 12, U, ^ monthly
+, 1962, Jan, Dec, , , U, ^ monthly
+, 1963, Jan, Dec, , , U, ^ monthly
+, 1964, Jan, Dec, , , U, ^ monthly
+, 1965, Jan, Dec, , , U, ^ monthly
+-----File: mag-175.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: JFC, ALC
+Time Start:
+Time End:
+Collection: circ
+Magazine Name: Fate
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+19, 1966, Feb, Dec, 2, 12, U,
+20, 1967, Jan, Dec, 1, 12, U,
+21, 1968, ^, ^, 1, 12, U,
+22, 1969, ^, ^, 1, 12, U,
+23, 1970, ^, ^, 1, 12, U,
+, 1971, Jan, Sept, 1, 9, U,
+-----File: mag-176.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: BTS, KAT
+Time Start: 11:32
+Time End:
+Collection: Sacks
+Magazine Name: Atlan
+Structure: other - weekly?
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1979, 12, 4/1980, 431, 444, , no 435; no 437
+, 1980, 5, 5, 449, 451, ,
+, 80, 9, 10, 469, 471, ,
+, 80, 10, 12, 474, 480, , no 476; no 477
+-----File: mag-177.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: BTS, KAT
+Time Start: 11:07
+Time End:
+Collection: Sacks
+Magazine Name: Atlan
+Structure: other - weeklyish
+Notes: German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1975, 7, 10, 200, 210, U, no 201
+, 75-76, 11, 2, 216, 230, U, no 228
+, 76, 3, 6, 232, 248, U,
+, 1976, 7, 8, 251, 257, U, no 252
+, 1976, 9, 12, 261, 272, U, no 266; 269; 271
+, 1977, 1, 1, 277, 278, U,
+, 77, 3, , 285, , U,
+, 77, 4, 6, 288, 299, U, no 297
+, 77, 7, 7, 302, 303, U,
+, 77, 8; 9, 9, 307, 312; 313, U,
+, 77, 9, , 311, , ,
+, 1978, 3, 3, 336, 339, U, no 322; no 324
+, 1978, 6, 6, 349, 350, U, no 338
+, 1978, 10, , 367, , U,
+, 1978, 12, , 375, , U,
+, 1979, 4, , 392, , U,
+, 1979, 5, , 399, , U,
+, 1979, 5, 9, 400, 412, U, no 405; no 408; no 409
+, 1979, 9, 9, 415, 416, U,
+, 1979, 11, 12, 424, 430, U, no 425
+-----File: mag-178.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: BTS, KAT
+Time Start: 10:35
+Time End:
+Collection: Sacks - unbound foreign
+Magazine Name: Abenteur in Weltenraum
+Structure:
+Notes: German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+Band, , 1; 3; 4, , , , ,
+-----File: mag-179.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: BTS, KAT
+Time Start: 10:40
+Time End: 11:07
+Collection: Sacks
+Magazine Name: Atlan
+Structure: other - weeklyish. every 10 days?
+Notes: In German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 16, 30, U,
+, , , , 46, 61, U, copyright 1972 - #46
+, 1972, 8, 12, 62, 71, U,
+, 1973, 1, 6, 72, 87, U,
+, 1973, 6, 7, 88; 89, 92, U,
+, 1973, 7, 12, 93, 115, U,
+, 1974, 1, 2, 121; 124, 126, U,
+, 1974, 3, , 127, , U,
+, 1974, 4, , 131, , U,
+, 1974, 5, , 137, , U,
+, 1974, 5, , 139, , U,
+, 1974, 6, , 140, , U,
+, 1974, 6, , 142, , U,
+, 1974, 6, 7, 143, 146, U,
+, '74, 7, , 147, , U,
+, '74, 8, 9, 149, 155, U,
+, 1974, 10, 11, 157, 163, U,
+, 1974, 12, 11, 165, 169, U,
+, 1975, 1, 2, 171, 176, U,
+, 1975, 2, 3, 178, 179, U,
+, 1975, 4, 4, 183, 187, U, no 185
+, 1975, 5, 7, 191, 199, U, no 194; 196
+-----File: mag-180.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: JFC, ALC
+Time Start:
+Time End: 11:10
+Collection: circ
+Magazine Name: F and SF
+Structure: monthly
+Notes: 11 per year from 1991, Sep+Oct or Oct+Nov
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1990, Jan, Dec, 78-1, 79-6, U,
+, 1991, Jan, Dec, 80-1, 81-6, U, Sep and Oct merged (81-4 and 81-5)
+, 1992, ^, ^, 82-1, 83-6, U, ^
+, 1993, ^, ^, 84-1, 85-6, U, ^
+, 1994, ^, ^, 86-1, 87-6, U, missing Sep; Oct + Nov combined
+, 1995, ^, ^, 88-1, 89-6, U, missing March; May; June
+, 1996, ^, ^, 90-1, 91-6, U, missing Jan; March; May
+, 1997, Jan, Jul, 92-1, 93-1, U, missing Feb
+, 1998, Jan, Oct+Nov, 94-1, 95-4+5, U, missing Dec?
+-- no 1999 to 2001 --
+102, 2002, June, , 102-6, , U,
+-----File: mag-181.jpg---\nhinchen\mgentile555\----------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: JFC, ALC
+Time Start: 10:30
+Time End:
+Collection: circ
+Magazine Name: F + SF
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1950, , , 3, 5, U, summer; fall; December
+2, 1951, , , 1, 6, U, Feb to Dec bimonthly
+3, 1952, 2; 4; 6, 8; 9; 10; 11; 12, 1, 8, U, monthly from August
+4; 5, 1953, , , 4-1 to 4-5, 5-1 to 5-6, U, monthly except June
+6, 1954, Jan, Jun, 1, 6, U, monthly
+7, 1954, Jul, Dec, 1, 6, U, monthly
+8, 1955, Jan, Jun, 1, 6, U, ^
+9, ^, Jul, Dec, 1, 6, U, ^
+10, 1956, Jan, Jun, 1, 6, U, ^
+11, ^, Jul, Dec, 1, 6, U, monthly (spp says 1955 on spine)
+12, 1957, Jan, Jun, 1, 6, U, monthly
+13, ^, Jul, Dec, 1, 6, U, ^
+14, 1958, Jan, Jun, 1, 6, U, ^
+15, ^, Jul, Dec, 1, 6, U, ^
+16, 1959, Jan, Jun, 1, 6, U, ^
+17, ^, Jul, Dec, 1, 6, U, ^
+18; 19, 1960, Jan, Dec, 18-1, 19-6, U, ^
+20; 21, 1961, Jan, Dec, 20-1, 21-6, U, ^
+22; 23, 1962, Jan, Dec, 22-1, 23-6, U, ^
+24; 25, 1963, Jan, Dec, 24-1, 25-6, U, ^
+26; 27, 1964, Jan, Dec, 26-1, 27-6, U, ^
+28; 29, 1965, Jan, Dec, 28-1, 29-6, U, ^
+30; 31, 1966, Jan, Dec, 30-1, 31-6, U, monthly; missing March (June is 30-6)
+32; 33, 1967, Jan, Dec, 32-1, 33-6, U, monthly
+-----File: mag-182.jpg---\nhinchen\kevinr\---------------------------------
+MITSFS Magazine Inventory
+
+Date: 2/2/2007
+Workers: JFC, ALC
+Time Start:
+Time End:
+Collection: circ
+Magazine Name: F and SF
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+34; 35, 1968, Jan, Dec, 34-1, 35-6, U, monthly
+36; 37, 1969, ^, ^, 36-1, 37-6, U, ^
+, 1970, ^, ^, 38-1, 39-6, U, ^
+, 1971, ^, ^, 40-1, 41-6, U, ^
+, 1972, ^, ^, 42-1, 43-6, U,
+, 1973, ^, ^, 44-1, 45-6, U,
+, 1974, ^, ^, 46-1, 47-6, U,
+, 1975, ^, ^, 48-1, 49-6, U,
+, 1976, ^, ^, 50-1, 51-6, U,
+, 1977, ^, ^, 52-1, 53-6, U,
+, 1978, ^, ^, 54-1, 55-6, U,
+, 1979, ^, ^, 56-1, 57-6, U,
+, 1980, ^, ^, 58-1, 59-6, U,
+, 1981, ^, ^, 60-1, 61-6, U,
+, 1982, ^, ^, 62-1, 63-6, U,
+, 1983, ^, ^, 64-1, 65-6, U,
+, 1984, Jan, Aug, 66-1, 67-2, U, no June
+, 1984, Dec, , 67-6, , U, Dec. 1984
+, 1984, , , 67-3;67-4;67-5;87-6, , B, Sep; Oct; Nov 1984; Dec 1994
+, 1985, Jan, Dec, 68-1, 69-6, U, monthly
+, 1986, ^, ^, 70-1, 71-6, U,
+, 1987, ^, ^, 72-1, 73-6, U,
+, 1988, ^, ^, 74-1, 75-6, U,
+, 1989, ^, ^, 76-1, 77-6, U,
+-----File: mag-183.jpg---\dnawi\kevinr\------------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2 2007
+Workers: KKB
+Time Start: 10:45
+Time End:
+Collection: MagDex shelf (C/M displaced due to lack of space)
+Magazine Name: Analog
+Structure: monthly
+Description: Unclear if Analog is printing 13 issues/yr. at this time.  I don't think so.  11/yr?
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Count
+CXX, 2000, 10/00, 12/00, 10, 12, U, , 2 mags
+CXXI, 2001, 1/01-, 12/01, 1, 12, U, July/Aug combined (11/yr), July/Aug issue has "Issue No. 7&8", 11 mags
+CXXII, 2002, 1/02-, 4/02, 1, 4, U, , 4 mags
+CXXII, 2002, 11/02-, 12/02, 11, 12, U, , 2 mags
+CXXIII, 2003, 1/03-, 3/03, 1, 3, U, , 3 mags
+CXXIII, 2003, 12/03-, , 12, , U, , 1 mag
+-----File: mag-184.jpg---\dnawi\kevinr\------------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb. 2 2007
+Workers: BTS KAT
+Time Start: 10:30
+Time End:
+Collection: Sacks
+Magazine Name: Analog
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1965, 4, 4, 75-2, , U, on perm loan
+-----File: scn.0.jpg---\mkr\dnawi\-----------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: *JSB*, KCR
+Time Start: 12:57
+Time End:
+Collection: SR
+Magazine Name: Pile *fi*s*y randoms
+Structure:
+Notes: Collection of randoms
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+3, 1955, 7/55, 8/55, 26, 27, U, *M'as alla* (Spanish?) 27 needs repair
+71, 1949, 10/49, , , , U, *Narant*** Terr**** (Italian?)
+1, 1957, M**j**, Guiy**, 7, 9, U, Alfa-Tau (Italian?)  2 issues only
+?, ?, , , 3, 4, U, Il Scrittori Del Futu*ro* (Italian?)
+?, ?, , , 1, , U, Planet (Dutch *?*)
+, , , , 1, 3, U, Proxima (Italian?) 196*? *65*?
+, 1975, 45, , 65, , U, Nueva Dimension (Spanish?)
+, 1972, , , 1, 2, U, Gala*letila* (?)
+, , , , *1; 4; 13 only*, , U, Cien*cia* y Fant*asia* (Italian?)
+, 1958, ?, 5/58, 1, 2, U, Cosmic (*Italian?*)
+, , 12/59 */* */* */*, *[more illegible stuff]*, 3; 6; 12; 22 only, , U, C*rache* del Futu*ro* Later ones are "Le Ch***..." (Italian?)(French?)
+
+, 1963, , , 1 2 3 4 6 *7 or 9*, , U, Fantasia e Fantas*eimzs* (Italian)  *[dates for the above 12, 1 2 4 6 & 9/63?]
+-----File: scn.1.jpg---\mkr\dnawi\-----------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB, KCR
+Time Start:12:52
+Time End:
+Collection: SR
+Magazine Name: Fiction
+Structure: monthly
+Notes: French
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1962, 7/62, 11/62, 104, 109, B
+, 1963, 1/63, 6/63, 110, 115, B
+, 1963, 7/63, 12/63, 116, 121, B
+, 1964, 1/64, 6/64, 122, 127, B
+, 1964, 7/64, 12/64, 128, 133, B
+, 1965, 1/65, 6/65, 134, 139, B
+, 1965, 7/65, 12/65, 140, 145, B
+-----File: scn.10.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: 1355
+Time End:1355
+Collection: Circulating
+Magazine Name: Aphelion
+Structure: quarterly, other (? 1985-1986)
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+-, 1985/1986, summer, summer, 1, 1, U
+
+[** this page is very hard to make out!]
+-----File: scn.11.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: 1956
+Time End: 1956
+Collection: Circulating
+Magazine Name: Astonishing Stories
+Structure: other (no data) [**?]
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1940, Aug, Aug, 4, 4, U
+-----File: scn.12.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: 1356
+Time End: ->
+Collection: circulating
+Magazine Name: Astounding Stories
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Contained in which binding
+16, 1935, Oct, Oct, 2, 2, U, "every 3rd wednesday of each month"
+20, 1937-38, Sept, Feb, 1, 6, B,
+21, 1938, March, Aug, 1, 6, B,
+22, 1938-9, Sept, Feb, 1, 6, B,
+23, 1939, March, Aug, 1, 6, B,
+24, 1939-40, Sept, Feb, 1, 6, B,
+25, 1940, March, Aug, 1, 6, B,
+26, 1940-41, Sept, Feb, 1, 6, B,
+28, 1941, Sept, Dec, 1, 4, B,
+28, 1942, Jan, Feb, 5, 6, B,
+29, 1942, March, Aug, 1, 6, B,
+31, 1943, March, Apr, 1, 2, B,
+31, 1943, May, Aug, 3, 6, B,
+32, 1943, Sept, Oct, 1, 2, B,
+30, 1942-3, Sept, Feb, 1, 6, B,
+32, 1943-4, Nov, Feb, 3, 6, B,
+33, 1944, March, Aug, 1, 6, B,
+35, 1945, March, Aug, 1, 6, B,
+34, 1944-5, Sept, Feb, 1, 6, B, some issues bound upside-down
+36, 1945-6, Sept, Feb, 1, 6, B,
+36, 1946, Jan, Feb, 5, 6, B, bad binding/bad condition, 1 binding A
+37, 1946, March, June, 1, 4, B, , 1 binding A
+37, 1946, July, Aug, 5, 6, B, , 1 binding B
+38, 1946, Sept, Dec, 1, 4, B, , 1 binding B
+-----File: scn.13.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Kelsey, Sharmin
+Time Start: <-
+Time End: ->
+Collection: circulating
+Magazine Name: Astounding Stories
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, Bindings (by year)
+38, 1947, Jan, Feb, 5, 6, B, , binding 1947A
+39, 1947, March, Jun, 1, 4, B, , binding 1947A
+39, 1947, July, Aug, 5, 6, B, , binding 1947B
+40, 1947, Sept, Dec, 1, 4, B, , binding 1947B
+40, 1948, Jan, Feb, 5, 6, B, , binding 1948A
+41, 1948, March, June, 1, 4, B, typo? (compare with preceding and following vol numbers), binding 1948A
+50, 1948, March, March, 1, 1, B, typo? (compare with preceding and following vol numbers), binding 1948B
+41, 1948, April, Aug, 2, 6, B, , binding 1948B
+42, 1948-9, Sept, Feb, 1, 6, B,
+43, 1949, March, Aug, 1, 6, B,
+44, 1949-50, Sept, Feb, 1, 6, B,
+45, 1950, March, Aug, 1, 6, B,
+46, 1950-1, Sept, Feb, 1, 6, B,
+47, 1951, Mar, Aug, 1, 6, B,
+48, 1951-2, Sept, Feb, 1, 6, B,
+49, 1952, Mar, Aug, 1, 6, B,
+50, 1952-3, Sept, Feb, 1, 6, B,
+51, 1953, Mar, Aug, 1, 6, B,
+52, 1953-4, Sept, Feb, 1, 6, B,
+53, 1954, Mar, Aug, 1, 6, B,
+54, 1954-5, Sept, Feb, 1, 6, B,
+55, 1955, Mar, Aug, 1, 6, B,
+56, 1955-6, Sept, Feb, 1, 6, B,
+57, 1956, Mar, Aug, 1, 6, B,
+-----File: scn.14.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: <-
+Time End: 1428
+Collection: circulating
+Magazine Name: Astounding Stories
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+58, 1956-7, Sept, Feb, 1, 6, B,
+59, 1957, Mar, Aug, 1, 6, B,
+59, 1957, Apr, Apr, 2, 2, U,
+60, 1957-8, Sept, Feb, 1, 6, B,
+61, 1958, Mar, Aug, 1, 6, B,
+62, 1958-9, Sept, Feb, 1, 6, B,
+63, 1959, Mar, Aug, 1, 6, B,
+64, 1959-60, Sept, Feb, 1, 6, B,
+65, 1960, Mar, Aug, 1, 6, B,
+66, 1960-1, Sept, Feb, 1, 6, B,
+67, 1961, Mar, Aug, 1, 6, B,
+-----File: scn.15.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: 1450
+Time End: ->
+Collection: circulating
+Magazine Name: Analog Science Fact + Science Fiction
+Structure: monthly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+68, 1961, Sept, Dec, 1, 4, U,
+68, 1962, Jan, Feb, 5, 6, U,
+69, 1962, March, Aug, 1, 6, B,
+70, 1962-3, Sept, Feb, 1, 6, B,
+71, 1963, March, Aug, 1, 6, B,
+72, 1963-4, Sept, Feb, 1, 6, B,
+73, 1964, March, Aug, 1, 6, B,
+74, 1964-5, Sept, Feb, 1, 6, B,
+75, 1965, March, Aug, 1, 6, U,
+76, 1965-6, Sept, Feb, 1, 6, U,
+77, 1966, March, Aug, 1, 6, U,
+78, 1966-7, Sept, Feb, 1, 6, U,
+79, 1967, March, Aug, 1, 6, U,
+80, 1967-8, Sept, Feb, 1, 6, U,
+81, 1968, March, Aug, 1, 6, U,
+82, 1968-9, Sept, Feb, 1, 6, U,
+83, 1969, Mar, Aug, 1, 6, U,
+84, 1969-70, Sept, Feb, 1, 6, U,
+85, 1970, Mar, Aug, 1, 6, U,
+86, 1970-1, Sept, Feb, 1, 6, U,
+87, 1971, Mar, Aug, 1, 6, U,
+88, 1971-2, Sept, Feb, 1, 6, U,
+89, 1972, Mar, Aug, 1, 6, U,
+90, 1972-3, Sept, Feb, 1, 6, U,
+-----File: scn.16.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB, KCR
+Time Start: 645
+Time End:
+Collection: SR
+Magazine Name: Science Fiction Chronicle
+Structure: monthly (except when doubled together, [** ??])
+Notes: Probably shouldn't be SR.
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1992, 1/92, 12/92, 13-4, 14-3, U, Aug/Sept combined to be 1 issue
+, 1993, 1/93, 12/93, 14-4, 15-2, U, no November
+, 1994, 1/94, 12/94, 15-3, 16-2, U, no April, Oct/Nov combined
+, 1995, 1/95, 8-9/95, 16-3, 16-9, U, bimonthly after Jan, except May
+, 1995-6, 10-11/95, 12/95-1/96, 17-1, 17-2, U,
+, 1996, 2; 5-6, , 17-3, 17-4, U,
+, 1996, , , 18-1, , U, x2 copies
+, 1997, 4-5; 6, , 18-2, 18-3, U, Apr/May x2 copies
+, 1997, 10; 11, , 19-1, 19-2, U,
+-----File: scn.17.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB + Sukrit
+Time Start: 1:29
+Time End:
+Collection: C/M
+Magazine Name: Doctor Who
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , 4/16/80, , 27, , U, Doctor Who Weekly
+, , 4/23/80, , 28, , U, ^
+, , 2/81, 11/81, 49, 58, U, monthly "Doctor Who"
+, 1987, , , , , U, The Very Best of Doctor Who (summer special)
+-----File: scn.18.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB
+Time Start: 3:34
+Time End:
+Collection: SR
+Magazine Name: Aboriginal Science Fiction
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1986, 10; 12/86, , 1, 2, U,
+, 1987, 2-3; 5-6; 7-8; 9-10; 11-12/87, , 1, 7, U,
+, 1994, Spring 94, , 45 & 46, , U,
+, 1988-90, , , 8, 24, B,
+, 1991-93, , , 25, 43/44, B,
+-----File: scn.19.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: Feb 2, 2007
+Workers: JSB
+Time Start: 9:34
+Time End:
+Collection: SR miniprki [** sp?]
+Magazine Name: Amazing Science Fiction
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1977, 3/77, , 50-4, , U,
+-----File: scn.2.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB & KCR
+Time Start: 12:29
+Time End:
+Collection: SR
+Magazine Name: Fantascienza
+Structure: monthly
+Notes: Italian
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 54-55, 11/54, 5/55, 1, 7, B,
+-----File: scn.20.jpg---\dnawi\kevinr\-------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: ALC
+Time Start: 6:10
+Time End:
+Collection: SR/PM DA#2
+Magazine Name: H"A"PNA! and others
+Structure:
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, *Add'l Notes*
+, 1955-56, JAN, OCT, 1, 10, U, Monthly, HAPNA
+, 56, NOV, DEC, 32, 33, U, ,
+, 57, JAN, , 34, , U, ,
+, 57-62, JAN, DEC, 2, 12, U, Hurrah for regularity!,
+, 63-65, JAN, MAR, 1, 3, U, ,
+, 65, JUL, , 1, , , ,
+, 65, JUN, , 6, , , ,
+, 75, SEP, NOV, 1, 3, U, , Science Fiction
+, 43, JUL, , 29, , U, , Jules Verne Magazine
+, 41, ???, , 38, , U, , ^
+71-75, , JAN, OCT, 350, 356, U, JAN; APR; SEP; DEC; FEB; APR; [** unreadable], ^
+-----File: scn.21.jpg---\dnawi\kevinr\-------------------------------------
+
+-----File: scn.3.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB & KCR
+Time Start: 12:27
+Time End:
+Collection: SR
+Magazine Name: Atlan
+Structure: other (unknown)
+Notes: German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 1, 15, B,
+, , , , 31, 45, B,
+-----File: scn.4.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: JSB & KCR
+Time Start: 12:26
+Time End:
+Collection: SR
+Magazine Name: Abehtiever Im Weltenraum
+Structure: other (unknown)
+Notes: German
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, , , , 5, 11, B,
+, , , , 12, 19, B,
+-----File: scn.5.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: 1533
+Time End: 1534
+Collection: circulating
+Magazine Name: An Argosy Special: SF
+Structure: other (not given; I suspect this is unique)
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1977, , , , , U,
+-----File: scn.6.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: 1535
+Time End: 1535
+Collection: circulating
+Magazine Name: Ancient Astronauts
+Structure: other (9x/year)
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+3, 1977, Nov, Nov, 6, 6, U,
+-----File: scn.7.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: 1528
+Time End: 1531
+Collection: circulating
+Magazine Name: Auroalis
+Structure: other (June and Dec (2x/year))
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+, 1994, ?, ?, 13, 13, U,
+, 1995, ?, ?, 16, 16, U,
+-----File: scn.8.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2008
+Workers: Sharmin, Kelsey
+Time Start: 1526
+Time End: 1526
+Collection: circulating
+Magazine Name: Asimov's SF Adventure Mag
+Structure: quarterly
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+1, 1978, Fall, Fall, 1, 1, U,
+-----File: scn.9.jpg---\dnawi\kevinr\--------------------------------------
+MITSFS Magazine Inventory
+
+Date: November 12, 2006
+Workers: Sharmin, Kelsey
+Time Start: <-
+Time End: 1524
+Collection: circulating
+Magazine Name: Analog Science Fact + Science Fiction
+Structure: other (13x yearly (extra noted below), changes to 2 special double issues/year in 1991)
+Notes:
+
+Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes
+101, 1981, Jan, Dec, 1, 13, U, twice in March
+102, 1982, Jan, Dec, 1, 13, U, twice in Sept
+103, 1983, Jan, Dec, 1, 13, U, twice in Sept
+104, 1984, Jan, Dec, 1, 13, U, twice in Dec
+105, 1985, Jan, Dec, 1, 13, U, twice in Dec
+106, 1986, Jan, Dec, 1, 13, U, twice in Dec
+107, 1987, Jan, Dec, 1, 13, U, twice in Dec
+108, 1988, Jan, Dec, 1, 13, U, twice in Dec
+109, 1989, Jan, Dec, 1, 13, U, twice in Dec
+110, 1990, Jan, Dec, 1, 14, U, twice in Dec; Jan = 60th anniversary double = issues 1+2
+111, 1991, Jan, Dec, 1, 15, U, special double issue in Jan = issues 1+2; in July = issues 8+9; twice in December
+112, 1992, Jan, Dec, 1, 15, U, Jan, July doubles, twice in Dec
+113, 1993, Jan, Dec, 1, 15, U, ^
+114, 1994, Jan, Dec, 1, 15, U, ^
+115, 1995, Jan, Dec, 1, 15, U, ^
+116, 1996, Jan, Dec, 1, 14, U, 2 double issues (Jan, July); so twice issue
+117, 1997, Jan, Sept, 1, 9, U, missing May; July/Aug merged double = issues 7+8
+118, 1998, July, Oct, 7, 10, U, missing Sept; July/Aug double merged issues

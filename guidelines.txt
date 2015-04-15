@@ -1,0 +1,46 @@
+| <p><b>I apologize for the craptastic quality of these images -- the scans were especially nice, but for some unknown reason the transition from PDF to JPEG just killed them.  If something isn't readable, flag it, and we'll track it down in one of the later stages, possibly by pulling out the original paper sheet.</b>
+
+<p>Keyholder initials quick reference: <tt>JSB KKB KLB AMB JFC ALC CAK CC DRK ESK ARM JPM DAV PP SCP KCR SIR MKR KR BTS KAT WDS JHS CJT YT JPW</tt></p>
+
+<p>Our priorities are first to accurately enter what the Magventory-takers wrote down into an electronic format, and only second to enter them into a machine-readable format. This means that, unless otherwise noted, you should err on the side of accuracy.
+
+<p>Mark comments to the Magventory-running-people with asterisks, as detailed elsewhere in these guidelines, either by marking the exact place with an asterisk (<tt>*</tt>), or by making a parenthetical with more asterisks, eg. <tt>[** N.B. ... ]</tt>.
+
+<p>The default file should have an empty set of fields which correspond to the fields at the top of the page. Fill them in as appropriate. (I've added a Date field, which should be filled with the date at the top.)
+
+<p>The table will translate to a comma-separated value table in the text. Whitespace is irrelevant, but I prefer a space after a comma. Don't worry about making things line up vertically. Only use a newline (Enter, Return, whatever) at the end of the row of the table, even if it wraps around to the beginning of the next line in the entry box. Don't use tabs. Ignore what the Proofreaders Guidelines say about tables.
+
+<p>If there are empty columns in the sheet, leave them empty in the text you enter -- eg. <tt>, , 3, , 19-9, , U, </tt>
+
+<p>If there is a column added on the sheet, please add it at the end of the fields, and add a column heading to the list at the top of the file, eg. <tt>Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, *Foo*</tt>.
+
+<p>It says this elsewhere in these Guidelines, but, use ASCII everywhere -- no smart-quotes or LaTeX or other markup languages.  If accented characters are used in the image, use accented characters in the text.
+
+<p>Use a caret mark (<tt>^</tt>) in place of ditto marks or a line drawn down a column.
+
+<p>Replace commas in fields in the image with semicolons.  (Eg. <tt>[1, 2, 7, 9]</tt> should become <tt>[1; 2; 7; 9]</tt>.)
+
+<p>If you have any questions, e-mail me, kevinr (at) mit (dot) edu. Don't post on the forums, because I won't be watching those. |
+| <p>Keyholder initials quick reference: <tt>JSB KKB KLB AMB JFC ALC CAK CC DRK ESK ARM JPM DAV PP SCP KCR SIR MKR KR BTS KAT WDS JHS CJT YT JPW</tt></p>
+
+<p>Our priorities are first to accurately enter what the Magventory-takers wrote down into an electronic format, and only second to enter them into a machine-readable format. This means that, unless otherwise noted, you should err on the side of accuracy.
+
+<p>Mark comments to the Magventory-running-people with asterisks, as detailed elsewhere in these guidelines, either by marking the exact place 
+with an asterisk (<tt>*</tt>), or by making a parenthetical with more asterisks, eg. <tt>[** N.B. ... ]</tt>.
+
+<p>The default file should have an empty set of fields which correspond to the fields at the top of the page. Fill them in as appropriate. (I've added a Date field, which should be filled with the date at the top.)
+
+<p>The table will translate to a comma-separated value table in the text. Whitespace is irrelevant, but I prefer a space after a comma. Don't worry about making things line up vertically. Only use a newline (Enter, Return, whatever) at the end of the row of the table, even if it wraps around to the beginning of the next line in the entry box. Don't use tabs. Ignore what the Proofreaders Guidelines say about tables.
+
+<p>If there are empty columns in the sheet, leave them empty in the text you enter -- eg. <tt>, , 3, , 19-9, , U, </tt>
+
+<p>If there is a column added on the sheet, please add it at the end of the fields, and add a column heading to the list at the top of the file, eg. <tt>Volume, Year, Date Start, Date End, Issue Start, Issue End, Type, Notes, *Foo*</tt>.
+
+<p>It says this elsewhere in these Guidelines, but, use ASCII everywhere -- no smart-quotes or LaTeX or other markup languages.  If accented characters are used in the image, use accented characters in the text.
+
+<p>Use a caret mark (<tt>^</tt>) in place of ditto marks or a line drawn down a column.
+
+<p>Replace commas in fields in the image with semicolons.  (Eg. <tt>[1, 2, 7, 9]</tt> should become <tt>[1; 2; 7; 9]</tt>.)
+
+<p>If you have any questions, e-mail me, kevinr (at) mit (dot) edu. Don't post on the forums, because I won't be watching those. |
+
